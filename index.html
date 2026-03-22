@@ -6,7 +6,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1, viewport-fit=cover"
     />
-    <meta name="theme-color" content="#212121" />
+    <meta name="theme-color" content="#000000" />
     <meta
       name="description"
       content="Interactive analyses of Cormac McCarthy's Blood Meridian."
@@ -37,7 +37,7 @@
         <div
           class="sticky-nav difference d-flex justify-content-between align-items-center"
         >
-          <a class="logo text-decoration-none" href="#">&amp;amp</a>
+          <a class="logo text-decoration-none" href="#color-spectrum">&amp;amp</a>
           <button
             type="button"
             id="nav-btn"
@@ -92,20 +92,23 @@
                 </div>
               </div>
               <div
-                class="nav-col nav-menu col-12 col-md-5 bg-green d-flex align-items-center pt-5 pb-3 pb-md-5 px-3 px-md-5 order-0 order-md-1"
+                class="nav-col nav-menu col-12 col-md-5 bg-black d-flex align-items-center pt-5 pb-3 pb-md-5 px-3 px-md-5 order-0 order-md-1"
               >
                 <ul class="nav-items list-unstyled">
                   <li class="pb-3">
-                    <a class="text-decoration-none" href="#">Overview</a>
+                    <a class="text-decoration-none" href="#color-spectrum"
+                      >Color spectrum</a
+                    >
                   </li>
                   <li class="pb-3">
-                    <a class="text-decoration-none" href="#">Close reading</a>
-                  </li>
-                  <li class="pb-3">
-                    <a class="text-decoration-none" href="#">Contexts</a>
+                    <a class="text-decoration-none" href="#color-families"
+                      >By family</a
+                    >
                   </li>
                   <li>
-                    <a class="text-decoration-none" href="#">Bibliography</a>
+                    <a class="text-decoration-none" href="#color-concordance"
+                      >Concordance</a
+                    >
                   </li>
                 </ul>
               </div>
@@ -132,14 +135,118 @@
         </div>
       </section>
 
-      <section class="two" aria-hidden="true"></section>
-      <section class="three" aria-hidden="true"></section>
-      <section class="four" aria-hidden="true"></section>
-      <section class="five" aria-hidden="true"></section>
+      <section
+        id="color-spectrum"
+        class="two color-section color-analysis-section"
+        aria-labelledby="color-spectrum-heading"
+      >
+        <div class="container py-5">
+          <div class="color-section__intro">
+            <h2 id="color-spectrum-heading" class="color-section__title">
+              BREAKDOWN BY COLOR
+            </h2>
+            <p id="color-chart-label" class="color-section__lead">
+              Loading spectral breakdown…
+            </p>
+            <p id="color-meta" class="color-section__meta small"></p>
+          </div>
+
+          <div
+            class="color-chart"
+            role="img"
+            aria-label="Bar chart of color-word frequency by spectral family"
+          >
+            <div class="color-chart__stage">
+              <div id="color-chart-bars" class="color-chart__bars"></div>
+              <div class="color-chart__floor" aria-hidden="true"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        id="color-families"
+        class="three color-analysis-section color-deep color-deep--families"
+        aria-labelledby="color-families-heading"
+      >
+        <div class="container py-5">
+          <h2 id="color-families-heading" class="color-deep__title">
+            By spectral family
+          </h2>
+          <p id="color-deep-meta" class="color-deep__meta"></p>
+          <p class="color-deep__lead">
+            Each card lists lemmas attributed to that family (Tier A longest-match
+            rules). Counts match the overview chart. Name-like hits use
+            <code>data/name-exclusions.json</code> and casing rules. Verb uses of lemmas
+            that are also verbs (e.g. <em>to snow</em>, <em>will not rust</em>) use
+            <code>data/verb-homograph-exclusions.json</code>.             Coin and bullion phrases for <em>gold</em> (and similar) use
+            <code>data/money-metal-exclusions.json</code>; other material / fruit /
+            homonym collisions use <code>data/homonym-exclusions.json</code>.
+          </p>
+          <div id="color-family-cards" class="row g-4"></div>
+        </div>
+      </section>
+
+      <section
+        id="color-concordance"
+        class="four color-analysis-section color-deep color-deep--concord"
+        aria-labelledby="color-concordance-heading"
+      >
+        <div class="container py-5">
+          <h2 id="color-concordance-heading" class="color-deep__title">
+            Concordance
+          </h2>
+          <p class="color-deep__lead">
+            Full sentence for every hit; the matched span is highlighted. The line after
+            the hit lists the next few words as a rough hint of what follows (not a parsed
+            grammatical object).
+          </p>
+          <p id="concord-count" class="color-deep__meta mb-2"></p>
+
+          <div class="color-concordance__filters">
+            <div>
+              <label class="form-label small mb-1" for="concord-family-filter"
+                >Family</label
+              >
+              <select
+                id="concord-family-filter"
+                class="form-select form-select-sm"
+                aria-label="Filter by spectral family"
+              ></select>
+            </div>
+            <div>
+              <label class="form-label small mb-1" for="concord-word-filter"
+                >Lemma</label
+              >
+              <select
+                id="concord-word-filter"
+                class="form-select form-select-sm"
+                aria-label="Filter by lemma"
+              ></select>
+            </div>
+            <div>
+              <label class="form-label small mb-1" for="concord-text-filter"
+                >Text contains</label
+              >
+              <input
+                type="search"
+                id="concord-text-filter"
+                class="form-control form-control-sm color-concordance__filters__text"
+                placeholder="Substring in sentence…"
+                autocomplete="off"
+              />
+            </div>
+          </div>
+
+          <div id="concord-list" class="color-concordance__list"></div>
+        </div>
+      </section>
 
       <div class="custom-cursor" aria-hidden="true"></div>
     </div>
 
+    <script src="js/color-data.js"></script>
+    <script src="js/color-section.js"></script>
+    <script src="js/color-deep.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.1/TweenMax.min.js"></script>
     <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/409445/animateAnything.js"></script>

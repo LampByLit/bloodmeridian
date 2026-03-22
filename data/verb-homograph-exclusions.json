@@ -1,0 +1,11 @@
+{
+  "notes": "Single-word lexicon lemmas that are also common English verbs. The analyzer blocks chromatic hits that fall inside: (1) to X, (2) modal + X, (3) modal + not + X, (4) do/does/did + optional not + X. Expand this list if a lemma is miscounted as a verb elsewhere.",
+  "lemmas": [
+    "snow",
+    "rust",
+    "green",
+    "silver",
+    "copper",
+    "tan"
+  ]
+}

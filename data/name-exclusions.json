@@ -1,0 +1,13 @@
+{
+  "notes": "Whole phrases blocked before color matching (lowercased in the text). Add titles, epithets, verb+lemma collisions (e.g. to snow), or other strings where a color lemma is not chromatic.",
+  "phrases": [
+    "reverend green",
+    "captain white",
+    "david brown",
+    "brown brothers",
+    "charlie brown",
+    "black jackson",
+    "white man jackson",
+    "black and white jacksons"
+  ]
+}

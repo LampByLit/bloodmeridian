@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap");
 
 :root {
-  --bm-black: #212121;
+  --bm-black: #000;
   --bm-white: #efefef;
   --bm-pearl: #fff;
   --bm-purple: #e8d1f6;
@@ -30,6 +30,8 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   overflow-x: hidden;
+  /* Fixed nav + hash links: keep section headings out from under the bar */
+  scroll-padding-top: calc(var(--bm-nav-top) + 4.5rem);
 }
 
 body {
@@ -38,10 +40,11 @@ body {
 
 html,
 body {
-  background: var(--bm-white);
-  color: var(--bm-black);
-  font-family: "Montserrat", sans-serif;
+  background: var(--bm-black);
+  color: #e5e5e5;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
+  font-weight: 700;
   min-height: 100%;
   overflow-x: hidden;
 }
@@ -134,9 +137,8 @@ a.green {
 }
 
 .bg-topographic {
-  background-image: url(https://assets.codepen.io/319606/bg-topographic.svg);
-  background-size: 5000px;
-  opacity: 0.1;
+  background-image: none;
+  opacity: 0;
   pointer-events: none;
 }
 
@@ -179,6 +181,12 @@ a.green {
 .sticky-nav.difference {
   background-repeat: no-repeat;
   background-size: contain;
+  /* Blend only the controls, not the full-width strip — otherwise text
+     scrolling behind the bar is composited with difference and looks obscured. */
+}
+
+.sticky-nav.difference .logo,
+.sticky-nav.difference #nav-btn {
   mix-blend-mode: difference;
 }
 
@@ -247,7 +255,7 @@ a.green {
 }
 
 #takeover-nav .nav-col a:hover {
-  color: var(--bm-black);
+  color: var(--bm-green);
 }
 
 #takeover-nav .nav-contact .content {
@@ -285,10 +293,10 @@ a.green {
   height: 32%;
   background: linear-gradient(
     to bottom,
-    rgba(33, 33, 33, 0) 0%,
-    rgba(33, 33, 33, 0.12) 35%,
-    rgba(33, 33, 33, 0.55) 72%,
-    rgba(33, 33, 33, 0.82) 100%
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.14) 35%,
+    rgba(0, 0, 0, 0.58) 72%,
+    rgba(0, 0, 0, 0.9) 100%
   );
   z-index: 1;
   border-bottom-right-radius: 15vw;
@@ -360,7 +368,7 @@ section.hero::before {
 
 section.hero::after {
   content: "";
-  background-color: var(--bm-white);
+  background-color: var(--bm-black);
   position: absolute;
   top: 100%;
   left: 0;
@@ -370,19 +378,369 @@ section.hero::after {
 }
 
 section.two {
-  background-color: var(--bm-white);
+  background-color: var(--bm-black);
+}
+
+/* --- Color spectrum (Tier A analysis) --- */
+section.color-section {
+  background: var(--bm-black);
+  color: #e8e8e8;
+  min-height: auto;
+}
+
+/* First content block after hero: clear fixed sticky nav (logo + menu height). */
+#color-spectrum .container {
+  padding-top: calc(var(--bm-nav-top) + 4.5rem);
+}
+
+#color-spectrum-heading {
+  scroll-margin-top: calc(var(--bm-nav-top) + 1rem);
+}
+
+#color-spectrum .color-section__intro {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+#color-spectrum .color-section__intro .color-section__title {
+  margin-bottom: 0.65rem;
+}
+
+#color-spectrum .color-section__intro .color-section__lead {
+  max-width: none;
+  margin-bottom: 0.35rem;
+}
+
+#color-spectrum .color-section__intro .color-section__meta {
+  margin-bottom: 0;
+}
+
+#color-spectrum .color-section__note {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+section.color-section .color-section__title {
+  font-size: clamp(1.75rem, 4vw, 2.75rem);
+  letter-spacing: 0.02em;
+  color: #f5f5f5;
+  margin-bottom: 0.75rem;
+}
+
+section.color-section .color-section__lead {
+  max-width: 48rem;
+  color: #b0b0b0;
+  font-weight: 400;
+  margin-bottom: 0.35rem;
+}
+
+section.color-section .color-section__meta {
+  color: #707070;
+  margin-bottom: 2rem;
+}
+
+section.color-section .color-section__subtitle {
+  font-size: 1.25rem;
+  color: #d4d4d4;
+  margin-bottom: 0.5rem;
+}
+
+section.color-section .color-section__note {
+  color: #8a8a8a;
+  max-width: 42rem;
+  margin-bottom: 1rem;
+}
+
+section.color-section .color-section__note em {
+  color: #c4c4c4;
+  font-style: italic;
+}
+
+.color-chart {
+  perspective: 900px;
+  margin-top: 0.5rem;
+}
+
+.color-chart__stage {
+  position: relative;
+  padding-bottom: 2.5rem;
+}
+
+.color-chart__bars {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: clamp(0.2rem, 1.2vw, 0.45rem);
+  min-height: 240px;
+  padding: 0 0.25rem;
+  transform: rotateX(6deg);
+  transform-origin: center bottom;
+}
+
+.color-chart__col {
+  flex: 1 1 0;
+  max-width: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
+}
+
+.color-chart__bar-wrap {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: stretch;
+  /* Explicit height so % heights on .color-chart__bar resolve (min-height alone does not). */
+  height: clamp(11rem, 32vw, 15rem);
+  min-height: 0;
+}
+
+.color-chart__bar {
+  width: 100%;
+  margin: 0 auto;
+  height: var(--bar-h, 8%);
+  min-height: 6px;
+  border-radius: 3px 3px 1px 1px;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--bar-color, #888) 92%, #fff) 0%,
+    var(--bar-color, #888) 45%,
+    color-mix(in srgb, var(--bar-color, #888) 55%, #000) 100%
+  );
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.12),
+    0 4px 12px rgba(0, 0, 0, 0.45);
+  position: relative;
+  transition: box-shadow 0.2s ease;
+}
+
+.color-chart__bar--glow {
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 0 24px color-mix(in srgb, var(--bar-color, #fff) 35%, transparent),
+    0 6px 20px rgba(0, 0, 0, 0.5);
+}
+
+.color-chart__n {
+  position: absolute;
+  left: 50%;
+  top: 0.35rem;
+  transform: translateX(-50%);
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.92);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.color-chart__cap {
+  display: block;
+  margin-top: 0.65rem;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.15;
+  color: #9a9a9a;
+  word-break: break-word;
+}
+
+.color-chart__floor {
+  height: 2.25rem;
+  margin-top: -0.5rem;
+  border-radius: 4px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.04) 0%,
+    transparent 55%
+  );
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06);
+  opacity: 0.9;
+}
+
+@supports not (color: color-mix(in srgb, red, blue)) {
+  .color-chart__bar {
+    background: var(--bar-color, #888);
+  }
 }
 
 section.three {
-  background-color: var(--bm-purple);
+  background-color: var(--bm-black);
 }
 
 section.four {
-  background-color: var(--bm-green);
+  background-color: var(--bm-black);
 }
 
-section.five {
-  background-color: var(--bm-blue);
+/* --- Color analysis: families, concordance --- */
+section.color-analysis-section {
+  min-height: auto !important;
+  height: auto !important;
+}
+
+.color-deep {
+  color: #e8e8e8;
+}
+
+.color-deep__title {
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  font-weight: 900;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.75rem;
+  color: #f5f5f5;
+}
+
+.color-deep__lead {
+  max-width: 44rem;
+  color: #b0b0b0;
+  margin-bottom: 1.75rem;
+}
+
+.color-deep__meta {
+  font-size: 0.85rem;
+  color: #909090;
+  margin-bottom: 1.5rem;
+}
+
+.color-family-card {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+  padding: 1.25rem 1.35rem;
+  height: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 28px rgba(0, 0, 0, 0.45);
+}
+
+.color-family-card__head {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.color-family-card__swatch {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 6px;
+  flex-shrink: 0;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.color-family-card__label {
+  font-weight: 800;
+  font-size: 1.1rem;
+  margin: 0;
+  color: #f0f0f0;
+}
+
+.color-family-card__count {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #9a9a9a;
+}
+
+.color-family-card__table {
+  width: 100%;
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+.color-family-card__table td {
+  padding: 0.2rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  color: #d0d0d0;
+}
+
+.color-family-card__table tr:last-child td {
+  border-bottom: none;
+}
+
+.color-family-card__table td:last-child {
+  text-align: right;
+  font-weight: 700;
+}
+
+.color-deep .form-label {
+  color: #b0b0b0;
+}
+
+.color-deep .form-control,
+.color-deep .form-select {
+  background-color: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.14);
+  color: #ececec;
+}
+
+.color-deep .form-control:focus,
+.color-deep .form-select:focus {
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: var(--bm-green);
+  color: #fff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 188, 212, 0.2);
+}
+
+.color-deep .form-control::placeholder {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.color-concordance__filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: flex-end;
+  margin-bottom: 1.25rem;
+}
+
+.color-concordance__filters .form-select,
+.color-concordance__filters .form-control {
+  max-width: 14rem;
+  border-radius: 8px;
+}
+
+.color-concordance__filters__text {
+  max-width: 18rem;
+}
+
+.color-concordance__list {
+  max-height: min(70vh, 920px);
+  overflow-y: auto;
+  padding-right: 0.25rem;
+}
+
+.color-concordance__item {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.65rem;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-left: 4px solid var(--concord-accent, #29639c);
+  color: #e0e0e0;
+}
+
+.color-concordance__item footer {
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  color: #9a9a9a;
+}
+
+.concordance__hit {
+  background: rgba(255, 255, 255, 0.14);
+  color: inherit;
+  font-weight: 700;
+  padding: 0 0.1em;
+}
+
+section.color-deep--families,
+section.color-deep--concord {
+  background: var(--bm-black);
 }
 
 @media screen and (min-width: 1200px) {
@@ -391,7 +749,7 @@ section.five {
     height: 75vh;
   }
 
-  section:not(.hero) {
+  section:not(.hero):not(.color-analysis-section) {
     min-height: 800px;
     height: 800px;
   }
@@ -403,11 +761,11 @@ section.five {
   }
 
   #takeover-nav .nav-menu a {
-    color: var(--bm-black);
+    color: var(--bm-white);
   }
 
   #takeover-nav .nav-menu a:hover {
-    color: var(--bm-white);
+    color: var(--bm-green);
   }
 
   #takeover-nav .nav-contact {
@@ -452,7 +810,7 @@ section.five {
     line-height: 1.05;
   }
 
-  section:not(.hero) {
+  section:not(.hero):not(.color-analysis-section) {
     min-height: 40vh;
     min-height: 320px;
   }
