@@ -2,11 +2,11 @@
   "meta": {
     "sourcePath": "media/bloodmeridian.md",
     "tier": "A",
-    "tierAHits": 437,
+    "tierAHits": 435,
     "tierBHits": 0,
-    "generatedAt": "2026-03-22T02:26:40.592Z",
+    "generatedAt": "2026-03-22T02:39:13.405Z",
     "sentenceCount": 7680,
-    "totalHits": 437,
+    "totalHits": 435,
     "notes": "Tier A: explicit lemmas. Tier B: gloss metonyms where they do not overlap Tier A. Name-like uses: data/name-exclusions.json + Title Case. Gold/silver money: data/money-metal-exclusions.json. Material/fruit/other homonyms: data/homonym-exclusions.json. Verbs: data/verb-homograph-exclusions.json.",
     "nameExclusions": {
       "phraseCount": 8
@@ -59,7 +59,7 @@
   ],
   "gloss": null,
   "byFamily": {
-    "neutral": 285,
+    "neutral": 283,
     "red": 55,
     "orange": 5,
     "yellow": 16,
@@ -85,11 +85,9 @@
       "tan": 2,
       "silver": 3,
       "snow": 27,
-      "ink": 1,
       "wan": 2,
       "bleached": 1,
       "brassy": 1,
-      "soot": 1,
       "snowy": 1
     },
     "red": {
@@ -173,7 +171,6 @@
     "pinkish": 1,
     "snow": 27,
     "cobalt": 1,
-    "ink": 1,
     "blond": 1,
     "pink": 8,
     "wan": 2,
@@ -189,7 +186,6 @@
     "reddened": 1,
     "reddish": 1,
     "amber": 1,
-    "soot": 1,
     "reddening": 1,
     "auburn": 1,
     "snowy": 1
@@ -2140,17 +2136,6 @@
       "sentence": "He'd ground the charcoal to a powder in the hollow of a rock, you could have made ink of it.",
       "tier": "A",
       "contextAfter": "to a powder in the hollow of a rock, you",
-      "note": ""
-    },
-    {
-      "sentenceId": 3159,
-      "word": "ink",
-      "family": "neutral",
-      "start": 82,
-      "end": 85,
-      "sentence": "He'd ground the charcoal to a powder in the hollow of a rock, you could have made ink of it.",
-      "tier": "A",
-      "contextAfter": "of it.",
       "note": ""
     },
     {
@@ -4241,17 +4226,6 @@
       "sentence": "This ferry was taken over by the Yumas and operated for them by a man named Callaghan, but within days it was burned and Callaghan's headless body floated anonymously downriver, a vulture standing between the shoulderblades in clerical black, silent rider to the sea.",
       "tier": "A",
       "contextAfter": "silent rider to the sea.",
-      "note": ""
-    },
-    {
-      "sentenceId": 5877,
-      "word": "soot",
-      "family": "neutral",
-      "start": 89,
-      "end": 93,
-      "sentence": "Until at last a bomb in its breeches went off and blew the thing to pieces in a stink of soot and sulphur and the men cheered and small boys threw a few last stones at the blackened remnants dangling from the noose.",
-      "tier": "A",
-      "contextAfter": "and sulphur and the men cheered and small boys threw",
       "note": ""
     },
     {
