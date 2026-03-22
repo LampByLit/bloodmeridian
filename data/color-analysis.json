@@ -2,11 +2,11 @@
   "meta": {
     "sourcePath": "media/bloodmeridian.md",
     "tier": "A",
-    "tierAHits": 680,
+    "tierAHits": 655,
     "tierBHits": 0,
-    "generatedAt": "2026-03-22T01:59:20.239Z",
+    "generatedAt": "2026-03-22T02:15:35.762Z",
     "sentenceCount": 7680,
-    "totalHits": 680,
+    "totalHits": 655,
     "notes": "Tier A: explicit lemmas. Tier B: gloss metonyms where they do not overlap Tier A. Name-like uses: data/name-exclusions.json + Title Case. Gold/silver money: data/money-metal-exclusions.json. Material/fruit/other homonyms: data/homonym-exclusions.json. Verbs: data/verb-homograph-exclusions.json.",
     "nameExclusions": {
       "phraseCount": 8
@@ -59,7 +59,7 @@
   ],
   "gloss": null,
   "byFamily": {
-    "neutral": 523,
+    "neutral": 498,
     "red": 60,
     "orange": 5,
     "yellow": 16,
@@ -73,7 +73,7 @@
       "dark": 152,
       "darker": 5,
       "blackness": 5,
-      "black": 117,
+      "black": 92,
       "gray": 43,
       "steel": 7,
       "darkness": 47,
@@ -149,7 +149,7 @@
     "dark": 152,
     "darker": 5,
     "blackness": 5,
-    "black": 117,
+    "black": 92,
     "gray": 43,
     "blue": 43,
     "steel": 7,
@@ -645,17 +645,6 @@
       "sentence": "They were sopping water over the black lacquerwork and one of them raised up and turned to look at him.",
       "tier": "A",
       "contextAfter": "lacquerwork and one of them raised up and turned to",
-      "note": ""
-    },
-    {
-      "sentenceId": 744,
-      "word": "black",
-      "family": "neutral",
-      "start": 11,
-      "end": 16,
-      "sentence": "called the black.",
-      "tier": "A",
-      "contextAfter": ".",
       "note": ""
     },
     {
@@ -2056,17 +2045,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2110,
-      "word": "black",
-      "family": "neutral",
-      "start": 150,
-      "end": 155,
-      "sentence": "The soldiers squatted on their heels and watched each movement in this charade with the same dull interest and at length the judge hove up before the black.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 2111,
       "word": "dark",
       "family": "neutral",
@@ -2075,28 +2053,6 @@
       "sentence": "That dark vexed face.",
       "tier": "A",
       "contextAfter": "vexed face.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2122,
-      "word": "black",
-      "family": "neutral",
-      "start": 129,
-      "end": 134,
-      "sentence": "The judge took him about the shoulders and leaned and spoke into his ear and the sergeant nodded and stepped backand saluted the black.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 2134,
-      "word": "black",
-      "family": "neutral",
-      "start": 4,
-      "end": 9,
-      "sentence": "The black was sweating.",
-      "tier": "A",
-      "contextAfter": "was sweating.",
       "note": ""
     },
     {
@@ -2298,17 +2254,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2294,
-      "word": "black",
-      "family": "neutral",
-      "start": 4,
-      "end": 9,
-      "sentence": "The black was squatting by the fire watching and when the juggler fanned the cards he rose and came forward.",
-      "tier": "A",
-      "contextAfter": "was squatting by the fire watching and when the juggler",
-      "note": ""
-    },
-    {
       "sentenceId": 2307,
       "word": "dark",
       "family": "neutral",
@@ -2317,28 +2262,6 @@
       "sentence": "The dark querent stood solemnly, like a man arraigned.",
       "tier": "A",
       "contextAfter": "querent stood solemnly, like a man arraigned.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2309,
-      "word": "black",
-      "family": "neutral",
-      "start": 104,
-      "end": 109,
-      "sentence": "The judge sat upwind from the fire naked to the waist, himself like some great pale deity, and when the black's eyes reached his he smiled.",
-      "tier": "A",
-      "contextAfter": "'s eyes reached his he smiled.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2317,
-      "word": "black",
-      "family": "neutral",
-      "start": 50,
-      "end": 55,
-      "sentence": "The woman raised her voice and spoke againand the black turned to his mates.",
-      "tier": "A",
-      "contextAfter": "turned to his mates.",
       "note": ""
     },
     {
@@ -2361,17 +2284,6 @@
       "sentence": "Wrinkle not thy sable brow at me, my friend.",
       "tier": "A",
       "contextAfter": "brow at me, my friend.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2344,
-      "word": "black",
-      "family": "neutral",
-      "start": 106,
-      "end": 111,
-      "sentence": "Now a number of the company seated there seemed to weigh the judge's words and some turned to look at the black.",
-      "tier": "A",
-      "contextAfter": ".",
       "note": ""
     },
     {
@@ -2449,17 +2361,6 @@
       "sentence": "They made camp in a grove of cottonwoods across the creek just beyond the walls of the town and with dark they drifted in small groups through the smoky streets.",
       "tier": "A",
       "contextAfter": "they drifted in small groups through the smoky streets.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2489,
-      "word": "black",
-      "family": "neutral",
-      "start": 4,
-      "end": 9,
-      "sentence": "The black stood stripped tothe waist behind the tent and as the juggler turned with a sweep of his arm the girl gave him a shove and he leaped from the tent and strode about with strange posturings under the lapsing flare of the torches.",
-      "tier": "A",
-      "contextAfter": "stood stripped tothe waist behind the tent and as the",
       "note": ""
     },
     {
@@ -2617,17 +2518,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2633,
-      "word": "black",
-      "family": "neutral",
-      "start": 41,
-      "end": 46,
-      "sentence": "Then he nudged his horse forward and the black fell in with his pale wayfellows and all rode on as before.",
-      "tier": "A",
-      "contextAfter": "fell in with his pale wayfellows and all rode on",
-      "note": ""
-    },
-    {
       "sentenceId": 2660,
       "word": "blue",
       "family": "blue",
@@ -2672,17 +2562,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2673,
-      "word": "black",
-      "family": "neutral",
-      "start": 27,
-      "end": 32,
-      "sentence": "He was sitting so when the black approached the fire and threw down his apishamore and sat upon it and fell to stoking his pipe.",
-      "tier": "A",
-      "contextAfter": "approached the fire and threw down his apishamore and sat",
-      "note": ""
-    },
-    {
       "sentenceId": 2675,
       "word": "white",
       "family": "neutral",
@@ -2691,39 +2570,6 @@
       "sentence": "But when the white man looked to the other fire he saw that the Delawares and John McGill and the new men in the company had taken their supper there and with a gesture and a slurred oath he warned the black away.",
       "tier": "A",
       "contextAfter": "man looked to the other fire he saw that the",
-      "note": ""
-    },
-    {
-      "sentenceId": 2675,
-      "word": "black",
-      "family": "neutral",
-      "start": 202,
-      "end": 207,
-      "sentence": "But when the white man looked to the other fire he saw that the Delawares and John McGill and the new men in the company had taken their supper there and with a gesture and a slurred oath he warned the black away.",
-      "tier": "A",
-      "contextAfter": "away.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2677,
-      "word": "black",
-      "family": "neutral",
-      "start": 4,
-      "end": 9,
-      "sentence": "The black looked up from his pipebowl.",
-      "tier": "A",
-      "contextAfter": "looked up from his pipebowl.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2678,
-      "word": "black",
-      "family": "neutral",
-      "start": 132,
-      "end": 137,
-      "sentence": "About that fire were men whose eyes gave back the light like coals socketed hot in their skulls and men whose eyes did not, but the black man's eyes stood as corridors for the ferrying through of naked and un-rectified night from what of it lay behind to what was yet to come.",
-      "tier": "A",
-      "contextAfter": "man's eyes stood as corridors for the ferrying through of",
       "note": ""
     },
     {
@@ -2738,17 +2584,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2685,
-      "word": "black",
-      "family": "neutral",
-      "start": 9,
-      "end": 14,
-      "sentence": "said the black.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 2686,
       "word": "black",
       "family": "neutral",
@@ -2757,17 +2592,6 @@
       "sentence": "You dont get your black ass away from this fire I'll kill you graveyard dead.",
       "tier": "A",
       "contextAfter": "ass away from this fire I'll kill you graveyard dead.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2692,
-      "word": "black",
-      "family": "neutral",
-      "start": 4,
-      "end": 9,
-      "sentence": "The black looked once more across the flames at Glanton and then he moved away in the dark.",
-      "tier": "A",
-      "contextAfter": "looked once more across the flames at Glanton and then",
       "note": ""
     },
     {
@@ -2794,17 +2618,6 @@
     },
     {
       "sentenceId": 2697,
-      "word": "black",
-      "family": "neutral",
-      "start": 46,
-      "end": 51,
-      "sentence": "The nearest man to him was Tobin and when the black stepped out of the darkness bearing the bowieknife in both hands like some instrument of ceremony Tobin started to rise.",
-      "tier": "A",
-      "contextAfter": "stepped out of the darkness bearing the bowieknife in both",
-      "note": ""
-    },
-    {
-      "sentenceId": 2697,
       "word": "darkness",
       "family": "neutral",
       "start": 71,
@@ -2823,17 +2636,6 @@
       "sentence": "The white man looked up drunkenly and the black stepped forward and with a single stroke swapt off his head.",
       "tier": "A",
       "contextAfter": "man looked up drunkenly and the black stepped forward and",
-      "note": ""
-    },
-    {
-      "sentenceId": 2698,
-      "word": "black",
-      "family": "neutral",
-      "start": 42,
-      "end": 47,
-      "sentence": "The white man looked up drunkenly and the black stepped forward and with a single stroke swapt off his head.",
-      "tier": "A",
-      "contextAfter": "stepped forward and with a single stroke swapt off his",
       "note": ""
     },
     {
@@ -3021,28 +2823,6 @@
       "sentence": "He undid the girthstraps and loosed the other accoutrements and piled them onto the flames, blankets, saddle, all, the greasy wool and leather sending up a foul gray smoke.",
       "tier": "A",
       "contextAfter": "smoke.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2777,
-      "word": "black",
-      "family": "neutral",
-      "start": 4,
-      "end": 9,
-      "sentence": "The black walked out waving his hat and called them off and he approachedthe yoked horses with the hat outheld and talked to them where they stood trembling until he could reach the trailing straps.",
-      "tier": "A",
-      "contextAfter": "walked out waving his hat and called them off and",
-      "note": ""
-    },
-    {
-      "sentenceId": 2788,
-      "word": "black",
-      "family": "neutral",
-      "start": 68,
-      "end": 73,
-      "sentence": "He directed two of them cut out of the traces and then he waved the black away from the lead horse and wafted his hat at the animals.",
-      "tier": "A",
-      "contextAfter": "away from the lead horse and wafted his hat at",
       "note": ""
     },
     {
@@ -3241,17 +3021,6 @@
       "sentence": "In a night so beclamored with the jackal-yapping of coyotes and the cries of owls the howl of that old dog wolf was the one sound they knew to issue from its right form, a solitary lobo, perhaps gray at the muzzle, hung like a marionette from the moon with his long mouth gibbering.",
       "tier": "A",
       "contextAfter": "at the muzzle, hung like a marionette from the moon",
-      "note": ""
-    },
-    {
-      "sentenceId": 2892,
-      "word": "black",
-      "family": "neutral",
-      "start": 4,
-      "end": 9,
-      "sentence": "The black stood at the door neither in nor out.",
-      "tier": "A",
-      "contextAfter": "stood at the door neither in nor out.",
       "note": ""
     },
     {
@@ -6258,17 +6027,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5578,
-      "word": "black",
-      "family": "neutral",
-      "start": 87,
-      "end": 92,
-      "sentence": "The good book says that he that lives by the sword shall perish by the sword, said the black.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 5671,
       "word": "reddish",
       "family": "red",
@@ -6654,28 +6412,6 @@
       "note": ""
     },
     {
-      "sentenceId": 6136,
-      "word": "black",
-      "family": "neutral",
-      "start": 4,
-      "end": 9,
-      "sentence": "The black man Jackson came out of one of the stone bunkers dressed in a similar garb and stood beside him.",
-      "tier": "A",
-      "contextAfter": "man Jackson came out of one of the stone bunkers",
-      "note": ""
-    },
-    {
-      "sentenceId": 6144,
-      "word": "black",
-      "family": "neutral",
-      "start": 12,
-      "end": 17,
-      "sentence": "At dawn the black walked out to the landing and stood uri ating i춏 n the river.",
-      "tier": "A",
-      "contextAfter": "walked out to the landing and stood uri ating i춏",
-      "note": ""
-    },
-    {
       "sentenceId": 6159,
       "word": "dark",
       "family": "neutral",
@@ -6717,17 +6453,6 @@
       "sentence": "Completely naked, his hair dyed orange, his face painted black with a crimson line dividing it from widow's peakto chin.",
       "tier": "A",
       "contextAfter": "line dividing it from widow's peakto chin.",
-      "note": ""
-    },
-    {
-      "sentenceId": 6162,
-      "word": "black",
-      "family": "neutral",
-      "start": 140,
-      "end": 145,
-      "sentence": "He stamped his feet twice on the boards and flared his arms like some wild thaumaturge out of an atavistic drama and reached and seized the black by his robes where he lay in the reddening waters and raised him up and stove in his head with his warclub.",
-      "tier": "A",
-      "contextAfter": "by his robes where he lay in the reddening waters",
       "note": ""
     },
     {

@@ -161,6 +161,26 @@ function filterMatchesByName(sentence, matches) {
   return matches.filter((m) => !shouldExcludeName(sentence, m.start, m.end));
 }
 
+/**
+ * "The black was …", "called the black.", "the black's eyes", "the black man" — noun epithet
+ * for a Black person, not chromatic. Keep "black" when it is adjective before a noun
+ * ("the black lacquerwork", "the black from old fires") or in coordinate adjectives
+ * ("the black and desiccated shapes").
+ */
+function shouldSkipBlackEpithet(lower, start, end) {
+  if (lower.slice(start, end) !== "black") return false;
+  if (!/\b(the|a)\s+$/.test(lower.slice(0, start))) return false;
+  const rest = lower.slice(end);
+  if (/^\s+from\b/.test(rest)) return false;
+  if (/^\s*'s\b/.test(rest)) return true;
+  if (/^\s+man(?:'s)?\b/.test(rest)) return true;
+  if (/^\s*[.,;!?]/.test(rest)) return true;
+  if (/^\s+(away|by)\b/.test(rest)) return true;
+  const epithetVerb =
+    /^\s+(?:was|were|is|are|am|be|been|being|had|has|have|did|does|do|stood|stand|stands|sat|sit|sits|looked|look|looks|stepped|step|steps|walked|walk|walks|turned|turn|turns|fell|fall|falls|approached|approach|approaches|ceased|said|say|says|spoke|speak|speaks|nodded|nod|nods|answered|answer|answers|moved|move|moves|came|come|comes|went|go|goes|passed|pass|passes|guffawed|snapped|rose|listened|listen|listens|smiled|smile|smiles|began|begin|begins|took|take|takes|gave|give|gives|lay|lies|slept|sleep|sleeps|waited|wait|waits)\b/;
+  return epithetVerb.test(rest);
+}
+
 function stripMarkdown(md) {
   const lines = md.split(/\r?\n/);
   const out = [];
@@ -284,7 +304,10 @@ function main() {
       lex.entries,
       preBlocked
     );
-    const tierAMatches = filterMatchesByName(sentence, tierAMatchesRaw);
+    const tierAMatchesNoEpithet = tierAMatchesRaw.filter(
+      (m) => !shouldSkipBlackEpithet(lower, m.start, m.end)
+    );
+    const tierAMatches = filterMatchesByName(sentence, tierAMatchesNoEpithet);
 
     const blockedForB = [
       ...preBlocked,
