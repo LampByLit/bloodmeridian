@@ -117,7 +117,6 @@
     { "match": "sapphire", "family": "blue" },
     { "match": "indigo", "family": "indigo" },
     { "match": "ultramarine", "family": "indigo" },
-    { "match": "midnight", "family": "indigo" },
     { "match": "violet", "family": "violet" },
     { "match": "purple", "family": "violet" },
     { "match": "purplish", "family": "violet" },

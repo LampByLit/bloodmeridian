@@ -2,17 +2,17 @@
   "meta": {
     "sourcePath": "media/bloodmeridian.md",
     "tier": "A",
-    "tierAHits": 744,
+    "tierAHits": 732,
     "tierBHits": 0,
-    "generatedAt": "2026-03-22T01:42:47.469Z",
+    "generatedAt": "2026-03-22T01:55:00.268Z",
     "sentenceCount": 7680,
-    "totalHits": 744,
+    "totalHits": 732,
     "notes": "Tier A: explicit lemmas. Tier B: gloss metonyms where they do not overlap Tier A. Name-like uses: data/name-exclusions.json + Title Case. Gold/silver money: data/money-metal-exclusions.json. Material/fruit/other homonyms: data/homonym-exclusions.json. Verbs: data/verb-homograph-exclusions.json.",
     "nameExclusions": {
       "phraseCount": 8
     },
     "moneyMetalPhrases": 42,
-    "homonymPhrases": 49,
+    "homonymPhrases": 50,
     "verbHomographLemmas": 6
   },
   "families": [
@@ -59,19 +59,18 @@
   ],
   "gloss": null,
   "byFamily": {
-    "neutral": 576,
+    "neutral": 575,
     "red": 60,
     "orange": 5,
     "yellow": 16,
     "green": 18,
     "blue": 54,
-    "indigo": 13,
+    "indigo": 2,
     "violet": 2
   },
   "byFamilyWords": {
     "neutral": {
       "dark": 199,
-      "snow": 28,
       "darker": 5,
       "blackness": 5,
       "black": 117,
@@ -91,6 +90,7 @@
       "sable": 1,
       "tan": 2,
       "silver": 3,
+      "snow": 27,
       "ink": 1,
       "wan": 2,
       "bleached": 1,
@@ -140,7 +140,6 @@
       "cobalt": 1
     },
     "indigo": {
-      "midnight": 11,
       "indigo": 2
     },
     "violet": {
@@ -149,7 +148,6 @@
   },
   "byWord": {
     "dark": 199,
-    "snow": 28,
     "darker": 5,
     "blackness": 5,
     "black": 117,
@@ -169,7 +167,6 @@
     "iron blue": 1,
     "yellow": 11,
     "pale blue": 5,
-    "midnight": 11,
     "bluish": 3,
     "sun bleached": 1,
     "brown": 4,
@@ -188,6 +185,7 @@
     "silver": 3,
     "indigo": 2,
     "pinkish": 1,
+    "snow": 27,
     "cobalt": 1,
     "ink": 1,
     "blond": 1,
@@ -220,17 +218,6 @@
       "sentence": "Outside lie dark turned fields with rags of snow and darker woods beyond that harbor yet a few last wolves.",
       "tier": "A",
       "contextAfter": "turned fields with rags of snow and darker woods beyond",
-      "note": ""
-    },
-    {
-      "sentenceId": 4,
-      "word": "snow",
-      "family": "neutral",
-      "start": 44,
-      "end": 48,
-      "sentence": "Outside lie dark turned fields with rags of snow and darker woods beyond that harbor yet a few last wolves.",
-      "tier": "A",
-      "contextAfter": "and darker woods beyond that harbor yet a few last",
       "note": ""
     },
     {
@@ -1210,17 +1197,6 @@
       "sentence": "That night they rode through a region electric and wild where strange shapes of soft blue fire ran over the metal of the horses' trappings and the wagonwheels rolled in hoops of fire and little shapes of pale blue light came to perch in the ears of the horses and in the beards of the men.",
       "tier": "A",
       "contextAfter": "light came to perch in the ears of the horses",
-      "note": ""
-    },
-    {
-      "sentenceId": 1279,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 66,
-      "end": 74,
-      "sentence": "All night sheetlightning quaked sourceless to the west beyond the midnight thunder-heads, making a bluish day of the distant desert, the mountains on the sudden skyline stark and black and livid like a land of some other order out there whose true geology was not stone but fear.",
-      "tier": "A",
-      "contextAfter": "thunder-heads, making a bluish day of the distant desert, the",
       "note": ""
     },
     {
@@ -2376,17 +2352,6 @@
       "sentence": "On the slopes were gray stone walls that followed the ridgelines down to where they lay broached and tumbled upon the plain.",
       "tier": "A",
       "contextAfter": "stone walls that followed the ridgelines down to where they",
-      "note": ""
-    },
-    {
-      "sentenceId": 2188,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 190,
-      "end": 198,
-      "sentence": "They did not noon nor did they siesta and the cotton eye of the moon squatted at broad day in the throat of the mountains to the east and they were still riding when it overtook them at its midnight meridian, sketching on the plain below a blue cameo of such dread pil rims clanking north.춇 They spent the night in the corral of a hacienda where all night men kept watchfires burning on the azoteas or roofs.",
-      "tier": "A",
-      "contextAfter": "meridian, sketching on the plain below a blue cameo of",
       "note": ""
     },
     {
@@ -3611,17 +3576,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2952,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 39,
-      "end": 47,
-      "sentence": "And so these parties divided upon that midnight plain, each passing back the way the other had come, pursuing as all travelers must inversions without end upon other men's journeys.",
-      "tier": "A",
-      "contextAfter": "plain, each passing back the way the other had come,",
-      "note": ""
-    },
-    {
       "sentenceId": 2955,
       "word": "charcoal",
       "family": "neutral",
@@ -3663,17 +3617,6 @@
       "sentence": "The expriest had paused to rekindle his pipe, reaching into the raw fire for a coal as did the red scouts and then setting it back among the flames as if it had a proper place there.",
       "tier": "A",
       "contextAfter": "scouts and then setting it back among the flames as",
-      "note": ""
-    },
-    {
-      "sentenceId": 3104,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 97,
-      "end": 105,
-      "sentence": "We reached the foothills in the early evenin and rode up a dry arroyo and pushed on I guess till midnight and made camp with neither wood nor water.",
-      "tier": "A",
-      "contextAfter": "and made camp with neither wood nor water.",
       "note": ""
     },
     {
@@ -4502,17 +4445,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3828,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 41,
-      "end": 49,
-      "sentence": "They rose up and moved on sometime after midnight.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 3829,
       "word": "darkness",
       "family": "neutral",
@@ -4675,17 +4607,6 @@
       "sentence": "Later when the lamps were lit the heads in the soft glare of the up-light assumed the look of tragic masks and within a few days they would become mottled white and altogether leprous with the droppings of the birds that roosted upon them.",
       "tier": "A",
       "contextAfter": "and altogether leprous with the droppings of the birds that",
-      "note": ""
-    },
-    {
-      "sentenceId": 3919,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 3,
-      "end": 11,
-      "sentence": "By midnight the governor had excused himself and members of the band had begun to slip away.",
-      "tier": "A",
-      "contextAfter": "the governor had excused himself and members of the band",
       "note": ""
     },
     {
@@ -5327,17 +5248,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4285,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 3,
-      "end": 11,
-      "sentence": "By midnight when the souls of the dead were rumored to be about the scalphunters were again howling in the streets and discharging their pistols in spite of rain or death and this continued sporadically until dawn.",
-      "tier": "A",
-      "contextAfter": "when the souls of the dead were rumored to be",
-      "note": ""
-    },
-    {
       "sentenceId": 4291,
       "word": "gray",
       "family": "neutral",
@@ -5533,17 +5443,6 @@
       "sentence": "By dark there were a half dozen young goats roasting on spits in the yard behind the hostel, their blackened figures shining in the smoky light.",
       "tier": "A",
       "contextAfter": "there were a half dozen young goats roasting on spits",
-      "note": ""
-    },
-    {
-      "sentenceId": 4516,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 3,
-      "end": 11,
-      "sentence": "By midnight there were fires in the street and dancing and drunkenness and the house rang with the shrill cries of the whores and rival packs of dogs had infiltrated the now partly darkened and smoking yard in the back where a vicious dogfight broke out over the charred racks of goatbones and where the first gunfire of the night erupted and wounded dogs howled and dragged themselves about until Glanton himself went out and killed them with his knife, a lurid scene in the flickering light, the wounded dogs silent save for the pop of their teeth, dragging themselves across the lot like seals or other things and crouching under the walls while Glanton walked them down and clove their skulls with the huge copperbacked beltknife.",
-      "tier": "A",
-      "contextAfter": "there were fires in the street and dancing and drunkenness",
       "note": ""
     },
     {
@@ -6625,17 +6524,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5459,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 3,
-      "end": 11,
-      "sentence": "By midnight the citizens had cleared out and there were armed and naked men pounding on doors demanding drink and women.",
-      "tier": "A",
-      "contextAfter": "the citizens had cleared out and there were armed and",
-      "note": ""
-    },
-    {
       "sentenceId": 5477,
       "word": "black",
       "family": "neutral",
@@ -7095,17 +6983,6 @@
       "sentence": "Whenthe idiot crossed that blue and smoky amphi heatre he was naked once again, shambling춗 past the fires like a balden groundsloth.",
       "tier": "A",
       "contextAfter": "and smoky amphi heatre he was naked once again, shambling춗",
-      "note": ""
-    },
-    {
-      "sentenceId": 5826,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 21,
-      "end": 29,
-      "sentence": "Now the judge on his midnight rounds was passing along at just this place stark naked himself uch encounters being com oner than men suppose or who w뾱 춎 ould survive any crossing by night nd he stepped into the river and seized up the d뾞 rown ng idiot,춊 snatching it aloft by the heels like a great midwife and slapping it on the back to let the water out.",
-      "tier": "A",
-      "contextAfter": "rounds was passing along at just this place stark naked",
       "note": ""
     },
     {
@@ -8107,17 +7984,6 @@
       "sentence": "All across those reaches the yam er and yap of the starving wolves relayed a춎 nd to the north the silent lightning rigged a broken lyre upon the world's dark rim.",
       "tier": "A",
       "contextAfter": "rim.",
-      "note": ""
-    },
-    {
-      "sentenceId": 7167,
-      "word": "midnight",
-      "family": "indigo",
-      "start": 7,
-      "end": 15,
-      "sentence": "Toward midnight a party hailed him as he squatted athis coals.",
-      "tier": "A",
-      "contextAfter": "a party hailed him as he squatted athis coals.",
       "note": ""
     },
     {

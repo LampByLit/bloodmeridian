@@ -32,6 +32,8 @@ html {
   overflow-x: hidden;
   /* Fixed nav + hash links: keep section headings out from under the bar */
   scroll-padding-top: calc(var(--bm-nav-top) + 4.5rem);
+  /* Native selects / inputs follow dark UI on Windows & co. (avoids invisible option text). */
+  color-scheme: dark;
 }
 
 body {
@@ -672,17 +674,24 @@ section.color-analysis-section {
 
 .color-deep .form-control,
 .color-deep .form-select {
-  background-color: rgba(255, 255, 255, 0.06);
+  /* Opaque bg: semi-transparent + native select painting breaks label text on some Windows browsers. */
+  background-color: #2a2a2a;
   border-color: rgba(255, 255, 255, 0.14);
-  color: #ececec;
+  color: #f0f0f0;
 }
 
 .color-deep .form-control:focus,
 .color-deep .form-select:focus {
-  background-color: rgba(255, 255, 255, 0.08);
+  background-color: #333;
   border-color: var(--bm-green);
   color: #fff;
   box-shadow: 0 0 0 0.2rem rgba(0, 188, 212, 0.2);
+}
+
+.color-deep .form-select option,
+.color-deep .form-select optgroup {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
 }
 
 .color-deep .form-control::placeholder {
