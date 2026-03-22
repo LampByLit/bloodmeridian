@@ -158,7 +158,6 @@
     { "match": "colourless", "family": "neutral" },
     { "match": "brown", "family": "neutral" },
     { "match": "brownish", "family": "neutral" },
-    { "match": "tan", "family": "neutral" },
     { "match": "beige", "family": "neutral" },
     { "match": "chestnut", "family": "neutral" },
     { "match": "khaki", "family": "neutral" },

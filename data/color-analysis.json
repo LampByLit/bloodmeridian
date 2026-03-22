@@ -2,11 +2,11 @@
   "meta": {
     "sourcePath": "media/bloodmeridian.md",
     "tier": "A",
-    "tierAHits": 428,
+    "tierAHits": 426,
     "tierBHits": 0,
-    "generatedAt": "2026-03-22T02:49:53.054Z",
+    "generatedAt": "2026-03-22T03:05:28.600Z",
     "sentenceCount": 7680,
-    "totalHits": 428,
+    "totalHits": 426,
     "notes": "Tier A: explicit lemmas. Tier B: gloss metonyms where they do not overlap Tier A. Name-like uses: data/name-exclusions.json + Title Case. Gold/silver money: data/money-metal-exclusions.json. Material/fruit/other homonyms: data/homonym-exclusions.json. Verbs: data/verb-homograph-exclusions.json.",
     "nameExclusions": {
       "phraseCount": 8
@@ -59,7 +59,7 @@
   ],
   "gloss": null,
   "byFamily": {
-    "neutral": 276,
+    "neutral": 274,
     "red": 55,
     "orange": 5,
     "yellow": 16,
@@ -81,7 +81,6 @@
       "brown-skinned": 1,
       "ashen": 1,
       "sable": 1,
-      "tan": 2,
       "silver": 3,
       "snow": 27,
       "wan": 2,
@@ -163,7 +162,6 @@
     "ruddy": 1,
     "ashen": 1,
     "sable": 1,
-    "tan": 2,
     "silver": 3,
     "indigo": 2,
     "pinkish": 1,
@@ -1576,17 +1574,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2428,
-      "word": "tan",
-      "family": "neutral",
-      "start": 11,
-      "end": 14,
-      "sentence": "Que viento tan maleante ...",
-      "tier": "A",
-      "contextAfter": "maleante ...",
-      "note": ""
-    },
-    {
       "sentenceId": 2529,
       "word": "white",
       "family": "neutral",
@@ -1606,17 +1593,6 @@
       "sentence": "He wore thin white whiskers at the point of his chin and he wiped them with the back of his hand before looking up again.",
       "tier": "A",
       "contextAfter": "whiskers at the point of his chin and he wiped",
-      "note": ""
-    },
-    {
-      "sentenceId": 2570,
-      "word": "tan",
-      "family": "neutral",
-      "start": 13,
-      "end": 16,
-      "sentence": "Que soldados tan valientes.",
-      "tier": "A",
-      "contextAfter": "valientes.",
       "note": ""
     },
     {
