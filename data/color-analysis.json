@@ -2,17 +2,17 @@
   "meta": {
     "sourcePath": "media/bloodmeridian.md",
     "tier": "A",
-    "tierAHits": 655,
+    "tierAHits": 442,
     "tierBHits": 0,
-    "generatedAt": "2026-03-22T02:15:35.762Z",
+    "generatedAt": "2026-03-22T02:22:31.472Z",
     "sentenceCount": 7680,
-    "totalHits": 655,
+    "totalHits": 442,
     "notes": "Tier A: explicit lemmas. Tier B: gloss metonyms where they do not overlap Tier A. Name-like uses: data/name-exclusions.json + Title Case. Gold/silver money: data/money-metal-exclusions.json. Material/fruit/other homonyms: data/homonym-exclusions.json. Verbs: data/verb-homograph-exclusions.json.",
     "nameExclusions": {
       "phraseCount": 8
     },
     "moneyMetalPhrases": 42,
-    "homonymPhrases": 59,
+    "homonymPhrases": 56,
     "verbHomographLemmas": 6
   },
   "families": [
@@ -59,7 +59,7 @@
   ],
   "gloss": null,
   "byFamily": {
-    "neutral": 498,
+    "neutral": 285,
     "red": 60,
     "orange": 5,
     "yellow": 16,
@@ -70,22 +70,17 @@
   },
   "byFamilyWords": {
     "neutral": {
-      "dark": 152,
-      "darker": 5,
       "blackness": 5,
       "black": 92,
       "gray": 43,
       "steel": 7,
-      "darkness": 47,
-      "darkly": 5,
       "bone": 16,
       "white": 68,
-      "charcoal": 9,
+      "charcoal": 7,
       "sun bleached": 1,
       "brown": 4,
       "brown-skinned": 1,
       "ashen": 1,
-      "darkest": 2,
       "sable": 1,
       "tan": 2,
       "silver": 3,
@@ -146,15 +141,11 @@
     }
   },
   "byWord": {
-    "dark": 152,
-    "darker": 5,
     "blackness": 5,
     "black": 92,
     "gray": 43,
     "blue": 43,
     "steel": 7,
-    "darkness": 47,
-    "darkly": 5,
     "light blue": 1,
     "bone": 16,
     "rust": 2,
@@ -162,7 +153,7 @@
     "bloodred": 1,
     "white": 68,
     "red": 28,
-    "charcoal": 9,
+    "charcoal": 7,
     "iron blue": 1,
     "yellow": 11,
     "pale blue": 5,
@@ -177,7 +168,6 @@
     "brown-skinned": 1,
     "ruddy": 1,
     "ashen": 1,
-    "darkest": 2,
     "sable": 1,
     "tan": 2,
     "silver": 3,
@@ -208,28 +198,6 @@
   },
   "occurrences": [
     {
-      "sentenceId": 4,
-      "word": "dark",
-      "family": "neutral",
-      "start": 12,
-      "end": 16,
-      "sentence": "Outside lie dark turned fields with rags of snow and darker woods beyond that harbor yet a few last wolves.",
-      "tier": "A",
-      "contextAfter": "turned fields with rags of snow and darker woods beyond",
-      "note": ""
-    },
-    {
-      "sentenceId": 4,
-      "word": "darker",
-      "family": "neutral",
-      "start": 53,
-      "end": 59,
-      "sentence": "Outside lie dark turned fields with rags of snow and darker woods beyond that harbor yet a few last wolves.",
-      "tier": "A",
-      "contextAfter": "woods beyond that harbor yet a few last wolves.",
-      "note": ""
-    },
-    {
       "sentenceId": 12,
       "word": "blackness",
       "family": "neutral",
@@ -238,28 +206,6 @@
       "sentence": "I looked for blackness, holes in the heavens.",
       "tier": "A",
       "contextAfter": "holes in the heavens.",
-      "note": ""
-    },
-    {
-      "sentenceId": 21,
-      "word": "dark",
-      "family": "neutral",
-      "start": 63,
-      "end": 67,
-      "sentence": "He will not see again the freezing kitchenhouse in the predawn dark.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 27,
-      "word": "dark",
-      "family": "neutral",
-      "start": 7,
-      "end": 11,
-      "sentence": "A lone dark husbandman pursuing mule and harrow down the rainblown bottomland toward night.",
-      "tier": "A",
-      "contextAfter": "husbandman pursuing mule and harrow down the rainblown bottomland toward",
       "note": ""
     },
     {
@@ -308,17 +254,6 @@
     },
     {
       "sentenceId": 282,
-      "word": "dark",
-      "family": "neutral",
-      "start": 2,
-      "end": 6,
-      "sentence": "A dark curl of smoke rose, a blue flame of burning varnish.",
-      "tier": "A",
-      "contextAfter": "curl of smoke rose, a blue flame of burning varnish.",
-      "note": ""
-    },
-    {
-      "sentenceId": 282,
       "word": "blue",
       "family": "blue",
       "start": 29,
@@ -326,28 +261,6 @@
       "sentence": "A dark curl of smoke rose, a blue flame of burning varnish.",
       "tier": "A",
       "contextAfter": "flame of burning varnish.",
-      "note": ""
-    },
-    {
-      "sentenceId": 321,
-      "word": "dark",
-      "family": "neutral",
-      "start": 77,
-      "end": 81,
-      "sentence": "Behind them flames were licking at the top corner of the hotel and clouds of dark smoke rose into the warm Texas morning.",
-      "tier": "A",
-      "contextAfter": "smoke rose into the warm Texas morning.",
-      "note": ""
-    },
-    {
-      "sentenceId": 353,
-      "word": "dark",
-      "family": "neutral",
-      "start": 107,
-      "end": 111,
-      "sentence": "He's left behind the pinewood country and the evening sun declines before him be춞 ond an endless swale and dark falls here like a thunderclap and a cold wind sets the weeds to gnashing.",
-      "tier": "A",
-      "contextAfter": "falls here like a thunderclap and a cold wind sets",
       "note": ""
     },
     {
@@ -373,61 +286,6 @@
       "note": ""
     },
     {
-      "sentenceId": 361,
-      "word": "dark",
-      "family": "neutral",
-      "start": 91,
-      "end": 95,
-      "sentence": "Come evening he tracks a spire of smoke rising oblique from among the low hills and before dark he hails up at the doorway of an old anchorite nested away in the sod like a groundsloth.",
-      "tier": "A",
-      "contextAfter": "he hails up at the doorway of an old anchorite",
-      "note": ""
-    },
-    {
-      "sentenceId": 370,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 7,
-      "end": 15,
-      "sentence": "Inside darkness and a smell of earth.",
-      "tier": "A",
-      "contextAfter": "and a smell of earth.",
-      "note": ""
-    },
-    {
-      "sentenceId": 393,
-      "word": "dark",
-      "family": "neutral",
-      "start": 14,
-      "end": 18,
-      "sentence": "It's nigh too dark to see out here.",
-      "tier": "A",
-      "contextAfter": "to see out here.",
-      "note": ""
-    },
-    {
-      "sentenceId": 407,
-      "word": "darkly",
-      "family": "neutral",
-      "start": 20,
-      "end": 26,
-      "sentence": "The hermit appeared darkly in the door.",
-      "tier": "A",
-      "contextAfter": "in the door.",
-      "note": ""
-    },
-    {
-      "sentenceId": 456,
-      "word": "dark",
-      "family": "neutral",
-      "start": 77,
-      "end": 81,
-      "sentence": "He turned and rummaged among the hides and handed through the flames a small dark thing.",
-      "tier": "A",
-      "contextAfter": "thing.",
-      "note": ""
-    },
-    {
       "sentenceId": 467,
       "word": "black",
       "family": "neutral",
@@ -436,17 +294,6 @@
       "sentence": "I did, for that was the price they put on the black son of a bitch it hung inside of.",
       "tier": "A",
       "contextAfter": "son of a bitch it hung inside of.",
-      "note": ""
-    },
-    {
-      "sentenceId": 468,
-      "word": "dark",
-      "family": "neutral",
-      "start": 55,
-      "end": 59,
-      "sentence": "He stirred about in the corner and came up with an old dark brass kettle, lifted the cover and poked inside with one finger.",
-      "tier": "A",
-      "contextAfter": "brass kettle, lifted the cover and poked inside with one",
       "note": ""
     },
     {
@@ -494,17 +341,6 @@
       "note": ""
     },
     {
-      "sentenceId": 522,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 59,
-      "end": 67,
-      "sentence": "He woke sometime in the night with the hut in almost total darkness and the hermit bent over him and all but in his bed.",
-      "tier": "A",
-      "contextAfter": "and the hermit bent over him and all but in",
-      "note": ""
-    },
-    {
       "sentenceId": 571,
       "word": "green",
       "family": "green",
@@ -513,17 +349,6 @@
       "sentence": "He came upon Bexar in the evening of the fourth day and he sat the tattered mule on a low rise and looked down at the town, the quiet adobe houses, the line of green oaks and cottonwoods that marked the course of the river, the plaza filled with wagons with their osnaburg covers and the whitewashed public buildings and the Moorish churchdome rising from the trees and the garrison and the tall stone powderhouse in the distance.",
       "tier": "A",
       "contextAfter": "oaks and cottonwoods that marked the course of the river,",
-      "note": ""
-    },
-    {
-      "sentenceId": 573,
-      "word": "dark",
-      "family": "neutral",
-      "start": 13,
-      "end": 17,
-      "sentence": "His eyes lay dark and tunneled in a caved and haunted face and a foul stench rose from the wells of his boot tops.",
-      "tier": "A",
-      "contextAfter": "and tunneled in a caved and haunted face and a",
       "note": ""
     },
     {
@@ -560,28 +385,6 @@
       "note": ""
     },
     {
-      "sentenceId": 581,
-      "word": "dark",
-      "family": "neutral",
-      "start": 7,
-      "end": 11,
-      "sentence": "It was dark when he entered the town, attended by barking dogs, faces parting the curtains in the lamplit windows.",
-      "tier": "A",
-      "contextAfter": "when he entered the town, attended by barking dogs, faces",
-      "note": ""
-    },
-    {
-      "sentenceId": 597,
-      "word": "dark",
-      "family": "neutral",
-      "start": 43,
-      "end": 47,
-      "sentence": "They wore strange costumes all, the men in dark flatcrowned hats, white nightshirts, trousers that buttoned up the outside leg and the girls with garish painted faces and tortoiseshell combs in their blueblack hair.",
-      "tier": "A",
-      "contextAfter": "flatcrowned hats, white nightshirts, trousers that buttoned up the outside",
-      "note": ""
-    },
-    {
       "sentenceId": 597,
       "word": "white",
       "family": "neutral",
@@ -593,17 +396,6 @@
       "note": ""
     },
     {
-      "sentenceId": 640,
-      "word": "dark",
-      "family": "neutral",
-      "start": 14,
-      "end": 18,
-      "sentence": "His eyes were dark and narrow.",
-      "tier": "A",
-      "contextAfter": "and narrow.",
-      "note": ""
-    },
-    {
       "sentenceId": 714,
       "word": "bone",
       "family": "neutral",
@@ -612,28 +404,6 @@
       "sentence": "Pigeons flapped through the piers of dusty light and three buzzards hobbled about on the picked bone carcass of some animal dead in the chancel.",
       "tier": "A",
       "contextAfter": "carcass of some animal dead in the chancel.",
-      "note": ""
-    },
-    {
-      "sentenceId": 727,
-      "word": "dark",
-      "family": "neutral",
-      "start": 46,
-      "end": 50,
-      "sentence": "The domed vaults overhead were clotted with a dark furred mass that shifted and breathed and chittered.",
-      "tier": "A",
-      "contextAfter": "furred mass that shifted and breathed and chittered.",
-      "note": ""
-    },
-    {
-      "sentenceId": 731,
-      "word": "darkly",
-      "family": "neutral",
-      "start": 173,
-      "end": 179,
-      "sentence": "The facade of the building bore an array of saints in their niches and they had been shot up by American troops trying their rifles, the figures shorn of ears and noses and darkly mottled with leadmarks oxidized upon the stone.",
-      "tier": "A",
-      "contextAfter": "mottled with leadmarks oxidized upon the stone.",
       "note": ""
     },
     {
@@ -747,17 +517,6 @@
       "note": ""
     },
     {
-      "sentenceId": 879,
-      "word": "dark",
-      "family": "neutral",
-      "start": 59,
-      "end": 63,
-      "sentence": "They eased themselves into a kind of settle made from some dark wood.",
-      "tier": "A",
-      "contextAfter": "wood.",
-      "note": ""
-    },
-    {
       "sentenceId": 885,
       "word": "gray",
       "family": "neutral",
@@ -777,17 +536,6 @@
       "sentence": "They was a white or two with em.",
       "tier": "A",
       "contextAfter": "or two with em.",
-      "note": ""
-    },
-    {
-      "sentenceId": 996,
-      "word": "dark",
-      "family": "neutral",
-      "start": 48,
-      "end": 52,
-      "sentence": "We are to be the instruments of liberation in a dark and troubled land.",
-      "tier": "A",
-      "contextAfter": "and troubled land.",
       "note": ""
     },
     {
@@ -835,17 +583,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1175,
-      "word": "dark",
-      "family": "neutral",
-      "start": 37,
-      "end": 41,
-      "sentence": "The Mennonite watches the enshadowed dark before them as it is reflected to him in the mirror over the bar.",
-      "tier": "A",
-      "contextAfter": "before them as it is reflected to him in the",
-      "note": ""
-    },
-    {
       "sentenceId": 1194,
       "word": "gray",
       "family": "neutral",
@@ -854,28 +591,6 @@
       "sentence": "A warm wind was blowing and the east held a gray light.",
       "tier": "A",
       "contextAfter": "light.",
-      "note": ""
-    },
-    {
-      "sentenceId": 1221,
-      "word": "dark",
-      "family": "neutral",
-      "start": 13,
-      "end": 17,
-      "sentence": "In the early dark the wagon came back with the meat.",
-      "tier": "A",
-      "contextAfter": "the wagon came back with the meat.",
-      "note": ""
-    },
-    {
-      "sentenceId": 1223,
-      "word": "dark",
-      "family": "neutral",
-      "start": 8,
-      "end": 12,
-      "sentence": "By full dark the blackened ribracks leaned steaming at the fires and there was a jousting over the coals with shaven sticks whereon were skewered gobs of meat and a clank of canteens and endless raillery.",
-      "tier": "A",
-      "contextAfter": "the blackened ribracks leaned steaming at the fires and there",
       "note": ""
     },
     {
@@ -890,28 +605,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1231,
-      "word": "dark",
-      "family": "neutral",
-      "start": 50,
-      "end": 54,
-      "sentence": "On this day two men fell sick and one died before dark.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 1234,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 40,
-      "end": 48,
-      "sentence": "The men turned out in the early morning darkness to dig their graves with the bladebones of antelope and they covered them with stones and rode on again.",
-      "tier": "A",
-      "contextAfter": "to dig their graves with the bladebones of antelope and",
-      "note": ""
-    },
-    {
       "sentenceId": 1235,
       "word": "red",
       "family": "red",
@@ -923,17 +616,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1236,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 231,
-      "end": 239,
-      "sentence": "The shadows ofthe smallest stones lay like pencil lines across the sand and the shapes of the men and their mounts advanced elongate before them like strands of the night from which they'dridden, like tentacles to bind them to the darkness yet to come.",
-      "tier": "A",
-      "contextAfter": "yet to come.",
-      "note": ""
-    },
-    {
       "sentenceId": 1239,
       "word": "yellow",
       "family": "yellow",
@@ -942,17 +624,6 @@
       "sentence": "Now wolves had come to follow them, great pale lobos with yellow eyes that trotted neat of foot or squatted in the shimmer ng heat to watch them wh춊 ere they made their noon halt.",
       "tier": "A",
       "contextAfter": "eyes that trotted neat of foot or squatted in the",
-      "note": ""
-    },
-    {
-      "sentenceId": 1242,
-      "word": "dark",
-      "family": "neutral",
-      "start": 140,
-      "end": 144,
-      "sentence": "In the evening their eyes shifted and winked out there on the edge of the firelight and in the morning when the riders rode out in the cool dark they could hear the snarling and the pop of their mouths behind them as they sacked the camp for meatscraps.",
-      "tier": "A",
-      "contextAfter": "they could hear the snarling and the pop of their",
       "note": ""
     },
     {
@@ -997,17 +668,6 @@
       "sentence": "The white noon saw them through the waste like a ghost army, so pale they were with dust, like shades of figures erased upon a board.",
       "tier": "A",
       "contextAfter": "noon saw them through the waste like a ghost army,",
-      "note": ""
-    },
-    {
-      "sentenceId": 1260,
-      "word": "dark",
-      "family": "neutral",
-      "start": 99,
-      "end": 103,
-      "sentence": "The survivors lay quietly in that cratered void and watched the whitehot stars go rifling down the dark.",
-      "tier": "A",
-      "contextAfter": ".",
       "note": ""
     },
     {
@@ -1110,17 +770,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1286,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 104,
-      "end": 112,
-      "sentence": "Within the hour the wind cooled and drops of rain the size of grapeshot fell upon them out of that wild darkness.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 1289,
       "word": "white",
       "family": "neutral",
@@ -1188,17 +837,6 @@
     },
     {
       "sentenceId": 1348,
-      "word": "dark",
-      "family": "neutral",
-      "start": 10,
-      "end": 14,
-      "sentence": "Out there dark little archipelagos of cloud and the vast world of sand and scrub shearing upward into the shoreless void where those blue islands trembled and the earth grew uncertain, gravely canted and veering out through tinctures of rose and the dark beyond the dawn to the uttermost rebate of space.",
-      "tier": "A",
-      "contextAfter": "little archipelagos of cloud and the vast world of sand",
-      "note": ""
-    },
-    {
-      "sentenceId": 1348,
       "word": "blue",
       "family": "blue",
       "start": 133,
@@ -1206,17 +844,6 @@
       "sentence": "Out there dark little archipelagos of cloud and the vast world of sand and scrub shearing upward into the shoreless void where those blue islands trembled and the earth grew uncertain, gravely canted and veering out through tinctures of rose and the dark beyond the dawn to the uttermost rebate of space.",
       "tier": "A",
       "contextAfter": "islands trembled and the earth grew uncertain, gravely canted and",
-      "note": ""
-    },
-    {
-      "sentenceId": 1348,
-      "word": "dark",
-      "family": "neutral",
-      "start": 250,
-      "end": 254,
-      "sentence": "Out there dark little archipelagos of cloud and the vast world of sand and scrub shearing upward into the shoreless void where those blue islands trembled and the earth grew uncertain, gravely canted and veering out through tinctures of rose and the dark beyond the dawn to the uttermost rebate of space.",
-      "tier": "A",
-      "contextAfter": "beyond the dawn to the uttermost rebate of space.",
       "note": ""
     },
     {
@@ -1308,39 +935,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1416,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 5,
-      "end": 13,
-      "sentence": "With darkness one soul rose wondrously from among the new slain dead and stole away in the moonlight.",
-      "tier": "A",
-      "contextAfter": "one soul rose wondrously from among the new slain dead",
-      "note": ""
-    },
-    {
-      "sentenceId": 1421,
-      "word": "dark",
-      "family": "neutral",
-      "start": 71,
-      "end": 75,
-      "sentence": "Starlight and waning moon made a faint shadow of his wanderings on the dark of the desert and all along the ridges the wolves were howling and moving north toward the slaughter.",
-      "tier": "A",
-      "contextAfter": "of the desert and all along the ridges the wolves",
-      "note": ""
-    },
-    {
-      "sentenceId": 1429,
-      "word": "dark",
-      "family": "neutral",
-      "start": 72,
-      "end": 76,
-      "sentence": "He wore a blanket over his shoulders and his shirtsleeve was ripped and dark with blood and he carried that arm against him with his other hand.",
-      "tier": "A",
-      "contextAfter": "with blood and he carried that arm against him with",
-      "note": ""
-    },
-    {
       "sentenceId": 1447,
       "word": "gray",
       "family": "neutral",
@@ -1349,17 +943,6 @@
       "sentence": "They laid up in the shade of a rock shelf until past noon, scratching out a place in the gray lava dust to sleep, and they set forth in the afternoon down the valley following the war trail and they were very small and they moved very slowly in the immensity of that landscape.",
       "tier": "A",
       "contextAfter": "lava dust to sleep, and they set forth in the",
-      "note": ""
-    },
-    {
-      "sentenceId": 1448,
-      "word": "dark",
-      "family": "neutral",
-      "start": 74,
-      "end": 78,
-      "sentence": "Come evening they hove toward the rimrock again and Sproule pointed out a dark stain on the face of the barren cliff.",
-      "tier": "A",
-      "contextAfter": "stain on the face of the barren cliff.",
       "note": ""
     },
     {
@@ -1418,17 +1001,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1505,
-      "word": "dark",
-      "family": "neutral",
-      "start": 125,
-      "end": 129,
-      "sentence": "The carrion birds sat about the topmost corners of the houses with their wings out tretched in attitudes of exhortation like dark l춖 ittle bishops.",
-      "tier": "A",
-      "contextAfter": "l춖 ittle bishops.",
-      "note": ""
-    },
-    {
       "sentenceId": 1535,
       "word": "black",
       "family": "neutral",
@@ -1474,17 +1046,6 @@
     },
     {
       "sentenceId": 1554,
-      "word": "dark",
-      "family": "neutral",
-      "start": 13,
-      "end": 17,
-      "sentence": "Blood lay in dark tongues on the floor and blood grouted the flagstones and ran in the vestibule where the stones were cupped from the feet of the faithful and their fathers before them and it had threaded its way down the steps and dripped from the stones among the dark red tracks of the scavengers.",
-      "tier": "A",
-      "contextAfter": "tongues on the floor and blood grouted the flagstones and",
-      "note": ""
-    },
-    {
-      "sentenceId": 1554,
       "word": "dark red",
       "family": "red",
       "start": 267,
@@ -1503,39 +1064,6 @@
       "sentence": "A little sandy stream, cottonwoods, three white goats.",
       "tier": "A",
       "contextAfter": "goats.",
-      "note": ""
-    },
-    {
-      "sentenceId": 1567,
-      "word": "dark",
-      "family": "neutral",
-      "start": 58,
-      "end": 62,
-      "sentence": "They slept in the sand and woke in the cool early morning dark and went on and they walked the cinderland till they were near to fainting.",
-      "tier": "A",
-      "contextAfter": "and went on and they walked the cinderland till they",
-      "note": ""
-    },
-    {
-      "sentenceId": 1569,
-      "word": "dark",
-      "family": "neutral",
-      "start": 48,
-      "end": 52,
-      "sentence": "They crawled under it for shade and slept until dark and went on.",
-      "tier": "A",
-      "contextAfter": "and went on.",
-      "note": ""
-    },
-    {
-      "sentenceId": 1582,
-      "word": "dark",
-      "family": "neutral",
-      "start": 79,
-      "end": 83,
-      "sentence": "With the dawn they were climbing among shale and whinstone under the wall of a dark monocline where turrets stood like basalt prophets and they passed by the side of the road little wooden crosses propped in cairns of stone where travelers had met with death.",
-      "tier": "A",
-      "contextAfter": "monocline where turrets stood like basalt prophets and they passed",
       "note": ""
     },
     {
@@ -1583,17 +1111,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1594,
-      "word": "darker",
-      "family": "neutral",
-      "start": 137,
-      "end": 143,
-      "sentence": "There were blisters along his lower lip and his arm through the ripped shirt was swollen and something foul had seeped through among the darker bloodstains.",
-      "tier": "A",
-      "contextAfter": "bloodstains.",
-      "note": ""
-    },
-    {
       "sentenceId": 1699,
       "word": "blue",
       "family": "blue",
@@ -1624,17 +1141,6 @@
       "sentence": "A wrinkled pug face, small and vicious, bare lips crimped in a horrible smile and teeth pale blue in the star ight.",
       "tier": "A",
       "contextAfter": "in the star ight.",
-      "note": ""
-    },
-    {
-      "sentenceId": 1710,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 31,
-      "end": 39,
-      "sentence": "But the kid only spat into the darkness of the space between them.",
-      "tier": "A",
-      "contextAfter": "of the space between them.",
       "note": ""
     },
     {
@@ -1693,17 +1199,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1769,
-      "word": "dark",
-      "family": "neutral",
-      "start": 7,
-      "end": 11,
-      "sentence": "It was dark when they entered the town.",
-      "tier": "A",
-      "contextAfter": "when they entered the town.",
-      "note": ""
-    },
-    {
       "sentenceId": 1778,
       "word": "gray",
       "family": "neutral",
@@ -1738,17 +1233,6 @@
     },
     {
       "sentenceId": 1796,
-      "word": "dark",
-      "family": "neutral",
-      "start": 173,
-      "end": 177,
-      "sentence": "First children walked with him and then old folk and finally a throng of brown-skinned villagers all dressed in white cotton like attendants in an institution, the women in dark rebozos, some with their breasts exposed, their faces stained red with almagre, smoking small cigars.",
-      "tier": "A",
-      "contextAfter": "rebozos, some with their breasts exposed, their faces stained red",
-      "note": ""
-    },
-    {
-      "sentenceId": 1796,
       "word": "red",
       "family": "red",
       "start": 240,
@@ -1770,17 +1254,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1857,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 94,
-      "end": 102,
-      "sentence": "Their talk when they talked was of witches or worse and always they sought to parcel from the darkness some voice or cry from among the cries that was no right beast.",
-      "tier": "A",
-      "contextAfter": "some voice or cry from among the cries that was",
-      "note": ""
-    },
-    {
       "sentenceId": 1869,
       "word": "white",
       "family": "neutral",
@@ -1792,28 +1265,6 @@
       "note": ""
     },
     {
-      "sentenceId": 1869,
-      "word": "dark",
-      "family": "neutral",
-      "start": 591,
-      "end": 595,
-      "sentence": "They entered the city in a gantlet of flung offal, driven like cattle through the cobbled streets with shouts going up behind for the soldiery who smiled as became them and nodded among the flowers and proffered cups, herding the tattered fortune-seekers through the plaza where water splashed in a fountain and idlers reclined on carven seats of white porphyry and past the governor's palace and past the cathedral where vultures squatted along the dusty entablatures and among the niches in the carved facade hard by the figures of Christ and the apostles, the birds holding out their own dark vestments in postures of strange benevolence while about them flapped on the wind the dried scalps of slaughtered indians strung on cords, the long dull hair swinging like the filaments of certain seaforms and the dry hides clapping against the stones.",
-      "tier": "A",
-      "contextAfter": "vestments in postures of strange benevolence while about them flapped",
-      "note": ""
-    },
-    {
-      "sentenceId": 1871,
-      "word": "dark",
-      "family": "neutral",
-      "start": 0,
-      "end": 4,
-      "sentence": "Dark coppers in a clackdish, the shriveled eyes of the blind.",
-      "tier": "A",
-      "contextAfter": "coppers in a clackdish, the shriveled eyes of the blind.",
-      "note": ""
-    },
-    {
       "sentenceId": 1872,
       "word": "bone",
       "family": "neutral",
@@ -1822,28 +1273,6 @@
       "sentence": "Scribes crouched by the steps with their quills and inkpots and bowls of sand and lepers moaning through the streets and naked dogs that seemed composed of bone entirely and vendors of tamales and old women with faces dark and harrowed as the land squatting in the gutters over charcoal fires where black ned strips of anonym춅 ous meat sizzled and spat.",
       "tier": "A",
       "contextAfter": "entirely and vendors of tamales and old women with faces",
-      "note": ""
-    },
-    {
-      "sentenceId": 1872,
-      "word": "dark",
-      "family": "neutral",
-      "start": 218,
-      "end": 222,
-      "sentence": "Scribes crouched by the steps with their quills and inkpots and bowls of sand and lepers moaning through the streets and naked dogs that seemed composed of bone entirely and vendors of tamales and old women with faces dark and harrowed as the land squatting in the gutters over charcoal fires where black ned strips of anonym춅 ous meat sizzled and spat.",
-      "tier": "A",
-      "contextAfter": "and harrowed as the land squatting in the gutters over",
-      "note": ""
-    },
-    {
-      "sentenceId": 1872,
-      "word": "charcoal",
-      "family": "neutral",
-      "start": 278,
-      "end": 286,
-      "sentence": "Scribes crouched by the steps with their quills and inkpots and bowls of sand and lepers moaning through the streets and naked dogs that seemed composed of bone entirely and vendors of tamales and old women with faces dark and harrowed as the land squatting in the gutters over charcoal fires where black ned strips of anonym춅 ous meat sizzled and spat.",
-      "tier": "A",
-      "contextAfter": "fires where black ned strips of anonym춅 ous meat sizzled",
       "note": ""
     },
     {
@@ -1924,17 +1353,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2028,
-      "word": "dark",
-      "family": "neutral",
-      "start": 136,
-      "end": 140,
-      "sentence": "The town of Corralitos - Pasajeros de un pafs antiguo - Scene of a massacre - Hiccius Doccius - A naming of fortunes - Wheelless upon a dark river ?The felon wind ?Tertium quid?",
-      "tier": "A",
-      "contextAfter": "river ?The felon wind ?Tertium quid?",
-      "note": ""
-    },
-    {
       "sentenceId": 2030,
       "word": "black",
       "family": "neutral",
@@ -1990,28 +1408,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2033,
-      "word": "dark",
-      "family": "neutral",
-      "start": 98,
-      "end": 102,
-      "sentence": "As if the white man were in violation of his person, had stumbled onto some ritual dormant in his dark blood or his dark soul whereby the shape he stood the sun from on that rocky ground bore something of the man himself and in so doing lay imperiled.",
-      "tier": "A",
-      "contextAfter": "blood or his dark soul whereby the shape he stood",
-      "note": ""
-    },
-    {
-      "sentenceId": 2033,
-      "word": "dark",
-      "family": "neutral",
-      "start": 116,
-      "end": 120,
-      "sentence": "As if the white man were in violation of his person, had stumbled onto some ritual dormant in his dark blood or his dark soul whereby the shape he stood the sun from on that rocky ground bore something of the man himself and in so doing lay imperiled.",
-      "tier": "A",
-      "contextAfter": "soul whereby the shape he stood the sun from on",
-      "note": ""
-    },
-    {
       "sentenceId": 2034,
       "word": "white",
       "family": "neutral",
@@ -2042,39 +1438,6 @@
       "sentence": "A haze of gray gunsmoke lay over the courtyard.",
       "tier": "A",
       "contextAfter": "gunsmoke lay over the courtyard.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2111,
-      "word": "dark",
-      "family": "neutral",
-      "start": 5,
-      "end": 9,
-      "sentence": "That dark vexed face.",
-      "tier": "A",
-      "contextAfter": "vexed face.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2135,
-      "word": "dark",
-      "family": "neutral",
-      "start": 2,
-      "end": 6,
-      "sentence": "A dark vein in his temple pulsed like a fuse.",
-      "tier": "A",
-      "contextAfter": "vein in his temple pulsed like a fuse.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2144,
-      "word": "dark",
-      "family": "neutral",
-      "start": 24,
-      "end": 28,
-      "sentence": "Then they rode on until dark and made camp.",
-      "tier": "A",
-      "contextAfter": "and made camp.",
       "note": ""
     },
     {
@@ -2166,28 +1529,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2192,
-      "word": "dark",
-      "family": "neutral",
-      "start": 112,
-      "end": 116,
-      "sentence": "The smelter chimneys were ranged against an ashen sky and the globy lights of the furnaces glow 춅 red under the dark of the hills.",
-      "tier": "A",
-      "contextAfter": "of the hills.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2196,
-      "word": "darkest",
-      "family": "neutral",
-      "start": 158,
-      "end": 165,
-      "sentence": "They camped in the plaza, blackening the cottonwoods with their fires and driving forth the sleeping birds, the flames light ng up the wretched town to i춊 ts darkest pens and bringing forth even the blind tottering with their hands outstretched toward that conjectural day.",
-      "tier": "A",
-      "contextAfter": "pens and bringing forth even the blind tottering with their",
-      "note": ""
-    },
-    {
       "sentenceId": 2225,
       "word": "brown",
       "family": "neutral",
@@ -2207,17 +1548,6 @@
       "sentence": "To the west lay the ragged Carcaj and to the north the Animas peaks dim and blue.",
       "tier": "A",
       "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 2245,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 107,
-      "end": 115,
-      "sentence": "They made camp that night on a windy plateau among pifion and juniper and the fires leaned downwind in the darkness and hot chains of sparks raced among the scrub.",
-      "tier": "A",
-      "contextAfter": "and hot chains of sparks raced among the scrub.",
       "note": ""
     },
     {
@@ -2254,17 +1584,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2307,
-      "word": "dark",
-      "family": "neutral",
-      "start": 4,
-      "end": 8,
-      "sentence": "The dark querent stood solemnly, like a man arraigned.",
-      "tier": "A",
-      "contextAfter": "querent stood solemnly, like a man arraigned.",
-      "note": ""
-    },
-    {
       "sentenceId": 2340,
       "word": "black",
       "family": "neutral",
@@ -2287,50 +1606,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2387,
-      "word": "dark",
-      "family": "neutral",
-      "start": 12,
-      "end": 16,
-      "sentence": "The ear was dark and misshapen, as if in being put forth in this fashion it had suffered no few clouts, or perhaps the very news men had for him had blighted it.",
-      "tier": "A",
-      "contextAfter": "and misshapen, as if in being put forth in this",
-      "note": ""
-    },
-    {
-      "sentenceId": 2395,
-      "word": "dark",
-      "family": "neutral",
-      "start": 68,
-      "end": 72,
-      "sentence": "The juggler looked at the old woman where she sat apart, facing the dark, lightly tottering, racing the night in her rags.",
-      "tier": "A",
-      "contextAfter": "lightly tottering, racing the night in her rags.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2408,
-      "word": "dark",
-      "family": "neutral",
-      "start": 63,
-      "end": 67,
-      "sentence": "The juggler's eyes snapped after it where it had gone down the dark.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 2424,
-      "word": "dark",
-      "family": "neutral",
-      "start": 56,
-      "end": 60,
-      "sentence": "The girl standing this while at the edge of the howling dark ess c춏 rossed herself silently.",
-      "tier": "A",
-      "contextAfter": "ess c춏 rossed herself silently.",
-      "note": ""
-    },
-    {
       "sentenceId": 2428,
       "word": "tan",
       "family": "neutral",
@@ -2339,61 +1614,6 @@
       "sentence": "Que viento tan maleante ...",
       "tier": "A",
       "contextAfter": "maleante ...",
-      "note": ""
-    },
-    {
-      "sentenceId": 2442,
-      "word": "charcoal",
-      "family": "neutral",
-      "start": 38,
-      "end": 46,
-      "sentence": "The air was heavy with the smoke from charcoal fires and a few old pelados sat mute in the doorways and many of the houses were caved and ruinous and stood for pens.",
-      "tier": "A",
-      "contextAfter": "fires and a few old pelados sat mute in the",
-      "note": ""
-    },
-    {
-      "sentenceId": 2482,
-      "word": "dark",
-      "family": "neutral",
-      "start": 101,
-      "end": 105,
-      "sentence": "They made camp in a grove of cottonwoods across the creek just beyond the walls of the town and with dark they drifted in small groups through the smoky streets.",
-      "tier": "A",
-      "contextAfter": "they drifted in small groups through the smoky streets.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2490,
-      "word": "darkest",
-      "family": "neutral",
-      "start": 63,
-      "end": 70,
-      "sentence": "VIII Another cantina, another advisor - Monte - A knifing ?The darkest corner of the tavern the most conspicuous - The sereno ?Riding north - The meatcamp?",
-      "tier": "A",
-      "contextAfter": "corner of the tavern the most conspicuous - The sereno",
-      "note": ""
-    },
-    {
-      "sentenceId": 2492,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 159,
-      "end": 167,
-      "sentence": "They paused without the cantina and pooled their coins and Toadvine pushed aside the dried cowhide that hung for a door and they entered a place where all was darkness and with ut definition.",
-      "tier": "A",
-      "contextAfter": "and with ut definition.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2493,
-      "word": "dark",
-      "family": "neutral",
-      "start": 70,
-      "end": 74,
-      "sentence": "A lone lamp hung from a crosstree in the ce춐 iling and in the shadows dark figures sat smoking.",
-      "tier": "A",
-      "contextAfter": "figures sat smoking.",
       "note": ""
     },
     {
@@ -2430,39 +1650,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2579,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 71,
-      "end": 79,
-      "sentence": "He made a gesture toward the world beyond where all the land lay under darkness and all a great stained altarstone.",
-      "tier": "A",
-      "contextAfter": "and all a great stained altarstone.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2601,
-      "word": "dark",
-      "family": "neutral",
-      "start": 81,
-      "end": 85,
-      "sentence": "The Vandiemenlander and the barman spoke together and the bar춎an gestured at the dark in the corner and shook his head and the Americans chambered down their last cups and Toadvine pushed the few tlacos toward the barman and they went out.",
-      "tier": "A",
-      "contextAfter": "in the corner and shook his head and the Americans",
-      "note": ""
-    },
-    {
-      "sentenceId": 2617,
-      "word": "dark",
-      "family": "neutral",
-      "start": 15,
-      "end": 19,
-      "sentence": "In the predawn dark the sounds about describe the scene to come.",
-      "tier": "A",
-      "contextAfter": "the sounds about describe the scene to come.",
-      "note": ""
-    },
-    {
       "sentenceId": 2620,
       "word": "charcoal",
       "family": "neutral",
@@ -2474,17 +1661,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2623,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 61,
-      "end": 69,
-      "sentence": "None of the men rising know how long they have been there in darkness and silence.",
-      "tier": "A",
-      "contextAfter": "and silence.",
-      "note": ""
-    },
-    {
       "sentenceId": 2625,
       "word": "black",
       "family": "neutral",
@@ -2493,17 +1669,6 @@
       "sentence": "The juggler's lamps were stark and black atop their poles and the fire was cold before the pitchtent.",
       "tier": "A",
       "contextAfter": "atop their poles and the fire was cold before the",
-      "note": ""
-    },
-    {
-      "sentenceId": 2627,
-      "word": "dark",
-      "family": "neutral",
-      "start": 142,
-      "end": 146,
-      "sentence": "They rode through the sacked indian camp at midmorning, the blackened sheets of meat draped across the bushes or hung from poles like strange dark laundry.",
-      "tier": "A",
-      "contextAfter": "laundry.",
       "note": ""
     },
     {
@@ -2548,17 +1713,6 @@
       "sentence": "All the sky seemed troubled and night came quickly over the evening land and small gray birds flew crying softly after the fled sun.",
       "tier": "A",
       "contextAfter": "birds flew crying softly after the fled sun.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2669,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 66,
-      "end": 74,
-      "sentence": "He passed and so passed all into the problematical destruction of darkness.",
-      "tier": "A",
-      "contextAfter": ".",
       "note": ""
     },
     {
@@ -2617,17 +1771,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2697,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 71,
-      "end": 79,
-      "sentence": "The nearest man to him was Tobin and when the black stepped out of the darkness bearing the bowieknife in both hands like some instrument of ceremony Tobin started to rise.",
-      "tier": "A",
-      "contextAfter": "bearing the bowieknife in both hands like some instrument of",
-      "note": ""
-    },
-    {
       "sentenceId": 2698,
       "word": "white",
       "family": "neutral",
@@ -2639,17 +1782,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2699,
-      "word": "dark",
-      "family": "neutral",
-      "start": 19,
-      "end": 23,
-      "sentence": "Two thick ropes of dark blood and two slender rose like snakes fromthe stump of his neck and arched hissing into the fire.",
-      "tier": "A",
-      "contextAfter": "blood and two slender rose like snakes fromthe stump of",
-      "note": ""
-    },
-    {
       "sentenceId": 2702,
       "word": "gray",
       "family": "neutral",
@@ -2658,17 +1790,6 @@
       "sentence": "The fire steamed and blackened and a gray cloud of smoke rose and the columnar arches of blood slowly subsided until just the neck bubbled gently like a stew and then that too was stilled.",
       "tier": "A",
       "contextAfter": "cloud of smoke rose and the columnar arches of blood",
-      "note": ""
-    },
-    {
-      "sentenceId": 2703,
-      "word": "dark",
-      "family": "neutral",
-      "start": 114,
-      "end": 118,
-      "sentence": "He was sat as before save headless, drenched in blood, the cigarillo still between his fingers, leaning towardthe dark and smoking grotto in the flames where his life had gone.",
-      "tier": "A",
-      "contextAfter": "and smoking grotto in the flames where his life had",
       "note": ""
     },
     {
@@ -2716,17 +1837,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2739,
-      "word": "dark",
-      "family": "neutral",
-      "start": 25,
-      "end": 29,
-      "sentence": "The sand in the wash was dark with blood.",
-      "tier": "A",
-      "contextAfter": "with blood.",
-      "note": ""
-    },
-    {
       "sentenceId": 2743,
       "word": "black",
       "family": "neutral",
@@ -2757,39 +1867,6 @@
       "sentence": "There were slashes of white paint on the cheeks and there were chevrons of paint above the nose and figures in dark red paint under the eyes and on the chin.",
       "tier": "A",
       "contextAfter": "paint under the eyes and on the chin.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2752,
-      "word": "dark",
-      "family": "neutral",
-      "start": 19,
-      "end": 23,
-      "sentence": "Tied alongside the dark genitals was a small skin bag and this the judge cut away and also secured in the pocket of his vest.",
-      "tier": "A",
-      "contextAfter": "genitals was a small skin bag and this the judge",
-      "note": ""
-    },
-    {
-      "sentenceId": 2753,
-      "word": "dark",
-      "family": "neutral",
-      "start": 21,
-      "end": 25,
-      "sentence": "Lastly he seized the dark locks and swept them up from the sand and cut away the scalp.",
-      "tier": "A",
-      "contextAfter": "locks and swept them up from the sand and cut",
-      "note": ""
-    },
-    {
-      "sentenceId": 2756,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 301,
-      "end": 309,
-      "sentence": "In the evening they entrained upon a hollow ground that rang so roundly under the horses' hooves that they stepped and sidled and rolled their eyes like circus animals and that night as they lay in that ground each heard, all heard, the dull boom of rock falling somewhere far below them in the awful darkness inside the world.",
-      "tier": "A",
-      "contextAfter": "inside the world.",
       "note": ""
     },
     {
@@ -2837,28 +1914,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2797,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 91,
-      "end": 99,
-      "sentence": "They sent down scouts and Glanton walked out on the bluff and sat in the dusk watching the darkness deepen in the gulf below to see if any light should show itself down there.",
-      "tier": "A",
-      "contextAfter": "deepen in the gulf below to see if any light",
-      "note": ""
-    },
-    {
-      "sentenceId": 2798,
-      "word": "dark",
-      "family": "neutral",
-      "start": 57,
-      "end": 61,
-      "sentence": "The scouting party returned in the dark and it was still dark in the morning when the com any mounted and ro춑 de out.",
-      "tier": "A",
-      "contextAfter": "in the morning when the com any mounted and ro춑",
-      "note": ""
-    },
-    {
       "sentenceId": 2799,
       "word": "gray",
       "family": "neutral",
@@ -2870,28 +1925,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2801,
-      "word": "dark",
-      "family": "neutral",
-      "start": 52,
-      "end": 56,
-      "sentence": "The Americans rode past the slag and rubble and the dark shapes of shaft mouths and they rode past the smeltinghouse where piles of ore stood about and weathered wagons and orecarts bonewhite in the dawn and the dark iron shapes of abandoned machinery.",
-      "tier": "A",
-      "contextAfter": "shapes of shaft mouths and they rode past the smeltinghouse",
-      "note": ""
-    },
-    {
-      "sentenceId": 2801,
-      "word": "dark",
-      "family": "neutral",
-      "start": 212,
-      "end": 216,
-      "sentence": "The Americans rode past the slag and rubble and the dark shapes of shaft mouths and they rode past the smeltinghouse where piles of ore stood about and weathered wagons and orecarts bonewhite in the dawn and the dark iron shapes of abandoned machinery.",
-      "tier": "A",
-      "contextAfter": "iron shapes of abandoned machinery.",
-      "note": ""
-    },
-    {
       "sentenceId": 2805,
       "word": "bluish",
       "family": "blue",
@@ -2900,17 +1933,6 @@
       "sentence": "A bluish light suffused the hills about and the tallest peaks to the north stood in the only sun while all the caldera lay in darkness yet.",
       "tier": "A",
       "contextAfter": "light suffused the hills about and the tallest peaks to",
-      "note": ""
-    },
-    {
-      "sentenceId": 2805,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 126,
-      "end": 134,
-      "sentence": "A bluish light suffused the hills about and the tallest peaks to the north stood in the only sun while all the caldera lay in darkness yet.",
-      "tier": "A",
-      "contextAfter": "yet.",
       "note": ""
     },
     {
@@ -2977,28 +1999,6 @@
       "sentence": "In the afternoon he sat in the compound breaking ore samples with a hammer, the feldspar rich in red oxide of copper and native nuggets in whose organic lobations he purported to read news of the earth's origins, holding an extemporary lecture in geology to a small gathering who nodded and spat.",
       "tier": "A",
       "contextAfter": "oxide of copper and native nuggets in whose organic lobations",
-      "note": ""
-    },
-    {
-      "sentenceId": 2879,
-      "word": "dark",
-      "family": "neutral",
-      "start": 40,
-      "end": 44,
-      "sentence": "The halfbreed boy watched them with his dark eyes.",
-      "tier": "A",
-      "contextAfter": "eyes.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2880,
-      "word": "dark",
-      "family": "neutral",
-      "start": 26,
-      "end": 30,
-      "sentence": "To the west among the low dark hills they could hear the howl ng of a wolf that the squatters did mist춊 rust and the hunters smiled among themselves.",
-      "tier": "A",
-      "contextAfter": "hills they could hear the howl ng of a wolf",
       "note": ""
     },
     {
@@ -3079,17 +2079,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2934,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 126,
-      "end": 134,
-      "sentence": "As they rode that night upon the mesa they saw come toward them much like their own image a party of riders pieced out of the darkness by the intermittent flare of the dry lightning to the north.",
-      "tier": "A",
-      "contextAfter": "by the intermittent flare of the dry lightning to the",
-      "note": ""
-    },
-    {
       "sentenceId": 2955,
       "word": "charcoal",
       "family": "neutral",
@@ -3145,17 +2134,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3156,
-      "word": "dark",
-      "family": "neutral",
-      "start": 205,
-      "end": 209,
-      "sentence": "But in those two days the judge leached out the guano with creekwater and woodash and precipitated it out and he built a clay kiln and burned charcoal in it, doused the fire by day and fired it again come dark.When we found him him and the Delaware was settin in the creek stark naked and they appeared at first to be drunk but on what none could surmise.",
-      "tier": "A",
-      "contextAfter": ".When we found him him and the Delaware was settin",
-      "note": ""
-    },
-    {
       "sentenceId": 3158,
       "word": "charcoal",
       "family": "neutral",
@@ -3186,28 +2164,6 @@
       "sentence": "He'd ground the charcoal to a powder in the hollow of a rock, you could have made ink of it.",
       "tier": "A",
       "contextAfter": "of it.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3165,
-      "word": "dark",
-      "family": "neutral",
-      "start": 7,
-      "end": 11,
-      "sentence": "It was dark when we reached the plain and we grouped andtook a headcount and then we rode out.",
-      "tier": "A",
-      "contextAfter": "when we reached the plain and we grouped andtook a",
-      "note": ""
-    },
-    {
-      "sentenceId": 3186,
-      "word": "dark",
-      "family": "neutral",
-      "start": 91,
-      "end": 95,
-      "sentence": "Beyond the malpais was a volcanic peak and in the sunrise it was many colors and there was dark little birds crossin down the wind and the wind was flappin the judge's old benjamin about him and he pointed to that stark and solitary mountain and delivered himself of an orationto what end I know not, then or now, and he concluded with the tellin us that our mother the earth as he said was round like an egg and contained all good things within her.",
-      "tier": "A",
-      "contextAfter": "little birds crossin down the wind and the wind was",
       "note": ""
     },
     {
@@ -3252,17 +2208,6 @@
       "sentence": "We hauled forth our members and at it we went and the judge on his knees kneadin the mass with his naked arms and the piss was splashin about and he was cryin out to us to piss, man, piss for your very souls for cant you see the redskins yonder, and laughin the while and workin up this great mass in a foul black dough, a devil's batter by the stink of it and him not a bloody dark pastryman himself I dont suppose and he pulls out his knife and he commences to trowel it across the southfacin rocks, spreadin it out thin with the knifeblade andwatchin the sun with one eye and him smeared with blacking and reekin of piss and sulphur and grinnin and wieldin the knife with a dexterity that was wondrous like he didit every day of his life.",
       "tier": "A",
       "contextAfter": "dough, a devil's batter by the stink of it and",
-      "note": ""
-    },
-    {
-      "sentenceId": 3237,
-      "word": "dark",
-      "family": "neutral",
-      "start": 378,
-      "end": 382,
-      "sentence": "We hauled forth our members and at it we went and the judge on his knees kneadin the mass with his naked arms and the piss was splashin about and he was cryin out to us to piss, man, piss for your very souls for cant you see the redskins yonder, and laughin the while and workin up this great mass in a foul black dough, a devil's batter by the stink of it and him not a bloody dark pastryman himself I dont suppose and he pulls out his knife and he commences to trowel it across the southfacin rocks, spreadin it out thin with the knifeblade andwatchin the sun with one eye and him smeared with blacking and reekin of piss and sulphur and grinnin and wieldin the knife with a dexterity that was wondrous like he didit every day of his life.",
-      "tier": "A",
-      "contextAfter": "pastryman himself I dont suppose and he pulls out his",
       "note": ""
     },
     {
@@ -3333,17 +2278,6 @@
     },
     {
       "sentenceId": 3325,
-      "word": "dark",
-      "family": "neutral",
-      "start": 20,
-      "end": 24,
-      "sentence": "They rode on into a dark fir forest, the little Spanish ponies sucking at the thin air, and just at dusk as Glanton's horse was clambering over a fallen log a lean blond bear rose up out of the swale on the far side where it had been feeding and looked down at them with dim pig's eyes.",
-      "tier": "A",
-      "contextAfter": "fir forest, the little Spanish ponies sucking at the thin",
-      "note": ""
-    },
-    {
-      "sentenceId": 3325,
       "word": "blond",
       "family": "yellow",
       "start": 164,
@@ -3362,17 +2296,6 @@
       "sentence": "One of the Delawares was next behind him and the horse he rode was falling back ard and he was trying to turn it, beating it about th춛 e head with his balled fist, and the bear's long muzzle swung toward them in a stunned articulation, amazed beyond reckoning, some foul gobbet dangling from its jaws and its chops dyed red with blood.",
       "tier": "A",
       "contextAfter": "with blood.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3337,
-      "word": "dark",
-      "family": "neutral",
-      "start": 24,
-      "end": 28,
-      "sentence": "They cut for sign until dark and they slept on the naked flints and the next day they rose and looked out on all that wild and stony country to the north.",
-      "tier": "A",
-      "contextAfter": "and they slept on the naked flints and the next",
       "note": ""
     },
     {
@@ -3406,17 +2329,6 @@
       "sentence": "They rode down from this country through a deep gorge, clat ering ov춗 er the stones, rifts of cool blue shade.",
       "tier": "A",
       "contextAfter": "shade.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3357,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 246,
-      "end": 254,
-      "sentence": "Lodged in faults and crevices a hundred feet above them were nests of straw and jetsam from old high waters and the riders could hear the mutter of thunder in some nameless distance and they kept watch on the narrow shape of sky overhead for any darkness of impending rain, threading the canyon's close pressed flanks, the dry white rocks of the dead river floor round and smooth as arcane eggs.",
-      "tier": "A",
-      "contextAfter": "of impending rain, threading the canyon's close pressed flanks, the",
       "note": ""
     },
     {
@@ -3508,17 +2420,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3442,
-      "word": "dark",
-      "family": "neutral",
-      "start": 54,
-      "end": 58,
-      "sentence": "And by and by they came to a place where the road was dark ned in a deep wood and in this춅 place the old man killed the traveler.",
-      "tier": "A",
-      "contextAfter": "ned in a deep wood and in this춅 place the",
-      "note": ""
-    },
-    {
       "sentenceId": 3478,
       "word": "wan",
       "family": "neutral",
@@ -3527,17 +2428,6 @@
       "sentence": "They quit these parts, routed by drought or disease or by wan ering bands of marauders, quit these parts ages s춄 ince and of them there is no memory.",
       "tier": "A",
       "contextAfter": "ering bands of marauders, quit these parts ages s춄 ince",
-      "note": ""
-    },
-    {
-      "sentenceId": 3483,
-      "word": "dark",
-      "family": "neutral",
-      "start": 35,
-      "end": 39,
-      "sentence": "In their crude huts they crouch in dark ess and listen to the fear see춏 ping out of the rock.",
-      "tier": "A",
-      "contextAfter": "ess and listen to the fear see춏 ping out of",
       "note": ""
     },
     {
@@ -3585,39 +2475,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3530,
-      "word": "dark",
-      "family": "neutral",
-      "start": 267,
-      "end": 271,
-      "sentence": "A lobeshaped moon rose over the black shapes of the mountains dimming out the eastern stars and along the nearby ridge the white blooms of flowering yuccas moved in the wind and in the night bats came from some nether part of the world to stand on leather wings like dark satanic hummingbirds and feed at the mouths of those flowers.",
-      "tier": "A",
-      "contextAfter": "satanic hummingbirds and feed at the mouths of those flowers.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3556,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 59,
-      "end": 67,
-      "sentence": "Glanton led his horse and called after the others, and yet darkness overtook them and they were benighted in that place, strung out along a fault in the wall of the gorge.",
-      "tier": "A",
-      "contextAfter": "overtook them and they were benighted in that place, strung",
-      "note": ""
-    },
-    {
-      "sentenceId": 3557,
-      "word": "dark",
-      "family": "neutral",
-      "start": 51,
-      "end": 55,
-      "sentence": "He led them cursing upward through the profoundest dark but the way grew so narrow and the footing so treacherous they were obliged to halt.",
-      "tier": "A",
-      "contextAfter": "but the way grew so narrow and the footing so",
-      "note": ""
-    },
-    {
       "sentenceId": 3569,
       "word": "blue",
       "family": "blue",
@@ -3651,28 +2508,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3590,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 438,
-      "end": 446,
-      "sentence": "The little desert wolves yapped in the dark and Glanton's dog trotted beneath the horse's belly, its footfalls stitched pre isely among the hooves.춃 That night they were visited with a plague of hail out of a faultless sky and the horses shied and moaned and the men dis ounted and sat upon the ground w춎 ith their saddles over their heads while the hail leaped in the sand like small lucent eggs concocted alchemically out of the desert darkness.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 3598,
-      "word": "dark",
-      "family": "neutral",
-      "start": 144,
-      "end": 148,
-      "sentence": "Some by their beards were men but yet wore strange menstrual wounds be ween their legs and no man's parts for these춗 had been cut away and hung dark and strange from out their grinning mouths.",
-      "tier": "A",
-      "contextAfter": "and strange from out their grinning mouths.",
-      "note": ""
-    },
-    {
       "sentenceId": 3603,
       "word": "white",
       "family": "neutral",
@@ -3681,39 +2516,6 @@
       "sentence": "The tracks of the murderers bore on to the west but they were white men who preyedon travelers in that wilderness and disguised their work to be that of the savages.",
       "tier": "A",
       "contextAfter": "men who preyedon travelers in that wilderness and disguised their",
-      "note": ""
-    },
-    {
-      "sentenceId": 3609,
-      "word": "dark",
-      "family": "neutral",
-      "start": 61,
-      "end": 65,
-      "sentence": "To the west thecloudbanks stood above the mountains like the dark warp of the very firmament and the starsprent reaches of the galaxies hung in a vast aura above the riders' heads.",
-      "tier": "A",
-      "contextAfter": "warp of the very firmament and the starsprent reaches of",
-      "note": ""
-    },
-    {
-      "sentenceId": 3612,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 117,
-      "end": 125,
-      "sentence": "Glanton when he rose from this council walked out on the desert alone and stood for a long time looking out upon the darkness downcountry.",
-      "tier": "A",
-      "contextAfter": "downcountry.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3615,
-      "word": "dark",
-      "family": "neutral",
-      "start": 91,
-      "end": 95,
-      "sentence": "In the afternoon a detachment led the horses out to water and led them back again and with dark Glanton and his lieutenants followed the Delawares out to scout the enemy's position.",
-      "tier": "A",
-      "contextAfter": "Glanton and his lieutenants followed the Delawares out to scout",
       "note": ""
     },
     {
@@ -3794,39 +2596,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3708,
-      "word": "dark",
-      "family": "neutral",
-      "start": 9,
-      "end": 13,
-      "sentence": "In those dark pools there sat each a small and perfect sun.",
-      "tier": "A",
-      "contextAfter": "pools there sat each a small and perfect sun.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3722,
-      "word": "dark",
-      "family": "neutral",
-      "start": 23,
-      "end": 27,
-      "sentence": "The head with its long dark locks swung about to face him.",
-      "tier": "A",
-      "contextAfter": "locks swung about to face him.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3760,
-      "word": "dark",
-      "family": "neutral",
-      "start": 84,
-      "end": 88,
-      "sentence": "The judge rode at the head of the column bearing on the saddle before him a strange dark child covered with ash.",
-      "tier": "A",
-      "contextAfter": "child covered with ash.",
-      "note": ""
-    },
-    {
       "sentenceId": 3761,
       "word": "black",
       "family": "neutral",
@@ -3849,28 +2618,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3765,
-      "word": "dark",
-      "family": "neutral",
-      "start": 14,
-      "end": 18,
-      "sentence": "His chest was dark with blood and Glanton carried him on the pommel of the saddle until he could recruit himself.",
-      "tier": "A",
-      "contextAfter": "with blood and Glanton carried him on the pommel of",
-      "note": ""
-    },
-    {
-      "sentenceId": 3767,
-      "word": "dark",
-      "family": "neutral",
-      "start": 72,
-      "end": 76,
-      "sentence": "By now there was a thin line of dust to the north and they rode on into dark and the Delawares dismounted and lay with their ears to the ground and then they mounted up and all rode on again.",
-      "tier": "A",
-      "contextAfter": "and the Delawares dismounted and lay with their ears to",
-      "note": ""
-    },
-    {
       "sentenceId": 3816,
       "word": "blood-soaked",
       "family": "red",
@@ -3879,28 +2626,6 @@
       "sentence": "The point was of hammered copper and it was cocked in its blood-soaked bindings on the shaft but it had held.",
       "tier": "A",
       "contextAfter": "bindings on the shaft but it had held.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3829,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 264,
-      "end": 272,
-      "sentence": "Glanton had ordered the fires built up and they rode out with the flames lighting all the grounds about and the shadowshapes of the desert brush reeling on the sands and the riders treading their thin and flaring shadows until they had crossed altogether into the darkness which so well became them.",
-      "tier": "A",
-      "contextAfter": "which so well became them.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3831,
-      "word": "dark",
-      "family": "neutral",
-      "start": 56,
-      "end": 60,
-      "sentence": "The sourceless summer lightning marked out of the night dark mountain ranges at the rim of the world and the halfwild horses on the plain before them trotted in those bluish strobes like horses called forth quivering out of the abyss.",
-      "tier": "A",
-      "contextAfter": "mountain ranges at the rim of the world and the",
       "note": ""
     },
     {
@@ -3923,28 +2648,6 @@
       "sentence": "Midmorning they watered at a stagnant pothole that had already been walked through by three hundred animals, the riders hazing them out of the water and dismounting to drink from their hats and then riding on again down the dry bed of the stream and clattering over the stony ground, dry rocks and boulders and thenthe desert soil again red and sandy and the constant mountains about them thinly grassed and grown with ocotillo and sotol and the secular aloes blooming like phantasmagoria in a fever land.",
       "tier": "A",
       "contextAfter": "and sandy and the constant mountains about them thinly grassed",
-      "note": ""
-    },
-    {
-      "sentenceId": 3837,
-      "word": "dark",
-      "family": "neutral",
-      "start": 46,
-      "end": 50,
-      "sentence": "When they rode on in the morning it was still dark and the horses all but fainting.",
-      "tier": "A",
-      "contextAfter": "and the horses all but fainting.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3841,
-      "word": "dark",
-      "family": "neutral",
-      "start": 81,
-      "end": 85,
-      "sentence": "The judge sat with the Apache boy before the fire and it watched everything with dark berry eyes and some of the men played with it and made it laugh and they gave it jerky and it sat chewing and watching gravely the figures that passed above it.",
-      "tier": "A",
-      "contextAfter": "berry eyes and some of the men played with it",
       "note": ""
     },
     {
@@ -4014,17 +2717,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3885,
-      "word": "dark",
-      "family": "neutral",
-      "start": 96,
-      "end": 100,
-      "sentence": "Old women in black rebozos ran forth to kiss the hems of their reeking shirts and hold up their dark little hands in blessing and the riders wheeled their gaunted mounts and pushed through the clamoring multitude and into the street.",
-      "tier": "A",
-      "contextAfter": "little hands in blessing and the riders wheeled their gaunted",
-      "note": ""
-    },
-    {
       "sentenceId": 3893,
       "word": "white",
       "family": "neutral",
@@ -4044,17 +2736,6 @@
       "sentence": "Jackson, pistols drawn, lurched into the street vowing to Shoot the ass off Jesus Christ, the longlegged white son of a bitch.",
       "tier": "A",
       "contextAfter": "son of a bitch.",
-      "note": ""
-    },
-    {
-      "sentenceId": 3926,
-      "word": "dark",
-      "family": "neutral",
-      "start": 73,
-      "end": 77,
-      "sentence": "At dawn the shapes of insensate topers lay snoring about the floor among dark patches of drying blood.",
-      "tier": "A",
-      "contextAfter": "patches of drying blood.",
       "note": ""
     },
     {
@@ -4080,17 +2761,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3985,
-      "word": "dark",
-      "family": "neutral",
-      "start": 10,
-      "end": 14,
-      "sentence": "Long past dark that night when the moon was already up a party of women that had been upriver drying fish returned to the village and wandered howling through the ruins.",
-      "tier": "A",
-      "contextAfter": "that night when the moon was already up a party",
-      "note": ""
-    },
-    {
       "sentenceId": 3989,
       "word": "black",
       "family": "neutral",
@@ -4113,17 +2783,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3994,
-      "word": "dark",
-      "family": "neutral",
-      "start": 80,
-      "end": 84,
-      "sentence": "They watched the passing of that bloodstained argosy through their streets with dark and solemn eyes.",
-      "tier": "A",
-      "contextAfter": "and solemn eyes.",
-      "note": ""
-    },
-    {
       "sentenceId": 3998,
       "word": "white",
       "family": "neutral",
@@ -4135,17 +2794,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3999,
-      "word": "dark",
-      "family": "neutral",
-      "start": 47,
-      "end": 51,
-      "sentence": "When they rode out in the morning it was still dark.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 4000,
       "word": "blue",
       "family": "blue",
@@ -4154,17 +2802,6 @@
       "sentence": "Lightning stood in ragged chains far to the south, silent, the staccato mountains bespoken blue and barren out of the void.",
       "tier": "A",
       "contextAfter": "and barren out of the void.",
-      "note": ""
-    },
-    {
-      "sentenceId": 4001,
-      "word": "darkly",
-      "family": "neutral",
-      "start": 41,
-      "end": 47,
-      "sentence": "Day broke upon a smoking reach of desert darkly clouded where the riders could count five separate storms spaced upon the shores of the round earth.",
-      "tier": "A",
-      "contextAfter": "clouded where the riders could count five separate storms spaced",
       "note": ""
     },
     {
@@ -4201,17 +2838,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4075,
-      "word": "dark",
-      "family": "neutral",
-      "start": 150,
-      "end": 154,
-      "sentence": "Dorsey was grappling with the Mexicans and Henderson Smith had drawn his bowie and half severed a man's arm with it and the man was standing with the dark arterial blood spraying between his fingers where he tried to hold the wound shut.",
-      "tier": "A",
-      "contextAfter": "arterial blood spraying between his fingers where he tried to",
-      "note": ""
-    },
-    {
       "sentenceId": 4105,
       "word": "wine-colored",
       "family": "red",
@@ -4242,17 +2868,6 @@
       "sentence": "They trod a narrow trail through a black pine wood by day and by dark and in silence save for the creaking of tack and the breath ng of the horses.",
       "tier": "A",
       "contextAfter": "pine wood by day and by dark and in silence",
-      "note": ""
-    },
-    {
-      "sentenceId": 4131,
-      "word": "dark",
-      "family": "neutral",
-      "start": 65,
-      "end": 69,
-      "sentence": "They trod a narrow trail through a black pine wood by day and by dark and in silence save for the creaking of tack and the breath ng of the horses.",
-      "tier": "A",
-      "contextAfter": "and in silence save for the creaking of tack and",
       "note": ""
     },
     {
@@ -4330,17 +2945,6 @@
       "sentence": "On that raw tablestone the flames of their balefire swirled and circled and they studied the arrant black ess under them where it fell awa춏 y like the sheer cloven face of the world.",
       "tier": "A",
       "contextAfter": "ess under them where it fell awa춏 y like the",
-      "note": ""
-    },
-    {
-      "sentenceId": 4209,
-      "word": "dark",
-      "family": "neutral",
-      "start": 490,
-      "end": 494,
-      "sentence": "They trampled the spot with their horses until it looked much like the road again and the smoking gunlocks and sabreblades and girthrings were dragged from the ashes of the fire and carried away and buried in a separate place and the riderless horses hazed off into the desert and in the evening the wind carried away the ashes and the wind blew in the night and fanned the last smoldering billets and drove forth the last fragile race of sparks fugitive as flintstrikings in the unanimous dark of the world.",
-      "tier": "A",
-      "contextAfter": "of the world.",
       "note": ""
     },
     {
@@ -4487,28 +3091,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4225,
-      "word": "dark",
-      "family": "neutral",
-      "start": 40,
-      "end": 44,
-      "sentence": "The country before them lay clouded and dark.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 4226,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 166,
-      "end": 174,
-      "sentence": "They rode through the long twilight and the sun set and no moon rose and to the west the mountains shuddered again and again in clattering frames and burned to final darkness and the rain hissed in the blind night land.",
-      "tier": "A",
-      "contextAfter": "and the rain hissed in the blind night land.",
-      "note": ""
-    },
-    {
       "sentenceId": 4228,
       "word": "mossy",
       "family": "green",
@@ -4521,17 +3103,6 @@
     },
     {
       "sentenceId": 4228,
-      "word": "dark",
-      "family": "neutral",
-      "start": 106,
-      "end": 110,
-      "sentence": "In the night they followed a mountain torrent in a wild gorge choked with mossy rocks and they rode under dark grottoes where the water dripped and spattered and tasted of iron and they saw the silver filaments of cascades divided upon the faces of distant buttes that appeared as signs and wonders in the heavens themselves so dark was the ground of their origins.",
-      "tier": "A",
-      "contextAfter": "grottoes where the water dripped and spattered and tasted of",
-      "note": ""
-    },
-    {
-      "sentenceId": 4228,
       "word": "silver",
       "family": "neutral",
       "start": 194,
@@ -4539,17 +3110,6 @@
       "sentence": "In the night they followed a mountain torrent in a wild gorge choked with mossy rocks and they rode under dark grottoes where the water dripped and spattered and tasted of iron and they saw the silver filaments of cascades divided upon the faces of distant buttes that appeared as signs and wonders in the heavens themselves so dark was the ground of their origins.",
       "tier": "A",
       "contextAfter": "filaments of cascades divided upon the faces of distant buttes",
-      "note": ""
-    },
-    {
-      "sentenceId": 4228,
-      "word": "dark",
-      "family": "neutral",
-      "start": 328,
-      "end": 332,
-      "sentence": "In the night they followed a mountain torrent in a wild gorge choked with mossy rocks and they rode under dark grottoes where the water dripped and spattered and tasted of iron and they saw the silver filaments of cascades divided upon the faces of distant buttes that appeared as signs and wonders in the heavens themselves so dark was the ground of their origins.",
-      "tier": "A",
-      "contextAfter": "was the ground of their origins.",
       "note": ""
     },
     {
@@ -4594,28 +3154,6 @@
       "sentence": "They stood blinking before the doorways where finches hung in small withy cages and green and brassy parrots that stood on one foot and croaked uneasily.",
       "tier": "A",
       "contextAfter": "parrots that stood on one foot and croaked uneasily.",
-      "note": ""
-    },
-    {
-      "sentenceId": 4264,
-      "word": "dark",
-      "family": "neutral",
-      "start": 3,
-      "end": 7,
-      "sentence": "By dark the streets were filled with besotted bedlamites lurch ng춊 and cursing and ringing the churchbells with pistolballs in a godless charivari until the priest emerged bearing before him the crucified Christ and exhorting them with fragments of latin in a singsong chant.",
-      "tier": "A",
-      "contextAfter": "the streets were filled with besotted bedlamites lurch ng춊 and",
-      "note": ""
-    },
-    {
-      "sentenceId": 4268,
-      "word": "dark",
-      "family": "neutral",
-      "start": 149,
-      "end": 153,
-      "sentence": "Some of the Americans had wandered into the cold waters of the stream and were splashing about and they clambered dripping into the street and stood dark and smoking and apocalyptic in the dim lampfall.",
-      "tier": "A",
-      "contextAfter": "and smoking and apocalyptic in the dim lampfall.",
       "note": ""
     },
     {
@@ -4685,17 +3223,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4348,
-      "word": "dark",
-      "family": "neutral",
-      "start": 7,
-      "end": 11,
-      "sentence": "Before dark they encountered laboring up the western slope of the mountain a conducta of one hundred and twenty-two mules bearing flasks of quicksilver for the mines.",
-      "tier": "A",
-      "contextAfter": "they encountered laboring up the western slope of the mountain",
-      "note": ""
-    },
-    {
       "sentenceId": 4360,
       "word": "black",
       "family": "neutral",
@@ -4718,17 +3245,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4369,
-      "word": "dark",
-      "family": "neutral",
-      "start": 513,
-      "end": 517,
-      "sentence": "The riders pushed between them and the rock and methodically rode them from the escarpment, the animals dropping silently as martyrs, turning sedately in the empty air and exploding on the rocks below in startling bursts of blood and silver as the flasks broke open and the mercury loomed wobbling in the air in great sheets and lobes and small trembling satellites and all its forms grouping below and racing in the stone arroyos like the imbreachment of some ultimate alchemic work decocted from out the secret dark of the earth's heart, the fleeing stag of the ancients fugitive on the mountainside and bright and quick in the dry path of the storm channels and shaping out the sockets in the rock and hurrying from ledge to ledge down the slope shimmering and deft as eels.",
-      "tier": "A",
-      "contextAfter": "of the earth's heart, the fleeing stag of the ancients",
-      "note": ""
-    },
-    {
       "sentenceId": 4394,
       "word": "white",
       "family": "neutral",
@@ -4737,28 +3253,6 @@
       "sentence": "I seen them shoot them boys and they were ever one white as you and me.",
       "tier": "A",
       "contextAfter": "as you and me.",
-      "note": ""
-    },
-    {
-      "sentenceId": 4397,
-      "word": "dark",
-      "family": "neutral",
-      "start": 46,
-      "end": 50,
-      "sentence": "When they rode out up the trail it was almost dark and the company had pulled back into the woods and posted videttes at the ford and they made no fire.",
-      "tier": "A",
-      "contextAfter": "and the company had pulled back into the woods and",
-      "note": ""
-    },
-    {
-      "sentenceId": 4399,
-      "word": "dark",
-      "family": "neutral",
-      "start": 32,
-      "end": 36,
-      "sentence": "The early part of the night was dark butthe first relief at the ford saw it begin to clear and the moon came out over the canyon and they saw a bear come down and pause at the far side of the river and test the air with his nose and turn back.",
-      "tier": "A",
-      "contextAfter": "butthe first relief at the ford saw it begin to",
       "note": ""
     },
     {
@@ -4784,17 +3278,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4442,
-      "word": "dark",
-      "family": "neutral",
-      "start": 23,
-      "end": 27,
-      "sentence": "He looked about at the dark forest in which they were biv uacked.",
-      "tier": "A",
-      "contextAfter": "forest in which they were biv uacked.",
-      "note": ""
-    },
-    {
       "sentenceId": 4483,
       "word": "indigo",
       "family": "indigo",
@@ -4814,28 +3297,6 @@
       "sentence": "Glanton wan ered through the tall and dusty rooms with t춄 heir withy ceilings and at length he found an old criada cowering in what must have passed for a kitchen although it contained nothing culinary save a brazier and a few clay pots.",
       "tier": "A",
       "contextAfter": "ered through the tall and dusty rooms with t춄 heir",
-      "note": ""
-    },
-    {
-      "sentenceId": 4512,
-      "word": "dark",
-      "family": "neutral",
-      "start": 3,
-      "end": 7,
-      "sentence": "By dark there were a half dozen young goats roasting on spits in the yard behind the hostel, their blackened figures shining in the smoky light.",
-      "tier": "A",
-      "contextAfter": "there were a half dozen young goats roasting on spits",
-      "note": ""
-    },
-    {
-      "sentenceId": 4520,
-      "word": "dark",
-      "family": "neutral",
-      "start": 124,
-      "end": 128,
-      "sentence": "In the춖 yard at the rear of the premises the surviving dogs had dragged the bones about everywhere and the dead dogs lay in dark shingles of their own blood dried in the dust and cocks had begun to crow.",
-      "tier": "A",
-      "contextAfter": "shingles of their own blood dried in the dust and",
       "note": ""
     },
     {
@@ -4872,28 +3333,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4534,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 57,
-      "end": 65,
-      "sentence": "In the fifth of December they rode out north in the cold darkness before daybreak carrying with them a contract signed by the governor of the state of Sonora for the furnishing of Apache scalps.",
-      "tier": "A",
-      "contextAfter": "before daybreak carrying with them a contract signed by the",
-      "note": ""
-    },
-    {
-      "sentenceId": 4545,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 26,
-      "end": 34,
-      "sentence": "They sat out the night in darkness and the wounded called for water and in the cold stillness before dawn the fires out there were still burning.",
-      "tier": "A",
-      "contextAfter": "and the wounded called for water and in the cold",
-      "note": ""
-    },
-    {
       "sentenceId": 4550,
       "word": "red",
       "family": "red",
@@ -4924,17 +3363,6 @@
       "sentence": "He looked at the Mexican, wheezing softly, a pink froth on his lips.",
       "tier": "A",
       "contextAfter": "froth on his lips.",
-      "note": ""
-    },
-    {
-      "sentenceId": 4676,
-      "word": "dark",
-      "family": "neutral",
-      "start": 2,
-      "end": 6,
-      "sentence": "A dark overcast was moving down from the north and the wind was up.",
-      "tier": "A",
-      "contextAfter": "overcast was moving down from the north and the wind",
       "note": ""
     },
     {
@@ -5001,17 +3429,6 @@
       "sentence": "They began to come upon pinon and dwarf oak and open parkland and the snow on those high meadows was soon a foot deep and the horses were blowing and smoking like steamengines and it was colder and growing dark.",
       "tier": "A",
       "contextAfter": "on those high meadows was soon a foot deep and",
-      "note": ""
-    },
-    {
-      "sentenceId": 4750,
-      "word": "dark",
-      "family": "neutral",
-      "start": 206,
-      "end": 210,
-      "sentence": "They began to come upon pinon and dwarf oak and open parkland and the snow on those high meadows was soon a foot deep and the horses were blowing and smoking like steamengines and it was colder and growing dark.",
-      "tier": "A",
-      "contextAfter": ".",
       "note": ""
     },
     {
@@ -5148,17 +3565,6 @@
     },
     {
       "sentenceId": 4788,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 33,
-      "end": 41,
-      "sentence": "He kept moving, following in the darkness the naked chines of rock blown bare of snow.",
-      "tier": "A",
-      "contextAfter": "the naked chines of rock blown bare of snow.",
-      "note": ""
-    },
-    {
-      "sentenceId": 4788,
       "word": "snow",
       "family": "neutral",
       "start": 81,
@@ -5191,28 +3597,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4794,
-      "word": "dark",
-      "family": "neutral",
-      "start": 4,
-      "end": 8,
-      "sentence": "The dark little horses circled and the landscape shifted in the paling light and the moun ains beyond춗 brooded in darkening silhouette.",
-      "tier": "A",
-      "contextAfter": "little horses circled and the landscape shifted in the paling",
-      "note": ""
-    },
-    {
-      "sentenceId": 4796,
-      "word": "dark",
-      "family": "neutral",
-      "start": 125,
-      "end": 129,
-      "sentence": "He watched all this pass below him mute and ordered and senseless until the warring horsemen were gone in the sudden rush of dark that fell over the desert.",
-      "tier": "A",
-      "contextAfter": "that fell over the desert.",
-      "note": ""
-    },
-    {
       "sentenceId": 4797,
       "word": "blue",
       "family": "blue",
@@ -5221,17 +3605,6 @@
       "sentence": "All that land lay cold and blue and without definition and the sun shone solely on the high rocks where he stood.",
       "tier": "A",
       "contextAfter": "and without definition and the sun shone solely on the",
-      "note": ""
-    },
-    {
-      "sentenceId": 4798,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 31,
-      "end": 39,
-      "sentence": "He moved on and soon he was in darkness himself and the wind came up off the desert and frayed wires of lightning stood again and again along the western terminals of the world.",
-      "tier": "A",
-      "contextAfter": "himself and the wind came up off the desert and",
       "note": ""
     },
     {
@@ -5254,17 +3627,6 @@
       "sentence": "Most of the snow had blown or melted from off the plain on which he found himself.",
       "tier": "A",
       "contextAfter": "had blown or melted from off the plain on which",
-      "note": ""
-    },
-    {
-      "sentenceId": 4813,
-      "word": "dark",
-      "family": "neutral",
-      "start": 118,
-      "end": 122,
-      "sentence": "He cited the terrain before him in the periodic flare of the lightning and trudged on and in this manner he rounded a dark cape of rock off to his right and came to a halt, shivering and blowing into his clawed and palsied hands.",
-      "tier": "A",
-      "contextAfter": "cape of rock off to his right and came to",
       "note": ""
     },
     {
@@ -5301,17 +3663,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4845,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 72,
-      "end": 80,
-      "sentence": "He went on, follow ng the tracks with their suggesti춊 on of pursuit and darkness, trailing them through the deepening twilight.",
-      "tier": "A",
-      "contextAfter": "trailing them through the deepening twilight.",
-      "note": ""
-    },
-    {
       "sentenceId": 4848,
       "word": "black",
       "family": "neutral",
@@ -5320,17 +3671,6 @@
       "sentence": "The moon was up, a half moon that sat like a child's boat in the gap of the black paper mountains to the east.",
       "tier": "A",
       "contextAfter": "paper mountains to the east.",
-      "note": ""
-    },
-    {
-      "sentenceId": 4854,
-      "word": "dark",
-      "family": "neutral",
-      "start": 23,
-      "end": 27,
-      "sentence": "The horse went past, a dark shape, rider or none he could not tell.",
-      "tier": "A",
-      "contextAfter": "shape, rider or none he could not tell.",
       "note": ""
     },
     {
@@ -5356,17 +3696,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4886,
-      "word": "dark",
-      "family": "neutral",
-      "start": 24,
-      "end": 28,
-      "sentence": "Glanton's eyes in their dark sockets were burning centroids of murder and he and his haggard riders stared balefully at the kid as if he were no part of them for all they were so like in wretchedness of circum 춖 tance.",
-      "tier": "A",
-      "contextAfter": "sockets were burning centroids of murder and he and his",
-      "note": ""
-    },
-    {
       "sentenceId": 4891,
       "word": "snow",
       "family": "neutral",
@@ -5386,28 +3715,6 @@
       "sentence": "They rode down a long north slope in the cold blue evening and through a barren bajada grown only with sporadic ocotillo and stands of grama and they made camp in the flat and all night the wind blew and they could see other fires burning on the desert to the north.",
       "tier": "A",
       "contextAfter": "evening and through a barren bajada grown only with sporadic",
-      "note": ""
-    },
-    {
-      "sentenceId": 4915,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 67,
-      "end": 75,
-      "sentence": "The expriest didnt answer and the kid turned and went out into the darkness where the judge waited.",
-      "tier": "A",
-      "contextAfter": "where the judge waited.",
-      "note": ""
-    },
-    {
-      "sentenceId": 4935,
-      "word": "dark",
-      "family": "neutral",
-      "start": 57,
-      "end": 61,
-      "sentence": "They could smell the smoke of pinonwood fires and before dark they rode into the town of Santa Cruz.",
-      "tier": "A",
-      "contextAfter": "they rode into the town of Santa Cruz.",
       "note": ""
     },
     {
@@ -5478,17 +3785,6 @@
     },
     {
       "sentenceId": 4948,
-      "word": "dark",
-      "family": "neutral",
-      "start": 15,
-      "end": 19,
-      "sentence": "Outside it was dark and the snow swirled down.",
-      "tier": "A",
-      "contextAfter": "and the snow swirled down.",
-      "note": ""
-    },
-    {
-      "sentenceId": 4948,
       "word": "snow",
       "family": "neutral",
       "start": 28,
@@ -5510,17 +3806,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4957,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 160,
-      "end": 168,
-      "sentence": "When they had arranged their blankets the boy lowered the lamp and stepped into the yard and pulled the door shut behind, leaving them in profound and absolute darkness.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 4969,
       "word": "snow",
       "family": "neutral",
@@ -5529,17 +3814,6 @@
       "sentence": "There was no one in the streets and there were no tracks in the new snow.",
       "tier": "A",
       "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 4986,
-      "word": "dark",
-      "family": "neutral",
-      "start": 66,
-      "end": 70,
-      "sentence": "Three of the party rode with him and Glanton watched them go with dark misgiving.",
-      "tier": "A",
-      "contextAfter": "misgiving.",
       "note": ""
     },
     {
@@ -5587,28 +3861,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5050,
-      "word": "darker",
-      "family": "neutral",
-      "start": 8,
-      "end": 14,
-      "sentence": "The two darker forms were the last of the Delawares and the other two were the Vandiemenlander and a man from the east named Gilchrist.",
-      "tier": "A",
-      "contextAfter": "forms were the last of the Delawares and the other",
-      "note": ""
-    },
-    {
-      "sentenceId": 5055,
-      "word": "dark",
-      "family": "neutral",
-      "start": 69,
-      "end": 73,
-      "sentence": "The air was cold and clear and the country there and beyond lay in a dark ess춏 unclaimed by so much as an owl.",
-      "tier": "A",
-      "contextAfter": "ess춏 unclaimed by so much as an owl.",
-      "note": ""
-    },
-    {
       "sentenceId": 5056,
       "word": "green",
       "family": "green",
@@ -5617,17 +3869,6 @@
       "sentence": "A pale green meteor came up the valley floor behind them and passed overhead and vanished silently in the void.",
       "tier": "A",
       "contextAfter": "meteor came up the valley floor behind them and passed",
-      "note": ""
-    },
-    {
-      "sentenceId": 5061,
-      "word": "dark",
-      "family": "neutral",
-      "start": 32,
-      "end": 36,
-      "sentence": "The stones of the desert lay in dark tethers of shadow and a wind was blowing out of the sun where it sat squat and pulsing at the eastern reaches of the earth.",
-      "tier": "A",
-      "contextAfter": "tethers of shadow and a wind was blowing out of",
       "note": ""
     },
     {
@@ -5653,17 +3894,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5074,
-      "word": "dark",
-      "family": "neutral",
-      "start": 48,
-      "end": 52,
-      "sentence": "The leader of these jackal warriors was a small dark man in cast-off Mexican military attire and he carried a sword and he carried in a torn and gaudy baldric one of the Whitneyville Colts that had belonged to the scouts.",
-      "tier": "A",
-      "contextAfter": "man in cast-off Mexican military attire and he carried a",
-      "note": ""
-    },
-    {
       "sentenceId": 5078,
       "word": "black",
       "family": "neutral",
@@ -5672,17 +3902,6 @@
       "sentence": "The horse screamed and reared and the Apache struggled to keep his seat and drew his sword and found himself staring into the black lemniscate that was the paired bores of Glanton's doublerifle.",
       "tier": "A",
       "contextAfter": "lemniscate that was the paired bores of Glanton's doublerifle.",
-      "note": ""
-    },
-    {
-      "sentenceId": 5082,
-      "word": "dark",
-      "family": "neutral",
-      "start": 79,
-      "end": 83,
-      "sentence": "He gestured at the bloodied ear of his mount and spoke- angrily in apache, his dark eyes avoiding Glanton.",
-      "tier": "A",
-      "contextAfter": "eyes avoiding Glanton.",
       "note": ""
     },
     {
@@ -5730,17 +3949,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5163,
-      "word": "dark",
-      "family": "neutral",
-      "start": 70,
-      "end": 74,
-      "sentence": "At the far end of the square there was a public whippingpost that was dark about its base where dogs had pissed on it.",
-      "tier": "A",
-      "contextAfter": "about its base where dogs had pissed on it.",
-      "note": ""
-    },
-    {
       "sentenceId": 5186,
       "word": "steel",
       "family": "neutral",
@@ -5771,28 +3979,6 @@
       "sentence": "A tall thin man in a bloodstained apron entered the room from the rear and looked them over.",
       "tier": "A",
       "contextAfter": "apron entered the room from the rear and looked them",
-      "note": ""
-    },
-    {
-      "sentenceId": 5353,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 27,
-      "end": 35,
-      "sentence": "The judge emerged from the darkness.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 5374,
-      "word": "dark",
-      "family": "neutral",
-      "start": 10,
-      "end": 14,
-      "sentence": "Glanton's dark eye passed over them and alighted on the owner of the imbecile who sat alone across the room watching him.",
-      "tier": "A",
-      "contextAfter": "eye passed over them and alighted on the owner of",
       "note": ""
     },
     {
@@ -5840,50 +4026,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5484,
-      "word": "dark",
-      "family": "neutral",
-      "start": 37,
-      "end": 41,
-      "sentence": "Mangas and his lieutenants exchanged dark looks but the Amer cans mounted up and rode out and none looked b춊 ack save the recruits.",
-      "tier": "A",
-      "contextAfter": "looks but the Amer cans mounted up and rode out",
-      "note": ""
-    },
-    {
-      "sentenceId": 5491,
-      "word": "dark",
-      "family": "neutral",
-      "start": 13,
-      "end": 17,
-      "sentence": "Because it's dark, he said.",
-      "tier": "A",
-      "contextAfter": "he said.",
-      "note": ""
-    },
-    {
-      "sentenceId": 5509,
-      "word": "dark",
-      "family": "neutral",
-      "start": 121,
-      "end": 125,
-      "sentence": "The bones of cholla that glowed there in their incandescent basketry pulsed like burning holothurians in the phosphorous dark of the sea's deeps.",
-      "tier": "A",
-      "contextAfter": "of the sea's deeps.",
-      "note": ""
-    },
-    {
-      "sentenceId": 5519,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 22,
-      "end": 30,
-      "sentence": "They rode on into the darkness and the moonblanched waste lay before them cold and pale and the moon sat in a ring over ead and in that ring lay a mock m춉 oon with its own cold gray and nacre seas.",
-      "tier": "A",
-      "contextAfter": "and the moonblanched waste lay before them cold and pale",
-      "note": ""
-    },
-    {
       "sentenceId": 5519,
       "word": "gray",
       "family": "neutral",
@@ -5903,28 +4045,6 @@
       "sentence": "They made camp on a low bench of landwhere walls of dry aggregate marked an old river course and they struck up a fire about which they sat in silence, the eyes of the dog and of the idiot and certain other men glowing red as coals in their heads where they turned.",
       "tier": "A",
       "contextAfter": "as coals in their heads where they turned.",
-      "note": ""
-    },
-    {
-      "sentenceId": 5525,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 84,
-      "end": 92,
-      "sentence": "And could he find some alter means by which the birds could mend their paths in the darkness he might have done with this one too.",
-      "tier": "A",
-      "contextAfter": "he might have done with this one too.",
-      "note": ""
-    },
-    {
-      "sentenceId": 5544,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 104,
-      "end": 112,
-      "sentence": "Watch the coin, Davy, he said.춇 He flung it and it cut an arc through the firelight and was gone in the darkness beyond.",
-      "tier": "A",
-      "contextAfter": "beyond.",
       "note": ""
     },
     {
@@ -6005,28 +4125,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5574,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 156,
-      "end": 164,
-      "sentence": "The mountains to the north lay sunwise in corrugated folds and the days were cool and the nights were cold and they sat about the fire each in his round of darkness in that round of dark while the idiot watched from his cage at the edge of the light.",
-      "tier": "A",
-      "contextAfter": "in that round of dark while the idiot watched from",
-      "note": ""
-    },
-    {
-      "sentenceId": 5574,
-      "word": "dark",
-      "family": "neutral",
-      "start": 182,
-      "end": 186,
-      "sentence": "The mountains to the north lay sunwise in corrugated folds and the days were cool and the nights were cold and they sat about the fire each in his round of darkness in that round of dark while the idiot watched from his cage at the edge of the light.",
-      "tier": "A",
-      "contextAfter": "while the idiot watched from his cage at the edge",
-      "note": ""
-    },
-    {
       "sentenceId": 5671,
       "word": "reddish",
       "family": "red",
@@ -6046,17 +4144,6 @@
       "sentence": "On the day following they crossed the malpais afoot, leading the horses upon a lakebed of lava all cracked and reddish black like a pan of dried blood, threading those badlands of dark amber glass like the remnants of some dim legion scrabbling up out of a land accursed, shouldering the little cart over the rifts and ledges, the idiot clinging to the bars and calling hoarsely after the sun like some queer unruly god abducted from a race of degenerates.",
       "tier": "A",
       "contextAfter": "like a pan of dried blood, threading those badlands of",
-      "note": ""
-    },
-    {
-      "sentenceId": 5671,
-      "word": "dark",
-      "family": "neutral",
-      "start": 180,
-      "end": 184,
-      "sentence": "On the day following they crossed the malpais afoot, leading the horses upon a lakebed of lava all cracked and reddish black like a pan of dried blood, threading those badlands of dark amber glass like the remnants of some dim legion scrabbling up out of a land accursed, shouldering the little cart over the rifts and ledges, the idiot clinging to the bars and calling hoarsely after the sun like some queer unruly god abducted from a race of degenerates.",
-      "tier": "A",
-      "contextAfter": "amber glass like the remnants of some dim legion scrabbling",
       "note": ""
     },
     {
@@ -6082,17 +4169,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5674,
-      "word": "dark",
-      "family": "neutral",
-      "start": 145,
-      "end": 149,
-      "sentence": "Far to the south beyond the black volcanic hills lay a lone albino ridge, sand or gypsum, like the back of some pale seabeast surfaced among the dark archipelagos.",
-      "tier": "A",
-      "contextAfter": "archipelagos.",
-      "note": ""
-    },
-    {
       "sentenceId": 5680,
       "word": "bone",
       "family": "neutral",
@@ -6104,17 +4180,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5688,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 32,
-      "end": 40,
-      "sentence": "He rose and moved away into the darkness beyond the fire.",
-      "tier": "A",
-      "contextAfter": "beyond the fire.",
-      "note": ""
-    },
-    {
       "sentenceId": 5736,
       "word": "red",
       "family": "red",
@@ -6123,17 +4188,6 @@
       "sentence": "When the dogs announced them the sun was already down and the western land red and smoking and they rode singlefile in cameo detailed by the winey light with their dark sides to the river.",
       "tier": "A",
       "contextAfter": "and smoking and they rode singlefile in cameo detailed by",
-      "note": ""
-    },
-    {
-      "sentenceId": 5736,
-      "word": "dark",
-      "family": "neutral",
-      "start": 164,
-      "end": 168,
-      "sentence": "When the dogs announced them the sun was already down and the western land red and smoking and they rode singlefile in cameo detailed by the winey light with their dark sides to the river.",
-      "tier": "A",
-      "contextAfter": "sides to the river.",
       "note": ""
     },
     {
@@ -6291,17 +4345,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5897,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 61,
-      "end": 69,
-      "sentence": "He pushed open the framed hide door and stepped out into the darkness and the mist.",
-      "tier": "A",
-      "contextAfter": "and the mist.",
-      "note": ""
-    },
-    {
       "sentenceId": 5916,
       "word": "steel",
       "family": "neutral",
@@ -6368,17 +4411,6 @@
       "note": ""
     },
     {
-      "sentenceId": 6016,
-      "word": "dark",
-      "family": "neutral",
-      "start": 74,
-      "end": 78,
-      "sentence": "Brown walked down and held his hand to the sheet of spume that ran up the dark sand.",
-      "tier": "A",
-      "contextAfter": "sand.",
-      "note": ""
-    },
-    {
       "sentenceId": 6024,
       "word": "pale blue",
       "family": "blue",
@@ -6387,39 +4419,6 @@
       "sentence": "The man ran outside mutesave for the whoosh of the flames and the flames were pale blue and then invisible in the sunlight and he fought them in the street like a man beset with bees or madness and then he fell over in the road and burned up.",
       "tier": "A",
       "contextAfter": "and then invisible in the sunlight and he fought them",
-      "note": ""
-    },
-    {
-      "sentenceId": 6026,
-      "word": "dark",
-      "family": "neutral",
-      "start": 16,
-      "end": 20,
-      "sentence": "Brown woke in a dark little cell manacled and crazed with thirst.",
-      "tier": "A",
-      "contextAfter": "little cell manacled and crazed with thirst.",
-      "note": ""
-    },
-    {
-      "sentenceId": 6053,
-      "word": "dark",
-      "family": "neutral",
-      "start": 103,
-      "end": 107,
-      "sentence": "Outside it was raining again and he could hear riders passing in the mud of the street and soon it was dark.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 6159,
-      "word": "dark",
-      "family": "neutral",
-      "start": 137,
-      "end": 141,
-      "sentence": "They were a full four feet in length and they lofted slightly with his movements like ceremonial wands and he seized his thigh where the dark arterial blood was spurting along the shaft and took a step toward the shore and fell sideways into the river.",
-      "tier": "A",
-      "contextAfter": "arterial blood was spurting along the shaft and took a",
       "note": ""
     },
     {
@@ -6489,17 +4488,6 @@
       "note": ""
     },
     {
-      "sentenceId": 6192,
-      "word": "dark",
-      "family": "neutral",
-      "start": 110,
-      "end": 114,
-      "sentence": "They came out of the willow brakes and climbed the dunes and descended the far side and reappeared again, two dark figures anguishing upon the sands, now trotting, now stooping, the report of the pistol flat and dead in the open country.",
-      "tier": "A",
-      "contextAfter": "figures anguishing upon the sands, now trotting, now stooping, the",
-      "note": ""
-    },
-    {
       "sentenceId": 6194,
       "word": "bone",
       "family": "neutral",
@@ -6508,28 +4496,6 @@
       "sentence": "The kid carried an arrow in his leg and it was butted against the bone.",
       "tier": "A",
       "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 6197,
-      "word": "darkly",
-      "family": "neutral",
-      "start": 73,
-      "end": 79,
-      "sentence": "The Yumas had already left the dunes and they could see the smoke rising darkly along the river bluff.",
-      "tier": "A",
-      "contextAfter": "along the river bluff.",
-      "note": ""
-    },
-    {
-      "sentenceId": 6214,
-      "word": "dark",
-      "family": "neutral",
-      "start": 3,
-      "end": 7,
-      "sentence": "By dark their water was gone and they labored on beneath the slow wheel of stars and slept shivering among the dunes and rose in the dawn and went on again.",
-      "tier": "A",
-      "contextAfter": "their water was gone and they labored on beneath the",
       "note": ""
     },
     {
@@ -6555,17 +4521,6 @@
       "note": ""
     },
     {
-      "sentenceId": 6266,
-      "word": "dark",
-      "family": "neutral",
-      "start": 41,
-      "end": 45,
-      "sentence": "All night their watchfires burned on the dark circlet of the world and the kid unpinned the barrel from the pistol and using it for a spyglass he went around the warm sand selvage of the well and studied the separate fires for movement.",
-      "tier": "A",
-      "contextAfter": "circlet of the world and the kid unpinned the barrel",
-      "note": ""
-    },
-    {
       "sentenceId": 6282,
       "word": "pink",
       "family": "red",
@@ -6574,28 +4529,6 @@
       "sentence": "They lumbered on, the judge a pale pink beneath his talc of dust like something newly born, the imbecile much the darker, lurching together across the pan at the very extremes of exile like some scurrilous king stripped of his vesti-ture and driven together with his fool into the wilderness to die.",
       "tier": "A",
       "contextAfter": "beneath his talc of dust like something newly born, the",
-      "note": ""
-    },
-    {
-      "sentenceId": 6282,
-      "word": "darker",
-      "family": "neutral",
-      "start": 114,
-      "end": 120,
-      "sentence": "They lumbered on, the judge a pale pink beneath his talc of dust like something newly born, the imbecile much the darker, lurching together across the pan at the very extremes of exile like some scurrilous king stripped of his vesti-ture and driven together with his fool into the wilderness to die.",
-      "tier": "A",
-      "contextAfter": "lurching together across the pan at the very extremes of",
-      "note": ""
-    },
-    {
-      "sentenceId": 6290,
-      "word": "dark",
-      "family": "neutral",
-      "start": 81,
-      "end": 85,
-      "sentence": "He knelt beside the judge and sucked noisily at the mineral water and raised his dark larval eyes to the three men crouched above him at the rim of the pit and then bent and drank again.",
-      "tier": "A",
-      "contextAfter": "larval eyes to the three men crouched above him at",
       "note": ""
     },
     {
@@ -6665,28 +4598,6 @@
       "note": ""
     },
     {
-      "sentenceId": 6523,
-      "word": "dark",
-      "family": "neutral",
-      "start": 20,
-      "end": 24,
-      "sentence": "It wa춊 s hours till dark.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 6546,
-      "word": "dark",
-      "family": "neutral",
-      "start": 35,
-      "end": 39,
-      "sentence": "We can get out as soon as it comes dark.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 6577,
       "word": "bone",
       "family": "neutral",
@@ -6695,28 +4606,6 @@
       "sentence": "Then he moved out along the edge of the wash and sat with his back to the bone salients and cocked the pistol and took a rest with his elbows on his knees.",
       "tier": "A",
       "contextAfter": "salients and cocked the pistol and took a rest with",
-      "note": ""
-    },
-    {
-      "sentenceId": 6615,
-      "word": "dark",
-      "family": "neutral",
-      "start": 31,
-      "end": 35,
-      "sentence": "They'd close to two hours till dark and the expriest said so.",
-      "tier": "A",
-      "contextAfter": "and the expriest said so.",
-      "note": ""
-    },
-    {
-      "sentenceId": 6630,
-      "word": "dark",
-      "family": "neutral",
-      "start": 95,
-      "end": 99,
-      "sentence": "He marked the sun squatting at the western rimof the waste and they spoke no more until it was dark and then they rose and made their way out.",
-      "tier": "A",
-      "contextAfter": "and then they rose and made their way out.",
       "note": ""
     },
     {
@@ -6731,17 +4620,6 @@
       "note": ""
     },
     {
-      "sentenceId": 6780,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 216,
-      "end": 224,
-      "sentence": "All the early part of the night they'd kept Sirius at their left on the southwest horizon and Cetus out there fording the void and Orion and Betelgeuse turning overhead and they had slept curled and shivering in the darkness of the plains and woke to find the heavens all changed and the stars by which they'd traveled not to be found, as if their sleep had encompassed whole seasons.",
-      "tier": "A",
-      "contextAfter": "of the plains and woke to find the heavens all",
-      "note": ""
-    },
-    {
       "sentenceId": 6781,
       "word": "auburn",
       "family": "orange",
@@ -6750,17 +4628,6 @@
       "sentence": "In the auburn dawn they saw the halfnaked savages crouched or standing all in a row along a rise to the north.",
       "tier": "A",
       "contextAfter": "dawn they saw the halfnaked savages crouched or standing all",
-      "note": ""
-    },
-    {
-      "sentenceId": 6808,
-      "word": "dark",
-      "family": "neutral",
-      "start": 58,
-      "end": 62,
-      "sentence": "The kid watched the man over the rim of the bowl with his dark and hollow eyes.",
-      "tier": "A",
-      "contextAfter": "and hollow eyes.",
       "note": ""
     },
     {
@@ -6874,17 +4741,6 @@
       "note": ""
     },
     {
-      "sentenceId": 6860,
-      "word": "darkly",
-      "family": "neutral",
-      "start": 16,
-      "end": 22,
-      "sentence": "The horse stood darkly against the sky.",
-      "tier": "A",
-      "contextAfter": "against the sky.",
-      "note": ""
-    },
-    {
       "sentenceId": 6861,
       "word": "black",
       "family": "neutral",
@@ -6893,17 +4749,6 @@
       "sentence": "The surf boomed in the dark and the sea's black hide heaved in the cobbled starlight and the long pale combers loped out of the night and broke along the beach.",
       "tier": "A",
       "contextAfter": "hide heaved in the cobbled starlight and the long pale",
-      "note": ""
-    },
-    {
-      "sentenceId": 6863,
-      "word": "dark",
-      "family": "neutral",
-      "start": 47,
-      "end": 51,
-      "sentence": "The tide-pools bright as smelterpots among the dark rocks where the phosphorescent seacrabs clambered back.",
-      "tier": "A",
-      "contextAfter": "rocks where the phosphorescent seacrabs clambered back.",
       "note": ""
     },
     {
@@ -6940,17 +4785,6 @@
       "note": ""
     },
     {
-      "sentenceId": 6978,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 84,
-      "end": 92,
-      "sentence": "When he was finished the corporal rose and took the candle with him, leaving him in darkness.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 7033,
       "word": "white",
       "family": "neutral",
@@ -6973,17 +4807,6 @@
       "note": ""
     },
     {
-      "sentenceId": 7050,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 52,
-      "end": 60,
-      "sentence": "On the morning of the eleventh all rose up still in darkness and turned out to witness a public hanging at the carcel.",
-      "tier": "A",
-      "contextAfter": "and turned out to witness a public hanging at the",
-      "note": ""
-    },
-    {
       "sentenceId": 7065,
       "word": "gray",
       "family": "neutral",
@@ -6995,17 +4818,6 @@
       "note": ""
     },
     {
-      "sentenceId": 7080,
-      "word": "dark",
-      "family": "neutral",
-      "start": 7,
-      "end": 11,
-      "sentence": "In his dark and frugal clothes some took him for a sort of preacher but he was no witness to them, neither of things at hand nor things to come, he least of any man.",
-      "tier": "A",
-      "contextAfter": "and frugal clothes some took him for a sort of",
-      "note": ""
-    },
-    {
       "sentenceId": 7084,
       "word": "yellow",
       "family": "yellow",
@@ -7014,17 +4826,6 @@
       "sentence": "He saw ships from the land of China chained in the small harbors and bales of tea and silks and spices broken open with swords by small yellow men with speech like cats.",
       "tier": "A",
       "contextAfter": "men with speech like cats.",
-      "note": ""
-    },
-    {
-      "sentenceId": 7085,
-      "word": "dark",
-      "family": "neutral",
-      "start": 53,
-      "end": 57,
-      "sentence": "On that lonely coast where the steep rocks cradled a dark and muttersome sea he sawvultures at their soaring whose wingspan so dwarfed all lesser birds that the eagles shrieking underneath were more like terns or plovers.",
-      "tier": "A",
-      "contextAfter": "and muttersome sea he sawvultures at their soaring whose wingspan",
       "note": ""
     },
     {
@@ -7061,28 +4862,6 @@
       "note": ""
     },
     {
-      "sentenceId": 7098,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 591,
-      "end": 599,
-      "sentence": "He shared his cart with a load of stones and they went trundling over the rocks drawn by ropes tied to the heads and ankles of the bearers and accompanied by a deputation of women who carried small desert flowers in their folded hands or torches of sotol or primi ive lanterns of pierced tin.춗 This troubled sect traversed slowly the ground under the bluff where the watcher stood and made their way over the broken scree of a fan washed out of the draw above them and wailing and piping and clanging they passed between the granite walls into the upper valley and disappeared in the coming darkness like heralds of some unspeakable calamity leaving only bloody foot rints on the stone.춑 He bivouacked in a barren swale and he and the horse lay down together and all night the dry wind blew down the desert and the wind was all but silent for there was nothing of resonance among those rocks.",
-      "tier": "A",
-      "contextAfter": "like heralds of some unspeakable calamity leaving only bloody foot",
-      "note": ""
-    },
-    {
-      "sentenceId": 7100,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 17,
-      "end": 25,
-      "sentence": "The water lay in darkness and the stones were cool and he drank andfetched water for the horse in his hat.",
-      "tier": "A",
-      "contextAfter": "and the stones were cool and he drank andfetched water",
-      "note": ""
-    },
-    {
       "sentenceId": 7113,
       "word": "gray",
       "family": "neutral",
@@ -7095,17 +4874,6 @@
     },
     {
       "sentenceId": 7129,
-      "word": "dark",
-      "family": "neutral",
-      "start": 131,
-      "end": 135,
-      "sentence": "He crossed the Double Mountain Fork of the Brazos River on a morning when skim ice lay along the sandy shore and he rode through a dark dwarf forest of black and twisted mesquite trees.",
-      "tier": "A",
-      "contextAfter": "dwarf forest of black and twisted mesquite trees.",
-      "note": ""
-    },
-    {
-      "sentenceId": 7129,
       "word": "black",
       "family": "neutral",
       "start": 152,
@@ -7113,17 +4881,6 @@
       "sentence": "He crossed the Double Mountain Fork of the Brazos River on a morning when skim ice lay along the sandy shore and he rode through a dark dwarf forest of black and twisted mesquite trees.",
       "tier": "A",
       "contextAfter": "and twisted mesquite trees.",
-      "note": ""
-    },
-    {
-      "sentenceId": 7131,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 74,
-      "end": 82,
-      "sentence": "He'd no sooner got his fire to burn than he saw across the prairie in the darkness another fire.",
-      "tier": "A",
-      "contextAfter": "another fire.",
       "note": ""
     },
     {
@@ -7160,17 +4917,6 @@
       "note": ""
     },
     {
-      "sentenceId": 7164,
-      "word": "dark",
-      "family": "neutral",
-      "start": 153,
-      "end": 157,
-      "sentence": "All across those reaches the yam er and yap of the starving wolves relayed a춎 nd to the north the silent lightning rigged a broken lyre upon the world's dark rim.",
-      "tier": "A",
-      "contextAfter": "rim.",
-      "note": ""
-    },
-    {
       "sentenceId": 7170,
       "word": "green",
       "family": "green",
@@ -7204,17 +4950,6 @@
       "note": ""
     },
     {
-      "sentenceId": 7297,
-      "word": "dark",
-      "family": "neutral",
-      "start": 53,
-      "end": 57,
-      "sentence": "The young s춅t of them was casting glances out at the dark sanctuary of the prairie night.",
-      "tier": "A",
-      "contextAfter": "sanctuary of the prairie night.",
-      "note": ""
-    },
-    {
       "sentenceId": 7301,
       "word": "red",
       "family": "red",
@@ -7223,28 +4958,6 @@
       "sentence": "Out on the prairie to the north a train of yoked wagons was passing and the oxen were pale and silent in the starlight and the wagons creaked faintly in the distance and a lantern with a red glass followed them out like an alien eye.",
       "tier": "A",
       "contextAfter": "glass followed them out like an alien eye.",
-      "note": ""
-    },
-    {
-      "sentenceId": 7312,
-      "word": "dark",
-      "family": "neutral",
-      "start": 114,
-      "end": 118,
-      "sentence": "He centered the foresight in the milled groove of the framestrap and holding the piece so he swung it through the dark of the trees with both hands to the darker shape ofthe visitor.",
-      "tier": "A",
-      "contextAfter": "of the trees with both hands to the darker shape",
-      "note": ""
-    },
-    {
-      "sentenceId": 7312,
-      "word": "darker",
-      "family": "neutral",
-      "start": 155,
-      "end": 161,
-      "sentence": "He centered the foresight in the milled groove of the framestrap and holding the piece so he swung it through the dark of the trees with both hands to the darker shape ofthe visitor.",
-      "tier": "A",
-      "contextAfter": "shape ofthe visitor.",
       "note": ""
     },
     {
@@ -7270,39 +4983,6 @@
       "note": ""
     },
     {
-      "sentenceId": 7348,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 206,
-      "end": 214,
-      "sentence": "In the afternoon he rode through the McKenzie crossing of the Clear Fork of the Brazos River and he and the horse walked side by side down the twilight toward the town where in the long red dusk and in the darkness the random aggregate of the lamps formed slowly a false shore of hospice cradled on the low plain before them.",
-      "tier": "A",
-      "contextAfter": "the random aggregate of the lamps formed slowly a false",
-      "note": ""
-    },
-    {
-      "sentenceId": 7354,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 85,
-      "end": 93,
-      "sentence": "He looked back a last time at the street and at the random windowlights let into the darkness and at the last pale light in the west and the low dark hills around.",
-      "tier": "A",
-      "contextAfter": "and at the last pale light in the west and",
-      "note": ""
-    },
-    {
-      "sentenceId": 7354,
-      "word": "dark",
-      "family": "neutral",
-      "start": 145,
-      "end": 149,
-      "sentence": "He looked back a last time at the street and at the random windowlights let into the darkness and at the last pale light in the west and the low dark hills around.",
-      "tier": "A",
-      "contextAfter": "hills around.",
-      "note": ""
-    },
-    {
       "sentenceId": 7369,
       "word": "yellow",
       "family": "yellow",
@@ -7325,17 +5005,6 @@
       "note": ""
     },
     {
-      "sentenceId": 7426,
-      "word": "dark",
-      "family": "neutral",
-      "start": 45,
-      "end": 49,
-      "sentence": "The girl was sobbing, the front of her dress dark with blood.",
-      "tier": "A",
-      "contextAfter": "with blood.",
-      "note": ""
-    },
-    {
       "sentenceId": 7428,
       "word": "blackness",
       "family": "neutral",
@@ -7347,17 +5016,6 @@
       "note": ""
     },
     {
-      "sentenceId": 7581,
-      "word": "darkness",
-      "family": "neutral",
-      "start": 40,
-      "end": 48,
-      "sentence": "One by one they will step down into the darkness before the footlamps.",
-      "tier": "A",
-      "contextAfter": "before the footlamps.",
-      "note": ""
-    },
-    {
       "sentenceId": 7593,
       "word": "green",
       "family": "green",
@@ -7366,17 +5024,6 @@
       "sentence": "In their stained peignoirs, in their green stockingsand melon-colored drawers they drifted through the smoky oil light like makebelieve wantons, at once childlike and lewd.",
       "tier": "A",
       "contextAfter": "stockingsand melon-colored drawers they drifted through the smoky oil light",
-      "note": ""
-    },
-    {
-      "sentenceId": 7594,
-      "word": "dark",
-      "family": "neutral",
-      "start": 2,
-      "end": 6,
-      "sentence": "A dark little dwarf of a whore took his arm and smiled up at him.",
-      "tier": "A",
-      "contextAfter": "little dwarf of a whore took his arm and smiled",
       "note": ""
     },
     {
