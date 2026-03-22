@@ -2,17 +2,17 @@
   "meta": {
     "sourcePath": "media/bloodmeridian.md",
     "tier": "A",
-    "tierAHits": 435,
+    "tierAHits": 428,
     "tierBHits": 0,
-    "generatedAt": "2026-03-22T02:39:13.405Z",
+    "generatedAt": "2026-03-22T02:49:53.054Z",
     "sentenceCount": 7680,
-    "totalHits": 435,
+    "totalHits": 428,
     "notes": "Tier A: explicit lemmas. Tier B: gloss metonyms where they do not overlap Tier A. Name-like uses: data/name-exclusions.json + Title Case. Gold/silver money: data/money-metal-exclusions.json. Material/fruit/other homonyms: data/homonym-exclusions.json. Verbs: data/verb-homograph-exclusions.json.",
     "nameExclusions": {
       "phraseCount": 8
     },
     "moneyMetalPhrases": 42,
-    "homonymPhrases": 56,
+    "homonymPhrases": 55,
     "verbHomographLemmas": 6
   },
   "families": [
@@ -59,7 +59,7 @@
   ],
   "gloss": null,
   "byFamily": {
-    "neutral": 283,
+    "neutral": 276,
     "red": 55,
     "orange": 5,
     "yellow": 16,
@@ -76,7 +76,6 @@
       "steel": 7,
       "bone": 16,
       "white": 68,
-      "charcoal": 7,
       "sun bleached": 1,
       "brown": 4,
       "brown-skinned": 1,
@@ -150,7 +149,6 @@
     "bloodred": 1,
     "white": 68,
     "red": 28,
-    "charcoal": 7,
     "iron blue": 1,
     "yellow": 11,
     "pale blue": 5,
@@ -552,17 +550,6 @@
       "sentence": "With immigrants and Texans and Mexicans and with slaves and Lipan Indians and deputations of Karankawas tall and austere, their faces dyed blue and their hands locked about the shafts of their sixfoot spears, all but naked savages who with their painted skins and their whispered taste for human flesh seemed out age춓 ous presences even in that fabled company.",
       "tier": "A",
       "contextAfter": "and their hands locked about the shafts of their sixfoot",
-      "note": ""
-    },
-    {
-      "sentenceId": 1142,
-      "word": "charcoal",
-      "family": "neutral",
-      "start": 40,
-      "end": 48,
-      "sentence": "The air is full of the smell of burning charcoal.",
-      "tier": "A",
-      "contextAfter": ".",
       "note": ""
     },
     {
@@ -1633,17 +1620,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2620,
-      "word": "charcoal",
-      "family": "neutral",
-      "start": 29,
-      "end": 37,
-      "sentence": "The air smells of horses and charcoal.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
       "sentenceId": 2625,
       "word": "black",
       "family": "neutral",
@@ -2062,17 +2038,6 @@
       "note": ""
     },
     {
-      "sentenceId": 2955,
-      "word": "charcoal",
-      "family": "neutral",
-      "start": 63,
-      "end": 71,
-      "sentence": "The judge and the bats - Cuano - The deserters - Saltpeter and charcoal - The malpais -Hoofprints - The volcano- Brimstone - The matrix - The slaughter of the aborigines.",
-      "tier": "A",
-      "contextAfter": "The malpais -Hoofprints - The volcano- Brimstone - The matrix",
-      "note": ""
-    },
-    {
       "sentenceId": 2957,
       "word": "bone",
       "family": "neutral",
@@ -2103,39 +2068,6 @@
       "sentence": "The expriest had paused to rekindle his pipe, reaching into the raw fire for a coal as did the red scouts and then setting it back among the flames as if it had a proper place there.",
       "tier": "A",
       "contextAfter": "scouts and then setting it back among the flames as",
-      "note": ""
-    },
-    {
-      "sentenceId": 3156,
-      "word": "charcoal",
-      "family": "neutral",
-      "start": 142,
-      "end": 150,
-      "sentence": "But in those two days the judge leached out the guano with creekwater and woodash and precipitated it out and he built a clay kiln and burned charcoal in it, doused the fire by day and fired it again come dark.When we found him him and the Delaware was settin in the creek stark naked and they appeared at first to be drunk but on what none could surmise.",
-      "tier": "A",
-      "contextAfter": "in it, doused the fire by day and fired it",
-      "note": ""
-    },
-    {
-      "sentenceId": 3158,
-      "word": "charcoal",
-      "family": "neutral",
-      "start": 197,
-      "end": 205,
-      "sentence": "He got up when he seen us and went to the willows and come back with a pair of wallets and in one was about eight pounds of pure crystal saltpetre and in the other about three pounds of fine alder charcoal.",
-      "tier": "A",
-      "contextAfter": ".",
-      "note": ""
-    },
-    {
-      "sentenceId": 3159,
-      "word": "charcoal",
-      "family": "neutral",
-      "start": 16,
-      "end": 24,
-      "sentence": "He'd ground the charcoal to a powder in the hollow of a rock, you could have made ink of it.",
-      "tier": "A",
-      "contextAfter": "to a powder in the hollow of a rock, you",
       "note": ""
     },
     {
@@ -2719,17 +2651,6 @@
       "sentence": "The white stone fountain in the plaza was filled at night with naked and drunken men.",
       "tier": "A",
       "contextAfter": "stone fountain in the plaza was filled at night with",
-      "note": ""
-    },
-    {
-      "sentenceId": 3936,
-      "word": "charcoal",
-      "family": "neutral",
-      "start": 0,
-      "end": 8,
-      "sentence": "Charcoal scrawls appeared on the limewashed walls.",
-      "tier": "A",
-      "contextAfter": "scrawls appeared on the limewashed walls.",
       "note": ""
     },
     {
