@@ -25,14 +25,11 @@
   }
 
   if (metaEl) {
-    var bits = [
-      "Tier " + (meta.tier || "A"),
-    ];
+    var bits = [];
     if (meta.tierAHits != null && meta.tierBHits != null && meta.tierBHits > 0) {
-      bits.push(" · A: " + meta.tierAHits + ", B: " + meta.tierBHits);
+      bits.push("A: " + meta.tierAHits + ", B: " + meta.tierBHits);
     }
-    bits.push(" · generated " + (meta.generatedAt || "").slice(0, 10));
-    metaEl.textContent = bits.join("");
+    metaEl.textContent = bits.join(" · ");
   }
 
   if (barsEl) {
