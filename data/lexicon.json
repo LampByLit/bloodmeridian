@@ -18,7 +18,6 @@
     { "match": "blood-red", "family": "red" },
     { "match": "blood-soaked", "family": "red" },
     { "match": "bloodred", "family": "red" },
-    { "match": "bloodstained", "family": "red" },
     { "match": "sea green", "family": "green" },
     { "match": "sea-green", "family": "green" },
     { "match": "sky blue", "family": "blue" },

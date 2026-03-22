@@ -2,11 +2,11 @@
   "meta": {
     "sourcePath": "media/bloodmeridian.md",
     "tier": "A",
-    "tierAHits": 442,
+    "tierAHits": 437,
     "tierBHits": 0,
-    "generatedAt": "2026-03-22T02:22:31.472Z",
+    "generatedAt": "2026-03-22T02:26:40.592Z",
     "sentenceCount": 7680,
-    "totalHits": 442,
+    "totalHits": 437,
     "notes": "Tier A: explicit lemmas. Tier B: gloss metonyms where they do not overlap Tier A. Name-like uses: data/name-exclusions.json + Title Case. Gold/silver money: data/money-metal-exclusions.json. Material/fruit/other homonyms: data/homonym-exclusions.json. Verbs: data/verb-homograph-exclusions.json.",
     "nameExclusions": {
       "phraseCount": 8
@@ -60,7 +60,7 @@
   "gloss": null,
   "byFamily": {
     "neutral": 285,
-    "red": 60,
+    "red": 55,
     "orange": 5,
     "yellow": 16,
     "green": 18,
@@ -96,7 +96,6 @@
       "bloodred": 1,
       "red": 28,
       "crimson": 4,
-      "bloodstained": 5,
       "burgundy": 1,
       "dark red": 2,
       "ruddy": 1,
@@ -161,7 +160,6 @@
     "sun bleached": 1,
     "brown": 4,
     "crimson": 4,
-    "bloodstained": 5,
     "golden": 3,
     "burgundy": 1,
     "dark red": 2,
@@ -866,17 +864,6 @@
       "sentence": "A legion of horribles, hundreds in number, half naked or clad in costumes attic or biblical or wardrobed out of a fevered dream with the skins of animals and silk finery and pieces of uniform still tracked with the blood of prior owners, coats of slain dragoons, frogged and braided cavalry jackets, one in a stovepipe hat and one with an umbrella and one in white stockings and a bloodstained weddingveil and some in headgear of cranefeathers or rawhide helmets that bore the horns of bull or buffalo and one in a pigeontailed coat worn back ards and otherwise naked an춛 d one in the armor of a Spanish conquistador, the breastplate and pauldrons deeply dented with old blows of mace or sabre done in another country by men whose very bones were dust and many with their braids spliced up with the hair of other beasts until they trailed upon the ground and their horses' ears and tails worked with bits of brightly colored cloth and one whose horse's whole head was painted crimson red and all the horsemen's faces gaudy and grotesque with daubings like a company of mounted clowns, death hilarious, all howling in a barbarous tongue and riding down upon them like a horde from a hell more horrible yet than the brim tone land of Christian reckoning, sc춖 reeching and yammering and clothed in smoke like those vaporous beings in regions beyond right knowing where the eye wanders and the lip jerks and drools.",
       "tier": "A",
       "contextAfter": "stockings and a bloodstained weddingveil and some in headgear of",
-      "note": ""
-    },
-    {
-      "sentenceId": 1401,
-      "word": "bloodstained",
-      "family": "red",
-      "start": 381,
-      "end": 393,
-      "sentence": "A legion of horribles, hundreds in number, half naked or clad in costumes attic or biblical or wardrobed out of a fevered dream with the skins of animals and silk finery and pieces of uniform still tracked with the blood of prior owners, coats of slain dragoons, frogged and braided cavalry jackets, one in a stovepipe hat and one with an umbrella and one in white stockings and a bloodstained weddingveil and some in headgear of cranefeathers or rawhide helmets that bore the horns of bull or buffalo and one in a pigeontailed coat worn back ards and otherwise naked an춛 d one in the armor of a Spanish conquistador, the breastplate and pauldrons deeply dented with old blows of mace or sabre done in another country by men whose very bones were dust and many with their braids spliced up with the hair of other beasts until they trailed upon the ground and their horses' ears and tails worked with bits of brightly colored cloth and one whose horse's whole head was painted crimson red and all the horsemen's faces gaudy and grotesque with daubings like a company of mounted clowns, death hilarious, all howling in a barbarous tongue and riding down upon them like a horde from a hell more horrible yet than the brim tone land of Christian reckoning, sc춖 reeching and yammering and clothed in smoke like those vaporous beings in regions beyond right knowing where the eye wanders and the lip jerks and drools.",
-      "tier": "A",
-      "contextAfter": "weddingveil and some in headgear of cranefeathers or rawhide helmets",
       "note": ""
     },
     {
@@ -2772,17 +2759,6 @@
       "note": ""
     },
     {
-      "sentenceId": 3994,
-      "word": "bloodstained",
-      "family": "red",
-      "start": 33,
-      "end": 45,
-      "sentence": "They watched the passing of that bloodstained argosy through their streets with dark and solemn eyes.",
-      "tier": "A",
-      "contextAfter": "argosy through their streets with dark and solemn eyes.",
-      "note": ""
-    },
-    {
       "sentenceId": 3998,
       "word": "white",
       "family": "neutral",
@@ -3685,17 +3661,6 @@
       "note": ""
     },
     {
-      "sentenceId": 4885,
-      "word": "bloodstained",
-      "family": "red",
-      "start": 122,
-      "end": 134,
-      "sentence": "They were used up and bloody and black about the eyes and they had bound up their wounds with linens that were filthy and bloodstained and their clothes were crusted with dried blood and powderblack.",
-      "tier": "A",
-      "contextAfter": "and their clothes were crusted with dried blood and powderblack.",
-      "note": ""
-    },
-    {
       "sentenceId": 4891,
       "word": "snow",
       "family": "neutral",
@@ -3971,17 +3936,6 @@
       "note": ""
     },
     {
-      "sentenceId": 5267,
-      "word": "bloodstained",
-      "family": "red",
-      "start": 21,
-      "end": 33,
-      "sentence": "A tall thin man in a bloodstained apron entered the room from the rear and looked them over.",
-      "tier": "A",
-      "contextAfter": "apron entered the room from the rear and looked them",
-      "note": ""
-    },
-    {
       "sentenceId": 5427,
       "word": "white",
       "family": "neutral",
@@ -3990,17 +3944,6 @@
       "sentence": "The man was standing tiptoe as if to better accommodate him in hisinvestigations and when the judge let go of him he took a step back and looked at Glanton with eyes that were white in the gloom.",
       "tier": "A",
       "contextAfter": "in the gloom.",
-      "note": ""
-    },
-    {
-      "sentenceId": 5453,
-      "word": "bloodstained",
-      "family": "red",
-      "start": 42,
-      "end": 54,
-      "sentence": "The father of the child knelt clutching a bloodstained rag to his chest and none couldpersuade him to rise and none to leave.",
-      "tier": "A",
-      "contextAfter": "rag to his chest and none couldpersuade him to rise",
       "note": ""
     },
     {
