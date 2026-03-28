@@ -1,0 +1,2 @@
+# Used by scripts/fix-bloodmeridian-encoding.py
+english-words>=2.0.1

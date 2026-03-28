@@ -56,6 +56,11 @@ body.nav-open {
   touch-action: none;
 }
 
+/* Without this, invert(1) makes the hamburger/X strokes black on the open menu. */
+body.nav-open #nav-btn {
+  filter: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
   #takeover-nav {
     transition: none;

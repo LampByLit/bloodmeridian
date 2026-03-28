@@ -60,13 +60,13 @@ After a while he sits in the floor.
 
 He lies in a cot in the room upstairs for two weeks while the tavernkeeper's wife
 attends him. She brings his meals, she carries out his slops. A hardlooking woman with
-a wiry body like a man's. By the time he is mended he has no moneyto pay her and
+a wiry body like a man's. By the time he is mended he has no money to pay her and
 he leaves in the night and sleeps on the riverbank until he can find a boat that will
 take him on. The boat is going to Texas.
 
 Only now is the child finally divested of all that he has been. His origins are become
 remote as is his destiny and not again in all the world's turning will there be terrains
-so wild and barbarous to try whether the stuff of creation may beshaped to man's will
+so wild and barbarous to try whether the stuff of creation may be shaped to man's will
 or whether his own heart is not another kind of clay. The passengers are a diffident lot.
 They cage their eyes and no man asks another what it is that brings him here. He
 sleeps on the deck, a pilgrim among others. He watches the dim shore rise and fall.
@@ -79,7 +79,7 @@ He walks through the narrow streets of the port. The air smells of salt and news
 lumber. At night whores call to him from the dark like souls in want. A week and he is
 on the move again, a few dollars in his purse that he's earned, walking the sand roads
 of the southern night alone, his hands balled in the cotton pockets of his cheap coat.
-Earthen causeways across the marsh and. Egrets in their rookeries w춍 hite as candles
+Earthen causeways across the marshland. Egrets in their rookeries white as candles
 among the moss. The wind has a raw edge to it and leaves lope by the roadside and
 skelter on in the night fields. He moves north through small settlements and farms,
 working for day wages and found. He sees a parricide hanged in a crossroads hamlet
@@ -108,7 +108,7 @@ ye always even unto the end of the road?
 
 Well, he said, I aint askin nobody to go nowheres. And I said: Neighbor, you dont need
 to ask. He's a goin to be there with ye ever step of the way whether ye ask it or ye
-dont. I said: Neigh or, you caint get shed of him. Now. Are you goi춂 ng to drag him,
+dont. I said: Neighbor, you caint get shed of him. Now. Are you going to drag him,
 him, into that hellhole yonder?
 
 You ever see such a place for rain?
@@ -134,12 +134,12 @@ crateboard pulpit where the reverend stood and there he turned to address the
 reverend's congregation. His face was serene and strangely childlike. His hands were
 small. He held them out.
 
-Ladies and gentlemen I feel it my duty to inform you that the manholding this revival
+Ladies and gentlemen I feel it my duty to inform you that the man holding this revival
 
 
 is an imposter. He holds no papers of divinity from any institution recognized or
 improvised. He is altogether devoid of the least qualification to the office he has
-usurped and has only committed to memory a few passages from thegood book for the
+usurped and has only committed to memory a few passages from the good book for the
 purpose of lending to his fraudulent sermons some faint flavor of the piety he despises.
 In truth, the gentleman standing here before you posing as a minister of the Lord is not
 only totally illiterate but is also wanted by the law in the states of Tennessee, Kentucky,
@@ -148,13 +148,12 @@ Mississippi, and Arkansas.
 Oh God, cried the reverend. Lies, lies! He began reading feverishly from his opened
 bible.
 
-On a variety of charges the most recent of which involved a girl of eleven years said뾋
-eleven ho had come to him in trust and whom he was surprised in the a뾵 ct of violating
+On a variety of charges the most recent of which involved a girl of eleven years--I said eleven--who had come to him in trust and whom he was surprised in the act of violating
 while actually clothed in the livery of his God.
 
 A moan swept through the crowd. A lady sank to her knees.
 
-This is him, cried the reverend, sobbing. This is him. The devil.Here he stands.
+This is him, cried the reverend, sobbing. This is him. The devil. Here he stands.
 
 Let's hang the turd, called an ugly thug from the gallery to the rear.
 
@@ -164,13 +163,13 @@ with a goat. Yes lady, that is what I said. Goat.
 Why damn my eyes if I wont shoot the son of a bitch, said a man rising at the far side
 of the tent, and drawing a pistol from his boot he leveled it and fired.
 
-The young teamster instantly produced a knife from his cloth ng춊 and unseamed the
+The young teamster instantly produced a knife from his clothing and unseamed the
 tent and stepped outside into the rain. The kid followed. They ducked low and ran
 across the mud toward the hotel. Already gunfire was general within the tent and a
 dozen exits had been hacked through the canvas walls and people were pouring out,
 women screaming, folk stumbling, folk trampled underfoot in the mud. The kid and his
 friend reached the hotel gallery and wiped the water from their eyes and turned to
-watch. As they did so the tent began to sway and buckle and likea huge and wounded
+watch. As they did so the tent began to sway and buckle and like a huge and wounded
 medusa it slowly settled to the ground trailing tattered canvas walls and ratty guyropes
 over the ground.
 
@@ -232,7 +231,7 @@ him swayed slightly. His wet hatbrim fell to his shoulders savein the front wher
 pinned back. He held a bottle loosely in one hand. You better get out of my way, he
 said.
 
-The kid wasnt going to do that and he saw no use in discuss ng it.춊 He kicked the
+The kid wasnt going to do that and he saw no use in discuss ng it. He kicked the
 man in the jaw. The man went down and got up again. He said: I'm goin to kill you.
 
 He swung with the bottle and the kid ducked and he swung again and the kid stepped
@@ -248,11 +247,11 @@ unsheathed an immense bowieknife from behind his neck. His hat had come off and 
 black and ropy locks swung about his head and he had codified his threats to the one
 word kill like a crazed chant.
 
-That'ns cut, said one of several men standing along the walk ay춛 watching.
+That'ns cut, said one of several men standing along the walk ay watching.
 
 Kill kill slobbered the man wading forward.
 
-But someone else was coming down the lot, great steady suck ng s춊 ounds like a cow.
+But someone else was coming down the lot, great steady suck ng s ounds like a cow.
 He was carrying a huge shellalegh. He reached the kid first and when he swung with
 the club the kid went face down in the mud. He'd have died if someone hadn't turned
 him over.
@@ -421,7 +420,7 @@ He kicked.
 
 Toadvine pulled the bloody head around and looked at it and letit flop to the floor and
 he rose and kicked the man himself. Two spectators were standingin the hallway. The
-door was com letely afire and part of the wall and ceiling. They w춑 ent out and down
+door was com letely afire and part of the wall and ceiling. They went out and down
 the hall. The clerk was coming up the steps two at a time.
 
 Toadvine you son of a bitch, he said.
@@ -485,7 +484,7 @@ The dead in the sacristy - At the ford -
 Bathing in the river.
 
 Now come days of begging, days of theft. Days of riding where there rode no soul save
-he. He's left behind the pinewood country and the evening sun declines before him be춞
+he. He's left behind the pinewood country and the evening sun declines before him be
 ond an endless swale and dark falls here like a thunderclap and a cold wind sets the
 weeds to gnashing. The night sky lies so sprent with stars that there is scarcely space of
 black at all and they fall all night in bitter arcs and it is so that their numbers are no
@@ -545,7 +544,7 @@ It's nigh too dark to see out here.
 It's a deep path. Foller ye feet. Foller ye mule. I caint go.
 
 He stepped out into the wind and looked about for the mule but the mule wasnt there.
-Far to the south lightning flared sound essly. He went up the pa춍 th among the
+Far to the south lightning flared sound essly. He went up the path among the
 thrashing weeds and found the mule standing at the well.
 
 A hole in the sand with rocks piled about it. A piece of dry hide for a cover and a
@@ -603,7 +602,7 @@ of come here. Was they a sandstorm? Did ye drift off the road in the night? Did 
 beset ye?
 
 
-The kid pondered this. Yes, he said We got off the road someways o젨 r another.
+The kid pondered this. Yes, he said We got off the road someways o r another.
 
 Knowed ye did.
 
@@ -627,7 +626,7 @@ it back and the old man cradled it in his palm as if he'd weigh it.
 They is four things that can destroy the earth, he said. Women, whiskey, money, and
 niggers.
 
-They sat in silence. The wind moaned in the section of stove ip춑 e that was run through
+They sat in silence. The wind moaned in the section of stove ip e that was run through
 the roof above them to quit the place of smoke. After a while the old man put the
 heart away.
 
@@ -726,7 +725,7 @@ They were coming down from Abilene, forty days out, headed for the markets in
 Louisiana. Followed by packs of wolves, coyotes, indians. Cattle groaned about them for
 miles in the dark.
 
-They asked him no questions, a ragged lot themselves. Cross reed춂 s some, free niggers,
+They asked him no questions, a ragged lot themselves. Cross reed s some, free niggers,
 an indian or two.
 
 
@@ -878,7 +877,7 @@ said.
 
 The barman blinked.
 
-The kid stepped back and made sweeping motions, a panto ime th춎 at bent the drinkers
+The kid stepped back and made sweeping motions, a panto ime that bent the drinkers
 in silent mirth. Sweep, he said, pointing at the floor.
 
 No esta sucio, said the barman.
@@ -1179,7 +1178,7 @@ green gazebo with benches. An iron gate at the hotel front opened into a passage
 with a courtyard at the rear. The walls were whitewashed and set with little ornate
 colored tiles. The captain's man wore carved boots with tall heels that rang smartly on
 the tiles and on the stairs ascending from the courtyard to the rooms above. In the
-courtyard there were green plants growing and they were freshly watered and steam ng.춊
+courtyard there were green plants growing and they were freshly watered and steam ng.
 The captain's man strode down the long balcony and rapped sharply at the door at the
 end. A voice said for them to come in.
 
@@ -1284,7 +1283,7 @@ You werent with the Volunteers at Monterrey were you?
 
 No sir.
 
-Bravest bunch of men under fire I believe I ever saw. I sup ose more춑 men from
+Bravest bunch of men under fire I believe I ever saw. I sup ose more men from
 Tennessee bled and died on the field in northern Mexico than fromany other state. Did
 you know that?
 
@@ -1332,7 +1331,7 @@ the boundary lines between our country and Mexico. I dont think there's any ques
 that ultimately Sonora will become a United States territory. Guaymas a U S port.
 Americans will be able to get to California without having to pass through our benighted
 sister republic and our citizens will be protected at last from the notorious packs of cut
-춗hroats presently infesting the routes which they are obliged to travel.
+hroats presently infesting the routes which they are obliged to travel.
 
 The captain was watching the kid. The kid looked uneasy. Son,said the captain. We are
 to be the instruments of liberation in a dark and troubled land. That's right. We are to
@@ -1351,7 +1350,7 @@ No sir.
 No. And I don't think you're the sort of chap to abandon a land that Americans fought
 and died for to a foreign power. And mark my word. Unless Americans act, people like
 you and me who take their country seriously while those mollycoddles in Washington sit
-on their hindsides, unless we act, Mexico nd I mean the whole o뾞 f the country ill one뾵
+on their hindsides, unless we act, Mexico nd I mean the whole o f the country ill one
 day fly a European flag. Monroe Doctrine or no.
 
 The captain's voice had become soft and intense. He tilted his head to one side and
@@ -1502,7 +1501,7 @@ They rode through a plaza thronged with wagons and stock.
 With immigrants and Texans and Mexicans and with slaves and Lipan Indians and
 deputations of Karankawas tall and austere, their faces dyed blue and their hands locked
 about the shafts of their sixfoot spears, all but naked savages who with their painted
-skins and their whispered taste for human flesh seemed out age춓 ous presences even in
+skins and their whispered taste for human flesh seemed out age ous presences even in
 that fabled company. The recruits rode with their animals close reined and they turned
 up past the courthouse and along the high walls of the carcel with the broken glass
 imbedded in the topmost course. In the Main Plaza a band had assembled and were at
@@ -1599,7 +1598,7 @@ What's it to you, old man?
 
 The Mennonite watches the enshadowed dark before them as it is reflected to him in
 the mirror over the bar. He turns to them. His eyes are wet, he speaks slowly. The
-wrath of God lies sleep ng. It was hid a million years before men we춊 re and only men
+wrath of God lies sleep ng. It was hid a million years before men were and only men
 have power to wake it. Hell aint half full. Hear me. Ye carry war of a madman's
 making onto a foreign land. Ye'll wake more than the dogs.
 
@@ -1682,7 +1681,7 @@ the forestock was much worn beneath.
 
 In the early dark the wagon came back with the meat. The skinners had piled the
 wagonbed with mesquite brush and stumps they'd drug out of the ground with the
-horses and they unloaded the firewood and commenced cutting upthe gutted ante opes춍
+horses and they unloaded the firewood and commenced cutting upthe gutted ante opes
 in the floor of the wagon with bowieknives and hand-axes, laughing and hacking in a
 welter of gore, a reeking scene in the light of the handheld lanterns. By full dark the
 blackened ribracks leaned steaming at the fires and there was a jousting over the coals
@@ -1724,7 +1723,7 @@ and they lifted him from the wagon where he'd stained the sacks he'd lain among 
 buried him also and rode on.
 
 Now wolves had come to follow them, great pale lobos with yellow eyes that trotted
-neat of foot or squatted in the shimmer ng heat to watch them wh춊 ere they made their
+neat of foot or squatted in the shimmer ng heat to watch them where they made their
 noon halt. Moving on again. Loping, sidling, ambling with their long noses to the
 ground. In the evening their eyes shifted and winked out there on the edge of the
 firelight and in the morning when the riders rode out in the cool dark they could hear
@@ -1755,7 +1754,7 @@ the shelled corn when it does come.
 In two days they began to come upon bones and cast-off apparel. They saw halfburied
 skeletons of mules with the bones so white and polished they seemed incandescent even
 in that blazing heat and they saw panniers and packsaddles and the bones of men and
-they saw a mule entire, the dried and black ned carcass hard as iron.춅 They rode on.
+they saw a mule entire, the dried and black ned carcass hard as iron. They rode on.
 The white noon saw them through the waste like a ghost army, so pale they were with
 dust, like shades of figures erased upon a board. The wolves loped paler yet and
 grouped and skittered and lifted their lean snouts on the air. At night the horses were
@@ -1862,7 +1861,7 @@ They went through the jacal and into the enclosure behind and out to the stable.
 were no animals and nothing but a stall half filled with dry sotols in the way of feed.
 They walked out the back to a sink among the stones where water stood and a thin
 stream flowed away over the sand. There were hoofprints about the tank and dry
-manure and some small birds ran mind essly along the rim of the litt춍 le creek.
+manure and some small birds ran mind essly along the rim of the little creek.
 
 The sergeant had been squatting on his heels and now he rose and spat. Well, he said.
 Is there any direction you caint see twenty mile in?
@@ -1892,7 +1891,7 @@ He put his hands over his ears and his elbows before his eyes likeone called upo
 witness some appalling thing. The captain turned away in disgust. The sergeant toed him
 with his boot. What's wrong with him? he said.
 
-He's pissing himself, Sergeant. He's pissing himself. The cap ain gestured at the man춗
+He's pissing himself, Sergeant. He's pissing himself. The cap ain gestured at the man
 with his gloves.
 
 Yessir.
@@ -1915,7 +1914,7 @@ gravely canted and veering out through tinctures of rose and the dark beyond the
 to the uttermost rebate of space.
 
 They rode through regions of particolored stone upthrust in ragged kerfs and shelves of
-traprock reared in faults and anti lines curved back upon themsel춃 ves and broken off
+traprock reared in faults and anti lines curved back upon themselves and broken off
 like stumps of great stone treeboles and stones the lightning had clove open, seeps
 exploding in steam in some old storm. They rode past trapdykes ofbrown rock running
 
@@ -2008,7 +2007,7 @@ company met with on the plain. Already you could see through thedust on the poni
 
 hides the painted chevrons and the hands and rising suns and birds and fish of every
 device like the shade of old work through sizing on a canvas and now too you could
-hear above the pound ng of the unshod hooves the piping of the q춊 uena, flutes niade
+hear above the pound ng of the unshod hooves the piping of the q uena, flutes niade
 from human bones, and some among the company had begun to saw back on their
 mounts and some to mill in confusion when up from the offside of those ponies there
 rose a fabled horde of mounted lancers and archers bearing shields bedight with bits of
@@ -2019,7 +2018,7 @@ and pieces of uniform still tracked with the blood of prior owners, coats of sla
 dragoons, frogged and braided cavalry jackets, one in a stovepipe hat and one with an
 umbrella and one in white stockings and a bloodstained weddingveil and some in
 headgear of cranefeathers or rawhide helmets that bore the horns of bull or buffalo and
-one in a pigeontailed coat worn back ards and otherwise naked an춛 d one in the armor
+one in a pigeontailed coat worn back ards and otherwise naked an d one in the armor
 of a Spanish conquistador, the breastplate and pauldrons deeply dented with old blows
 of mace or sabre done in another country by men whose very bones were dust and
 many with their braids spliced up with the hair of other beasts until they trailed upon
@@ -2027,14 +2026,14 @@ the ground and their horses' ears and tails worked with bits of brightly colored
 and one whose horse's whole head was painted crimson red and all the horsemen's faces
 gaudy and grotesque with daubings like a company of mounted clowns, death hilarious,
 all howling in a barbarous tongue and riding down upon them like a horde from a hell
-more horrible yet than the brim tone land of Christian reckoning, sc춖 reeching and
+more horrible yet than the brim tone land of Christian reckoning, screeching and
 yammering and clothed in smoke like those vaporous beings in regions beyond right
 knowing where the eye wanders and the lip jerks and drools.
 
 Oh my god, said the sergeant.
 
 A rattling drove of arrows passed through the company and men tottered and dropped
-from their mounts. Horses were rear ng and plunging and the mongol춊 hordes swung
+from their mounts. Horses were rear ng and plunging and the mongol hordes swung
 up along their flanks and turned and rode full upon them with lances.
 
 The company was now come to a halt and the first shots were fired and the gray
@@ -2114,7 +2113,7 @@ valley floor. He was climbing among the strewn and tumbled boulders when he hear
 voice calling somewhere in that vastness. He looked out over the plain but he could see
 no one. When the voice called again he turned and sat to rest and soon he saw
 something moving along the slope, a rag of a man clambering toward him over the talus
-slides. Pick ng his way with care, looking behind him. The kid c춊 ould see that nothing
+slides. Pick ng his way with care, looking behind him. The kid could see that nothing
 followed.
 
 He wore a blanket over his shoulders and his shirtsleeve was ripped and dark with
@@ -2173,7 +2172,7 @@ pursed lips to the stone like devouts at a shrine.
 
 They passed the night in a shallow cave above this spot, an old reliquary of
 flintknappings and ratchel scattered about on the stone floor with beads of shell and
-polished bone and the char oal of ancient fires. They shared the춃 blanket in the cold
+polished bone and the char oal of ancient fires. They shared the blanket in the cold
 
 
 and Sproule coughed quietly in the dark and they rose from time to time to descend
@@ -2189,14 +2188,14 @@ They stopped side by side, reeling in the heat. These small victims, seven, eigh
 had holes punched in their under-jaws and were hung so by their throats from the
 broken stobs of a mesquite to stare eyeless at the naked sky. Bald and pale and bloated,
 larval to some unreckonable being. The castaways hobbled past, they looked back.
-Nothing moved. In the after oon they came upon a village on the춏 plain where smoke
+Nothing moved. In the after oon they came upon a village on the plain where smoke
 still rose from the ruins and all were gone to death. From a distance it looked like a
 decaying brick kiln. They stood without the walls a long time listening to the silence
 before they entered.
 
 They went slowly through the little mud streets. There were goats and sheep slain in
 their pens and pigs dead in the mud. They passed mud hovels where people lay
-murdered in all atti udes of death in the doorways and the floors,춗 naked and swollen
+murdered in all atti udes of death in the doorways and the floors, naked and swollen
 and strange. They found plates of food half eaten and a cat came out and sat in the
 sun and watched them without interest and flies snarled everywhere in the still hot air.
 
@@ -2246,7 +2245,7 @@ and he picked up a stone and squailed it at them but they never moved.
 
 The shadows had grown long in the plaza and little coils of dust were moving in the
 parched clay streets. The carrion birds sat about the topmost corners of the houses with
-their wings out tretched in attitudes of exhortation like dark l춖 ittle bishops. The kid
+their wings out tretched in attitudes of exhortation like dark little bishops. The kid
 returned to the bench and propped up one foot and leaned on his knee. Sproule sat as
 before, still holding his arm.
 
@@ -2313,7 +2312,7 @@ the square and mounted the stone steps to the door of the church and entered. Sp
 was standing in the vestibule. Long buttresses of light fell from the high windows in the
 western wall. There were no pews in the church and the stone floor was heaped with
 the scalped and naked and partly eaten bodies of some forty souls who'd barricaded
-them elves in this house of God against the heathen. The savag춖 es had hacked holes in
+them elves in this house of God against the heathen. The savag es had hacked holes in
 the roof and shot them down from above and the floor was littered with arrowshafts
 where they'd snapped them off to get the clothes from the bodies. The altars had been
 hauled down and the tabernacle looted and the great sleeping God of the Mexicans
@@ -2393,7 +2392,7 @@ below them with the distant blue mountains standing in the windless span of wate
 the shape of a soaring hawk and trees that shimmered in the heat and a distant city
 very white against the blue and shaded hills. They sat and watched. They saw the sun
 drop under the jagged rim of the earth to the west and they saw it flare behind the
-moun ains and they saw the face of the lake darken and the shape o춗 f the city dissolve
+moun ains and they saw the face of the lake darken and the shape o f the city dissolve
 upon it. They slept among the rocks face up like dead men and in the morning when
 they rose there was no city and no trees and no lake only a barren dusty plain.
 
@@ -2440,7 +2439,7 @@ vanished almost instantly.
 
 They waited all day. The kid made sorties down into the canyonsin search of water but
 he found none. Nothing moved in that purgatorial waste save carnivorous birds. By early
-after oon they could see the horsemen on the switchbacks comin춏 g up the face of the
+after oon they could see the horsemen on the switchbacks comin g up the face of the
 mountain below them. They were Mexicans.
 
 Sproule was sitting with his legs outstretched before him. I was worried about my old
@@ -2497,7 +2496,7 @@ one boot backward out of the stirrup and kicked the canteen cleanly from between
 kid's hands leaving him there for a moment in a frozen gesture of calling with the
 canteen rising and turning in the air and the lobes of water gleaming about it in the
 sun before it clattered to the rocks. Sproule scrambled after it and snatched it up where
-it lay draining and began to drink, watching over the rim. The horse an and the kid춎
+it lay draining and began to drink, watching over the rim. The horse an and the kid
 watched each other. Sproule sat back gasping and coughing.
 
 The kid stepped across the rocks and took the canteen from him. The leader kneed his
@@ -2522,7 +2521,7 @@ We were thirsty.
 Very thirsty. Eh?
 
 They didnt answer. He was tapping the flat of the sword lightly against the horn of his
-saddle and he seemed to be form ng words in his mind. He leaned sli춊 ghtly to them.
+saddle and he seemed to be form ng words in his mind. He leaned slightly to them.
 When the lambs is lost in the mountain, he said. They is cry. Sometime come the
 mother. Sometime the wolf. He smiled at them and raised the sword and ran it back
 where it had come from and turned the horse smartly and trotted it through the horses
@@ -2542,7 +2541,7 @@ They walked on into the dark and they slept like dogs in the sand and had been
 sleeping so when something black flapped up out of the night ground and perched on
 Sproule's chest. Fine fingerbones stayed the leather wings with which it steadied as it
 walked upon him. A wrinkled pug face, small and vicious, bare lips crimped in a
-horrible smile and teeth pale blue in the star ight. It leaned to춍 him. It crafted in his
+horrible smile and teeth pale blue in the star ight. It leaned to him. It crafted in his
 neck two narrow grooves and folding its wings over him it began todrink his blood.
 
 Not soft enough. He woke, put up a hand. He shrieked and the bloodbat flailed and sat
@@ -2581,7 +2580,7 @@ wound. He pushed the shirt down into the hole and leaned and drank.
 
 In the afternoon they came to a crossroads, what else to call it. A faint wagon trace
 that came from the north and crossed their path and went on to the south. They stood
-scanning the land cape for some guidance in that emptiness. S춖 proule sat where the
+scanning the land cape for some guidance in that emptiness. S proule sat where the
 tracks crossed and looked out from the great caves in his skull where his eyes lay. He
 said that he would not rise.
 
@@ -2803,7 +2802,7 @@ their dreamless faces. Dark coppers in a clackdish, the shriveled eyes of the bl
 Scribes crouched by the steps with their quills and inkpots and bowls of sand and lepers
 moaning through the streets and naked dogs that seemed composed of bone entirely and
 vendors of tamales and old women with faces dark and harrowed as the land squatting
-in the gutters over charcoal fires where black ned strips of anonym춅 ous meat sizzled
+in the gutters over charcoal fires where black ned strips of anonymous meat sizzled
 and spat. Small orphans were abroad like irate dwarfs and fools and sots drooling and
 flailing about in the small markets of the metropolis and the prisoners rode past the
 carnage in the meatstalls and the waxy smell where racks of guts hung black with flies
@@ -2904,7 +2903,7 @@ the heads of the newcomers and pressing them into their infidelhands.
 
 When the coach had passed they donned their hats again and moved on. The dogs
 stood tail to tail. Two other dogs sat a little apart, squatting loosely in their skins, just
-frames of dogs in nap ess hides watching the coupled dogs and th춍 en watching the
+frames of dogs in nap ess hides watching the coupled dogs and then watching the
 prisoners clanking away up the street. All lightly shimmering inthe heat, these lifeforms,
 like wonders much reduced. Rough likenesses thrown up at hearsay after the things
 themselves had faded in men's minds.
@@ -2983,7 +2982,7 @@ They saw patched argonauts from the states driving mules through the streets on 
 way south through the mountains to the coast. Goldseekers. Itinerant degenerates
 
 
-bleeding west ard like some heliotropic plague. They nodded or춛 spoke to the prisoners
+bleeding west ard like some heliotropic plague. They nodded or spoke to the prisoners
 and dropped tobacco and coins in the street beside them.
 
 They saw blackeyed young girls with painted faces smoking little cigars, going arm in
@@ -2992,7 +2991,7 @@ his silkmul-lioned sulky clatter forth from the double doors of the palace^ cour
 they saw one day a pack of viciouslooking humans mounted on unshod indian ponies
 riding half drunk through the streets, bearded, barbarous, clad in the skins of animals
 stitched up with thews and armed with weapons of every description, revolvers of
-enormous weight and bowieknives the size of clay ores and short t춎 wobarreled rifles
+enormous weight and bowieknives the size of clay ores and short t wobarreled rifles
 with bores you could stick your thumbs in and the trappings of their horses fashioned
 out of human skin and their bridles woven up from human hair and decorated with
 human teeth and the riders wearing scapulars or necklaces of dried and blackened
@@ -3003,7 +3002,7 @@ where they and others like them fed on human flesh.
 
 Foremost among them, outsized and childlike with his naked face, rode the judge. His
 cheeks were ruddy and he was smiling and bowing to the ladies and doffing his filthy
-hat. The enormous dome of his head when he bared it was blinding white and per춆
+hat. The enormous dome of his head when he bared it was blinding white and per
 ectly circumscribed about so that it looked to have been painted. He and the reeking
 horde of rabble with him passed on through the stunned streets andhove up before the
 governor's palace where their leader, a small blackhaired man, clapped for entrance by
@@ -3030,7 +3029,7 @@ was three of us. Gentlemens, we're gettin out of this shithole.
 
 We aint got no outfits.
 
-He knows that. He said he'd find anybody that was a guar nteed h춁 and and take it out
+He knows that. He said he'd find anybody that was a guar nteed hand and take it out
 of their shares. So dont let on like you aint no seasoned indiankiller cause I claimed we
 was three of the best.
 
@@ -3061,7 +3060,7 @@ The town of Janos - Glanton takes a scalp -
 Jackson takes the stage.
 
 In this company there rode two men named Jackson, one black, one white, both
-forenamed John. Bad blood lay be ween them and as they rode up und춗 er the barren
+forenamed John. Bad blood lay be ween them and as they rode up under the barren
 mountains the white man would fall back alongside the other and take his shadow for
 the shade that was in it and whisper to him. The black would check or start his horse
 to shake him off. As if the white man were in violation of his person, had stumbled
@@ -3075,13 +3074,13 @@ caution either back from his course and when Glanton looked to the rear along th
 column from time to time he seemed to simply reckon them among his number and
 ride on.
 
-Earlier that morning the company had met in a courtyard be ind a hou춉 se on the
+Earlier that morning the company had met in a courtyard be ind a house on the
 outskirts of the city. Two men carried from a wagon a stenciled ordnance box from the
 Baton Rouge arsenal and a Prussian jew named Speyer pried open the box with a
 pritchel and a shoeing hammer and handed up a flat package in brown butcherpaper
-translucent with grease like a paper of bak ry goods. Glanton op춅 ened the package and
+translucent with grease like a paper of bak ry goods. Glanton op ened the package and
 let the paper fall to the dirt. In his hand he held a longbarreled sixshot Colt's patent
-revolver. It was a huge sidearm meant for dragoons and it car ied in춓 its long cylinders
+revolver. It was a huge sidearm meant for dragoons and it car ied in its long cylinders
 a rifle's charge and weighed close to five pounds loaded. These pistols would drive the
 half-ounce conical ball through six inches of hardwood and there were four dozen of
 them in the case. Speyer was breaking out the gang-molds and flasks and tools and
@@ -3095,11 +3094,11 @@ pinned to the underside of the barrel. When all the chambers were loaded he capp
 them and looked about. In that courtyard other than merchants and buyers were a
 number of living things. The first that Glanton drew sight uponwas a cat that at that
 precise moment appeared upon the high wall from the other side as silently as a bird
-alighting. It turned to pick its way among the cusps of broken glass set up ight in the춓
+alighting. It turned to pick its way among the cusps of broken glass set up ight in the
 mud masonry. Glanton leveled the huge pistol in one hand and thumbed back the
 hammer. The explosion in that dead silence was enormous. The cat simply disappeared.
-There was no blood or cry, it just vanished. Speyer glanced uneasily at the젨 젨
-Mexicans. They were watching Glanton. Glanton thumbed back t젨 젨 젨 젨 젨 he hammer
+There was no blood or cry, it just vanished. Speyer glanced uneasily at the
+Mexicans. They were watching Glanton. Glanton thumbed back t he hammer
 again and swung the pistol. A group of fowl in the corner of the courtyard that had
 been pecking in the dry dust stood nervously, their heads at varied angles. The pistol
 roared and one of the birds exploded in a cloud of feathers. The others began to trot
@@ -3190,10 +3189,10 @@ That dark vexed face. He studied it and he drew the sergeant forward the better 
 him to observe and then he began a laborious introduction in Spanish. He sketched for
 the sergeant a problematic career of the man before them, his hands drafting with a
 marvelous dexterity the shapes of what varied paths conspired here in the ultimate
-authority of the extant s he told them ike strings drawn together뾞 뾩 through the eye of a
-ring. He adduced for their consideration references to the chil re춄 n of Ham, the lost
+authority of the extant s he told them ike strings drawn together through the eye of a
+ring. He adduced for their consideration references to the chil re n of Ham, the lost
 tribes of Israelites, certain passages from the Greek poets, anthropological speculations as
-to the propa ation of the races in their dispersion and isolation춇 through the agency of
+to the propa ation of the races in their dispersion and isolation through the agency of
 
 
 geological cataclysm and an assessment of racial traits with respect to climatic and
@@ -3217,15 +3216,15 @@ That shaking hands was not the custom in your land.
 
 Before that. What did you say to him before that.
 
-The judge smiled. It is not necessary, he said, that the princi춑als here be in possession
+The judge smiled. It is not necessary, he said, that the princials here be in possession
 of the facts concerning their case, for their acts will ultimately accommodate history with
-or with ut their understanding. But it is consistent with noti춐 ons of right principle that
-these facts o the extent that they can be readily made to do so ho뾲 뾱 uld find a
+or with ut their understanding. But it is consistent with noti ons of right principle that
+these facts o the extent that they can be readily made to do so ho uld find a
 repository in the witness of some third party. Sergeant Aguilar is just such a party and
 any slight to his office is but a secondary consideration when compared to divergences
 in that larger protocol exacted by the formal agenda of an absolute destiny. Words are
 things. The words he is in possession of he cannot be deprived of. Their authority trans
-춃ends his ignorance of their meaning.
+ends his ignorance of their meaning.
 
 The black was sweating. A dark vein in his temple pulsed like a fuse. The company had
 listened to the judge in silence. A few smiled. A halfwitted killer from Missouri guffawed
@@ -3233,7 +3232,7 @@ softly like an asthmatic. The judge turned again to the sergeant and they spoke 
 and the judge and he crossed to where the crate stood in the courtyard and the judge
 showed him one of the pistols and explained its workings with great patience. The
 sergeant's men had risen and stood waiting. At the gate the judge doled coins into
-Aguilar's palm and he shook hands for ally with each ragged charg춎 e and complimented
+Aguilar's palm and he shook hands for ally with each ragged charg e and complimented
 them upon their military bearing and they exited into the street.
 
 At noon that day the partisans rode out each man armed with a pair of the pistols and
@@ -3259,13 +3258,13 @@ the west so that they lay opposed to each other across the earth, the sun whiteh
 the moon a pale replica, as if they were the ends of a common bore beyond whose
 terminals burned worlds past all reckoning. As the riders came up through the mesquite
 and pyracantha singlefile in a light clank of arms and chink of bitrings the sun climbed
-and the moon set and the horses and the dewsoaked mules com ence춎 d to steam in
+and the moon set and the horses and the dewsoaked mules com ence d to steam in
 flesh and in shadow.
 
 Toadvine had fallen in with a fugitive from Vandiemen's Land named Bathcat who had
 come west on legbail. He was from Wales by birth and he had but three fingers to his
-right hand and few teeth. Perhaps he saw in Toadvine a fellow fugi ive n earless and춗 뾞
-branded felon who had chosen in life much as had he nd he offered t뾞 o wager as to
+right hand and few teeth. Perhaps he saw in Toadvine a fellow fugi ive n earless and
+branded felon who had chosen in life much as had he nd he offered t o wager as to
 which Jackson would kill which.
 
 I dont know them boys, said Toadvine.
@@ -3285,7 +3284,7 @@ The blackie will do for him. Take your odds.
 Toadvine looked at him. The necklace of human ears he wore looked like a string of
 dried black figs. He was big and raw-looking and one eyelid sagged where a knife had
 severed the small muscles there and he was furnished with gear ofevery class, the fine
-with the shoddy. He wore good boots and he car ied a handsome rifl춓 e bound with
+with the shoddy. He wore good boots and he car ied a handsome rifl e bound with
 german silver but the rifle was slung in a cutoff bootleg and hisshirt was in tatters and
 his hat rancid.
 
@@ -3325,19 +3324,19 @@ at broad day in the throat of the mountains to the east and they were still ridi
 
 
 it overtook them at its midnight meridian, sketching on the plain below a blue cameo of
-such dread pil rims clanking north.춇
+such dread pil rims clanking north.
 
 They spent the night in the corral of a hacienda where all night men kept watchfires
 burning on the azoteas or roofs. Two weeks before this a party of campesinos had been
 hacked to death with their own hoes and partly eaten by hogs while the Apaches
 rounded up what stock would drive and disappeared into the hills. Glanton ordered a
 goat killed and this was done in the corral while the horses shiedand trembled and in
-the flar ng light of the fires the men squatted and roasted the me춊 at and ate it with
+the flar ng light of the fires the men squatted and roasted the meat and ate it with
 knives and wiped their fingers in their hair and turned in to sleep upon the beaten clay.
 
 At dusk of the third day they rode into the town of Corralitos, the horses shuffling
 through the caked ash and the sun glaring redly through the smoke. The smelter
-chimneys were ranged against an ashen sky and the globy lights of the furnaces glow 춅
+chimneys were ranged against an ashen sky and the globy lights of the furnaces glow
 red under the dark of the hills. It had rained in the day and the windowlights of the
 low mud houses were reflected in pools along the flooded road out of which great
 dripping swine rose moaning before the advancing horses like oafish demons routed
@@ -3347,7 +3346,7 @@ standing solemnly along the way and noting the least of their gestures with look
 awe, looks of wonder.
 
 They camped in the plaza, blackening the cottonwoods with their fires and driving forth
-the sleeping birds, the flames light ng up the wretched town to i춊 ts darkest pens and
+the sleeping birds, the flames light ng up the wretched town to its darkest pens and
 bringing forth even the blind tottering with their hands outstretched toward that
 conjectural day. Glanton and the judge with the Brown brothers rode out to the
 hacienda of General Zuloaga where they were received and given their dinner and the
@@ -3358,7 +3357,7 @@ to ride out they were approached by a family of itinerant magicians seeking safe
 up-country as far as Janos. Glanton looked down at them from his place at the head of
 the column. Their goods were piled up in tattered panniers lashed to the backs of three
 burros and they were a man and his wife and a grown boy and a girl. They were
-dressed in fools costumes with stars and halfmoons em roidered on춂 and the once
+dressed in fools costumes with stars and halfmoons em roidered on and the once
 gaudy colors were faded and pale from the dust of the road and they looked a set of
 right wander-folk cast on this evil terrain. The old man came forward and took the
 bridle of Glanton's horse.
@@ -3366,8 +3365,8 @@ bridle of Glanton's horse.
 Get your hands off the horse, said Glanton.
 
 
-He spoke no english but he did as he was told. He com enced to put춎 forth his case.
-He gestured, he pointed back to ard the others. Glanton watched h춛 im, who knows if he
+He spoke no english but he did as he was told. He com enced to put forth his case.
+He gestured, he pointed back to ard the others. Glanton watched him, who knows if he
 heard at all. He turned and looked at the boy and at the two women and he looked
 down at the man again.
 
@@ -3415,7 +3414,7 @@ At noon they crossed the stony bottom of the Casas Grandes River and they rode a
 a benchland above the gaunt rill of water past a place of bones where Mexican soldiers
 had slaughtered an encampment of Apaches some years gone, women and children, the
 bones and skulls scattered along the bench for half a mile and the tiny limbs and
-toothless paper skulls of in ants like the ossature of small ap춆 es at their place of
+toothless paper skulls of in ants like the ossature of small ap es at their place of
 murder and old remnants of weathered basketry and broken pots among the gravel.
 They rode on. The river led a limegreen corridor of trees down out of the barren
 mountains. To the west lay the ragged Carcaj and to the north the Animas peaks dim
@@ -3423,7 +3422,7 @@ and blue.
 
 They made camp that night on a windy plateau among pifion and juniper and the fires
 leaned downwind in the darkness and hot chains of sparks raced among the scrub. The
-jugglers un oaded the burros and began to set up a large gray tent. Th춍 e canvas was
+jugglers un oaded the burros and began to set up a large gray tent. Th e canvas was
 scrawled with arcana and it flapped and lurched, stood towering, luffed and wrapped
 them about. The girl lay on the ground holding to one corner. She began to drag
 through the sand. The juggler took small steps. The woman's eyes were rigid in the
@@ -3457,12 +3456,12 @@ baraja, he said. Para adivinar la suerte.
 
 The juggler tossed one hand aloft. Si, si, he said, shaking his head with vigor. Todo,
 todo. He held up one finger and then turned and made his way to the trove of shoddy
-partly off oaded from the burros. When he returned he was smiling aff춍 ably and
+partly off oaded from the burros. When he returned he was smiling affably and
 manipulating the cards very nimbly.
 
 Venga, he called. Venga.
 
-The woman followed him. The juggler squatted before Glan on an춗 d spoke to him in a
+The woman followed him. The juggler squatted before Glan on an d spoke to him in a
 low voice. He turned and looked at
 
 the woman and he riffled the cards and rose and took her by the hand and led her
@@ -3526,7 +3525,7 @@ What does she say Judge?
 
 The judge smiled. With his thumb he had been routing small life from the folds of his
 hairless skin and now he held up one hand with the thumb and forefinger pressed
-together in a gesture that appeared to be a benediction until he flung something un 춖
+together in a gesture that appeared to be a benediction until he flung something un
 een into the fire before him. What does she say?
 
 What does she say.
@@ -3554,14 +3553,14 @@ man.
 
 Now a number of the company seated there seemed to weigh the judge's words and
 some turned to look at the black. He stood an uneasy honoree and at length he stepped
-back from the fire ight and the juggler rose and made a motion with춍 the cards,
+back from the fire ight and the juggler rose and made a motion with the cards,
 sweeping them in a fan before him and then proceeding along the perimeter past the
 boots of the men with the cards outheld as if they would find their own subject.
 
 Quien, quien, he whispered among them.
 
 They were right loath all. When he came before the judge the judge, who sat with one
-hand splayed across the broad ex anse of his stomach, raised a fin춑 ger and pointed.
+hand splayed across the broad ex anse of his stomach, raised a finger and pointed.
 
 Young Blasarius yonder, he said.
 
@@ -3589,7 +3588,7 @@ he took the card and held it up.
 
 Cuatro de copas, he called out.
 
-The woman raised her head. She looked like a blindfold man equi춏 n raised awake by a
+The woman raised her head. She looked like a blindfold man equi n raised awake by a
 string.
 
 Cuatro de copas, she said. She moved her shoulders. The wind went among her
@@ -3606,7 +3605,7 @@ prophetess for all. She began to chant.
 
 The judge was laughing silently. He bent slightly the better to see the kid. The kid
 looked at Tobin and at David Brown and he looked at Glanton himself but they were
-none laughing. The juggler kneeling before him watched him with a strange inten ity.춖
+none laughing. The juggler kneeling before him watched him with a strange inten ity.
 He followed the kid's gaze to the judge and back. When the kid looked down at him he
 smiled a crooked smile.
 
@@ -3663,7 +3662,7 @@ seemed to catch some new drift in her divinings.
 Perdida, perdida. La carta esta perdida en la noche.
 
 
-The girl standing this while at the edge of the howling dark ess c춏 rossed herself silently.
+The girl standing this while at the edge of the howling dark ess crossed herself silently.
 The old malabarista was on his knees where he'd been flung. Perdida, perdida, he
 whispered.
 
@@ -3675,7 +3674,7 @@ Carroza de muertos, llena de huesos. El joven que ...
 
 The judge like a great ponderous djinn stepped through the fire and the flames
 delivered him up as if he were in some way native to their element. He put his arms
-around Glanton. Some ne snatched the old woman's blindfold fro춐 m her and she and
+around Glanton. Some ne snatched the old woman's blindfold fro m her and she and
 the juggler were clouted away and when the company turned in to sleep and the low
 fire was roaring in the blast like a thing alive these four yet crouched at the edge of the
 firelight among their strange chattels and watched how the ragged flames fled down the
@@ -3712,7 +3711,7 @@ ground nor did she look up even when the horses stood all about her.
 Glanton looked down the square. The town appeared empty. There was a small company
 of soldiers garrisoned here but they did not turn out. Dust was blowing through the
 streets. His horse leaned and sniffed at the old woman and jerked its head and
-trembled and Glanton patted the animal's neck and dis ounted.춎
+trembled and Glanton patted the animal's neck and dis ounted.
 
 She was in a meatcamp about eight mile up the river, said Webster.She caint walk.
 
@@ -3721,7 +3720,7 @@ How many were there?
 We reckoned maybe fifteen or twenty. They didnt have no stock to amount to anything.
 I dont know what she was doin there.
 
-Glanton crossed in front of his horse, passing the reins be ind his춉 back.
+Glanton crossed in front of his horse, passing the reins be ind his back.
 
 Watch her, Cap. She bites.
 
@@ -3756,7 +3755,7 @@ some already seeing to their mounts or their equipage. Only the recruits were wa
 Glanton. He seated a pistolball in the mouth of the chamber and then he raised his
 eyes and looked across the square. The juggler and his family stood aligned like
 witnesses and beyond them in the long mud facade faces that had been watching from
-the doors and the naked windows dropped away like puppets in a gal ery before the춍
+the doors and the naked windows dropped away like puppets in a gal ery before the
 slow sweep of his eyes. He levered the ball home and capped the piece and spun the
 heavy pistol in his hand and returned it to the scabbard at the horse's shoulder and
 took the dripping trophy from McGill and turned it in the sun the way a man might
@@ -3792,7 +3791,7 @@ a killing - Another anchorite, another dawn.
 
 They paused without the cantina and pooled their coins and Toadvine pushed aside the
 dried cowhide that hung for a door and they entered a place where all was darkness
-and with ut definition. A lone lamp hung from a crosstree in the ce춐 iling and in the
+and with ut definition. A lone lamp hung from a crosstree in the ceiling and in the
 shadows dark figures sat smoking. They made their way across the room to a claytiled
 bar. The place reeked of woodsmoke and sweat. A thin little man appeared before them
 and placed his hands ceremonially upon the tiles.
@@ -3877,7 +3876,7 @@ The Vandiemenlander passed his own threefingered hand across his mouth but he
 allowed no affinity. The old man's full he said. Or mad.
 
 Toadvine propped his elbows on the tiles behind him. He looked at the old man and he
-spat on the floor. Craziern a run way nigger, aint ye? he said.춁
+spat on the floor. Craziern a run way nigger, aint ye? he said.
 
 There was a groan from the far side of the room. A man rose and went along the wall
 and bent to speak with others. The groans came again and the old man passed his hand
@@ -3918,7 +3917,7 @@ He drained his cup and took up his bottle and went softly away on his sandals in
 
 
 farther dim of the cantina. The man at the wall moaned again and called upon his god.
-The Vandiemenlander and the barman spoke together and the bar춎an gestured at the
+The Vandiemenlander and the barman spoke together and the baran gestured at the
 dark in the corner and shook his head and the Americans chambered down their last
 cups and Toadvine pushed the few tlacos toward the barman and they went out.
 
@@ -4003,7 +4002,7 @@ The judge looked at the kid. He looked at Toadvine again. Thenhe rose and went b
 
 
 In the morning two of the Delawares were gone. They rode on. By noonthey had begun
-to climb toward the gap in the moun ains. Riding up through wild l춗 avender or
+to climb toward the gap in the moun ains. Riding up through wild lavender or
 soapweed, under the Animas peaks. The shadow of an eagle that had set forth from
 those high and craggy fastnesses crossed the line of riders below and they looked up to
 mark it where it rode in that brittle blue and faultless void. They came up through
@@ -4013,7 +4012,7 @@ through the mountains.
 In the evening they came out upon a mesa that overlooked all thecountry to the north.
 The sun to the west lay in a holocaust where there rose a steady column of small
 desert bats and to the north along the trembling perimeter of the world dust was blow
-춊ng down the void like the smoke of distant armies. The crumpled butcherpaper
+ng down the void like the smoke of distant armies. The crumpled butcherpaper
 mountains lay in sharp shadowfold under the long blue dusk andin the middle distance
 the glazed bed of a dry lake lay shimmering like the mare imbrium and herds of deer
 were moving north in the last of the twilight, harried over the plain by wolves who
@@ -4065,7 +4064,7 @@ Final as the judgement of God.
 The black looked once more across the flames at Glanton and then he moved away in
 the dark. The white man uncocked the revolver and placed it on the ground before him.
 Two of the others came back to the fire and stood uneasily. Jackson sat with his legs
-crossed. One hand lay in his lap and the other was out tretched on춖 his knee holding a
+crossed. One hand lay in his lap and the other was out tretched on his knee holding a
 slender black cigarillo. The nearest man to him was Tobin and when the black stepped
 out of the darkness bearing the bowieknife in both hands like some instrument of
 ceremony Tobin started to rise. The white man looked up drunkenly and the black
@@ -4107,7 +4106,7 @@ footless in the void like floating temples.
 
 Toadvine and the kid sat their horses and gazed upon that desolation with the others.
 Out on the playa a cold sea broke and water gone these thousand years lay riffled silver
-in the morn ng wind.춊
+in the morn ng wind.
 
 Sounds like a pack of hounds, said Toadvine.
 
@@ -4130,7 +4129,7 @@ riding huge and inverted and the horses' legs incredibly elongate trampling down
 high thin cirrus and the howling antiwarriors pendant from their mounts immense and
 
 
-chimeric and the high wild cries carry ng that flat and barren pan li춊 ke the cries of
+chimeric and the high wild cries carry ng that flat and barren pan like the cries of
 souls broke through some misweave in the weft of things into theworld below.
 
 They'll swing to their right, called Glanton, and as he spoke they did so, favoring their
@@ -4146,7 +4145,7 @@ and to vanish.
 
 The company lay under the creosote recharging their pieces. One of the ponies was lying
 in the sand breathing steadily and others stood that bore arrows with a curious patience.
-Tate and Doc Irving pulled back to see about them. The others lay watch ng the playa.춊
+Tate and Doc Irving pulled back to see about them. The others lay watch ng the playa.
 
 They walked out, Toadvine and Glanton and the judge. They picked up a short rifled
 musket bound in rawhide and studded about the stock with brassheaded tacks in varied
@@ -4156,7 +4155,7 @@ had fled. He handed the rifle to Toadvine and they went on.
 The dead man lay in a sandy wash. He was naked save for skin boots and a pair of
 wide Mexican drawers. The boots had pointed toes like buskins and they had parfleche
 soles and high tops that were rolled down about the knees and tied. The sand in the
-wash was dark with blood. They stood there in the wind ess heat at춍 the edge of the
+wash was dark with blood. They stood there in the wind ess heat at the edge of the
 dry lake and Glanton pushed him over with his boot. The painted face came up, sand
 stuck to the eyeball, sand stuck to the rancid grease with whichhe'd smeared his torso.
 You could see the hole where the ball from Toadvine's rifle had gone in above the lower
@@ -4189,7 +4188,7 @@ somewhere far below them in the awful darkness inside the world.
 
 On the day that followed they crossed a lake of gypsum so fine the ponies left no track
 upon it. The riders wore masks of bone-black smeared about their eyes and some had
-blacked the eyes of their horses. The sun reflected off the pan burned the under ides춖
+blacked the eyes of their horses. The sun reflected off the pan burned the under ides
 of their faces and shadow of horse and rider alike were painted upon the fine white
 powder in purest indigo. Far out on the desert to the north dustspouts rose wobbling
 and augered the earth and some said they'd heard of pilgrims borne aloft like dervishes
@@ -4266,7 +4265,7 @@ caldera where lay the abandoned ruins of Santa Rita del Cobre.
 Here they made a dry and fireless camp. They sent down scouts and Glanton walked
 out on the bluff and sat in the dusk watching the darkness deepen in the gulf below to
 see if any light should show itself down there. The scouting party returned in the dark
-and it was still dark in the morning when the com any mounted and ro춑 de out.
+and it was still dark in the morning when the com any mounted and rode out.
 
 They entered the caldera in a condition of half gray dawn, riding singlefile through the
 shaley streets between rows of old adobes abandoned these dozen years past when the
@@ -4328,7 +4327,7 @@ forays at night up the arroyo for wood and water and they had been feeding off a
 mule that lay gutted and stinking in the far corner of the yard. The first thing they
 asked for was whiskey and the next was tobacco. They had but two animals and one of
 these had been snakebit in the desert and this thing now stood in the compound with
-its head enormously swollen and grotesque like some fabled equine idea ion out of an춗
+its head enormously swollen and grotesque like some fabled equine idea ion out of an
 Attic tragedy. It had been bitten on the nose and its eyes bulged out of the shapeless
 head in a horror of agony and it tottered moaning toward the clustered horses of the
 company with its long misshapen muzzle swinging and droolingand its breath wheezing
@@ -4336,7 +4335,7 @@ in the throttled pipes of its throat. The skin had split open along the bridge o
 and the bone shone through pinkish white and its small ears looked like paper spills
 twisted into either side of a hairy loaf of dough. The American horses began to mill and
 separate along the wall at its approach and it swung after them blindly. There was a
-flurry of thumps and kicks and the horses began to circle the^ com춑ound. A small
+flurry of thumps and kicks and the horses began to circle the^ comound. A small
 mottled stallion belonging to one of the Delawares came out of the remuda and struck
 at the thing twice and then turned and buried its teeth in its neck. Out of the mad
 horse's throat came a sound that brought the men to the door.
@@ -4388,14 +4387,14 @@ correct, this man of learning, in all his speculations, and thisthe judge encour
 
 they were right proselytes of the new order whereupon he laughed atthem for fools.
 
-That evening the main part of the company quartered them elves on춖 the dry clay of
+That evening the main part of the company quartered them elves on the dry clay of
 the compound under the stars. Before morning rain would drive themin, huddled in the
 dark mud cubicles along the south wall. In the office of the presidio they'd built a fire
 in the floor and the smoke rose through the ruined roof and Glantonand the judge and
 their lieutenants sat about the blaze and smoked their pipes while the squatters stood
 off to one side chewing the tobacco they'd been given and spitting at the wall. The
 halfbreed boy watched them with his dark eyes. To the west among the low dark hills
-they could hear the howl ng of a wolf that the squatters did mist춊 rust and the hunters
+they could hear the howl ng of a wolf that the squatters did mistrust and the hunters
 smiled among themselves. In a night so beclamored with the jackal-yapping of coyotes
 and the cries of owls the howl of that old dog wolf was the one sound they knew to
 issue from its right form, a solitary lobo, perhaps gray at the muzzle, hung like a
@@ -4432,7 +4431,7 @@ men composed themselves in their blankets in the drier places about the floor an
 they were asleep.
 
 In the morning the rain had ceased. The water stood in pools in the courtyard and the
-snakebit horse lay dead with its shape ess head stretched in the춍 mud and the other
+snakebit horse lay dead with its shape ess head stretched in the mud and the other
 animals had gathered in the northeast corner under the tower and stood facing the wall.
 The peaks to the north were white with snow in the new risen sun and when Toadvine
 stepped out into the day the sun was just touching the upper walls of the compound
@@ -4452,7 +4451,7 @@ An eagle was crossing the gorge with the sun very white on its head and tailfeat
 
 So it has, said the judge. So it has.
 
-The squatters emerged and stood about the cantonment blink ng l춊 ike birds. They had
+The squatters emerged and stood about the cantonment blink ng like birds. They had
 elected among themselves to join the company and when Glanton came across the yard
 leading his horse the spokesman for their group stepped forwardto inform him of their
 decision. Glanton didnt even look at him. He entered the cuartel and got his saddle and
@@ -4472,7 +4471,7 @@ it flopped over strangely when they let him onto the ground. The hills beyond th
 minepit were reflected grayly in the pools of rainwater in the courtyard and the partly
 
 
-eaten mule lay in the mud with its hindquarters miss ng like some춊 thing from a chromo
+eaten mule lay in the mud with its hindquarters miss ng like something from a chromo
 of terrific war. Within the doorless cuartel the man who'd been shot sang church hymns
 and cursed God alternately. The squatters stood about the dead boy with their wretched
 firearms at rest like some tatterdemalion guard of honor. Glanton had given them a half
@@ -4527,7 +4526,7 @@ them they were innocent of civilized device as the rawest savage of that land.
 
 They parleyed without dismounting and the ciboleros lighted their small cigarillos and
 told that they were bound for the markets at Mesilla. The Americans might have traded
-for some of the meat but they carried no tantamount goods and the dis osition to춑
+for some of the meat but they carried no tantamount goods and the dis osition to
 exchange was foreign to them. And so these parties divided upon that midnight plain,
 each passing back the way the other had come, pursuing as all travelers must inversions
 without end upon other men's journeys.
@@ -4543,7 +4542,7 @@ Saltpeter and charcoal - The malpais -Hoofprints - The volcano-
 Brimstone - The matrix - The slaughter of the aborigines.
 
 In the days to follow all trace of the Gilenos faded and they pushed deeper into the
-mountains. By fires of highland drift ood pale as bone they crouc춛 hed in silence while
+mountains. By fires of highland drift ood pale as bone they crouched in silence while
 the flames yawed in the nightwinds ascending those stony draws. The kid sat with his
 legs crossed mending a strap with an awl he'd borrowed from the expriest Tobin and
 the frockless one looked on as he worked.
@@ -4575,7 +4574,7 @@ Aye.
 
 The kid looked at the expriest, he bent to his mending.
 
-He does for I heard him do it. We cut a parcel of crazy pil rims down of춇 f the Llano
+He does for I heard him do it. We cut a parcel of crazy pil rims down of f the Llano
 and the old man in the lead of them he spoke right up in dutch likewe were all of us
 in dutchland and the judge give him right back. Glanton come near fallin off his horse.
 We none of us knew him to speak it. Asked where he'd learned it you know what he
@@ -4649,11 +4648,11 @@ The judge, said Tobin. He didn't answer.
 
 I seen him before, said the kid. In Nacogdoches.
 
-Tobin smiled. Every man in the company claims to have en ounte춃 red that sootysouled
+Tobin smiled. Every man in the company claims to have en ounte red that sootysouled
 rascal in some other place.
 
 Tobin rubbed his beard on the back of his hand. He saved us all, I have to give him
-that. We come down off the Little Col rado we didnt have a pound o춐 f powder in the
+that. We come down off the Little Col rado we didnt have a pound o f powder in the
 company. Pound. We'd not a dram hardly. There he set on a rock in the middle of the
 greatest desert you'd ever want to see. Just perched on this rock like a man waitin for a
 coach. Brown thought him a mirage. Might have shot him for one ifhe'd had aught to
@@ -4707,7 +4706,7 @@ could not have been finer.
 
 We'd not rode far before he struck us a new course about nine points to the east. He
 pointed out a range of mountains maybe thirty mile distant and we pulled for those
-mountains and none of us asked what for. By then Glanton had give him the particu춍
+mountains and none of us asked what for. By then Glanton had give him the particu
 ars of the situation in which he'd installed himself but if bein naked of arms in that
 wilderness and half of all Apacheria in pursuit worried him at all he kept it to himself
 entire.
@@ -4732,7 +4731,7 @@ would go up the side of the mountain and make notes in a little book and then he
 would come back down. Could not have been more cheerful. Two men had deserted in
 the night and that made us down to twelve and the judge thirteen. I gave him my best
 study, the judge. Then and now. He appeared to be a lunatic and then not. Glanton I al
-춛ays knew was mad.
+ays knew was mad.
 
 We left out with the first light up a little wooded draw. We were on the north slope
 and there was willow and alder and cherry growin out of the rock, just little trees. The
@@ -4760,8 +4759,8 @@ into the cave, thousands of the creatures, and they continued so for an hour or 
 and even then it was just that we could no longer see them.
 
 The judge. We left him at a high pass, a little clearwater creek. Him and one of the
-Delawares. He told us to circle the moun ain and to return to that pl춗 ace in forty-eight
-hours. We un oaded all the containers onto the ground and took the춍 two horses with
+Delawares. He told us to circle the moun ain and to return to that place in forty-eight
+hours. We un oaded all the containers onto the ground and took the two horses with
 us and him and the Delaware commenced luggin the panniers and the wallets up that
 little creek. I watched him go and I said that I would never set eyes on that man again.
 
@@ -4778,7 +4777,7 @@ noses if they snuffled. But in those two days the judge leached out the guano wi
 creekwater and woodash and precipitated it out and he built a clay kiln and burned
 charcoal in it, doused the fire by day and fired it again come dark.When we found him
 him and the Delaware was settin in the creek stark naked and they appeared at first to
-be drunk but on what none could surmise. The entire top of that moun ain was춗
+be drunk but on what none could surmise. The entire top of that moun ain was
 covered with Apache Indians and there set he. He got up when he seen us and went to
 the willows and come back with a pair of wallets and in one was about eight pounds of
 pure crystal saltpetre and in the other about three pounds of fine alder charcoal. He'd
@@ -4803,8 +4802,8 @@ smoke. They'd drift off and quarter around and circle the horses. Bold as brass.
 at them with our hobbles and they would slip past, you couldnt hear them on the
 hardpan just their breath or they would mutter and grouse or pop their teeth. Glanton
 halted and the things swirled around and slank off and come back. Two of the
-Delawares backtracked off to the left a bit raver souls than me nd뾟 뾞 sure they found
-the kill. Twas a young buck ante ope new killed the evenin befo춍 re. It was about half
+Delawares backtracked off to the left a bit raver souls than me nd sure they found
+the kill. Twas a young buck ante ope new killed the evenin before. It was about half
 consumed and we set upon it with our knives and took the rest of the meat with us
 and we ate it raw in the saddle and it was the first meat we'd seen in six days. Froze
 for it we were. Foragin on the mountain for pinon nuts like bears and glad to get them.
@@ -4828,7 +4827,7 @@ The expriest broke off and tapped the dead pipe against the heel of his boot. He
 at the judge over the way where he sat with his torso bared to the flames as was his
 practice. He turned and regarded the kid.
 
-The malpais. It was a maze. Ye'd run out upon a little promon ory a춗 nd ye'd be balked
+The malpais. It was a maze. Ye'd run out upon a little promon ory and ye'd be balked
 about by the steep crevasses, you wouldnt dare to jump them. Sharp black glass the
 edges and sharp the flinty rocks below. We led the horses with every care and still they
 were bleedin about their hooves. Our boots was cut to pieces. Clamberin over those old
@@ -4841,13 +4840,13 @@ doe in her going but what little doe ever trod melted rock? I'd not go behind sc
 but it may be that there has been sinners so notorious evil that the fires coughed em
 up again and I could well see in the long ago how it was little devils with their
 pitchforks had traversed that fiery vomit for to salvage back those souls that had by mis
-춁dventure been spewed up from their damnation onto the outer shelves of the world.
+dventure been spewed up from their damnation onto the outer shelves of the world.
 Aye. It's a notion, no more. But someplace in the scheme of things this world must
 touch the other. And somethin put them little hooflet markings in the lava flow for I
 seen them there myself.
 
 The judge, he seemed not to take his eyes from that dead cone where it rose off the
-desert like a great chancre. We fol owed solemn as owls so that he t춍 urned to look
+desert like a great chancre. We fol owed solemn as owls so that he turned to look
 back and he did laugh when he seen our faces. At the foot of the mountain we drew
 lots and we sent two men to go on with the horses. I watched them go. One of them is
 at this fire tonight and I saw him lead them horses away over the slaglands like a
@@ -4856,7 +4855,7 @@ doomed man.
 
 And we were not doomed ourselves 1 dont reckon. When I looked up he was already
 upon the slope hand and foot, the judge was, his bag over his shoulder and his rifle for
-alpen tock. And so did we all go. Not halfway up we could already춖 see the savages out
+alpen tock. And so did we all go. Not halfway up we could already see the savages out
 on the plain. We climbed on. I thought at worst we'd throw ourselves into the caldron
 rather than be taken by those fiends. We climbed up and I reckon it was midday when
 we reached the top. We were done in. The savages not ten miles out. I looked at the
@@ -4872,7 +4871,7 @@ he was chippin away and he called upon us to do the same. It was brimstone. A we
 of brimstone all about the rim of the caldron, bright yellow and shining here and there
 with the little flakes of silica but most pure flowers of sulphur. We chipped it loose and
 chopped it fine with our knives till we had about two pounds of it and then the judge
-took the wallets and went to a cupped place in the rock and dumped out the char oal춃
+took the wallets and went to a cupped place in the rock and dumped out the char oal
 and the nitre and stirred them about with his hand and poured the sulphur in.
 
 I didnt know but what we'd be required to bleed into it like freemasons but it was not
@@ -4903,7 +4902,7 @@ Then they seen us.
 Well, God in his glory knows what they thought. They were scattered out across the lava
 and one of them pointed and they all looked up. Thunderstruck nodoubt. To see eleven
 men perched on the topmost rim of that scalded atoll like misflown birds. They parleyed
-and we watched to see would they dis atch any of their number af춑 ter the horses but
+and we watched to see would they dis atch any of their number after the horses but
 they did not. Their greed overcame all else and they started for the base of the cone,
 scramblin over the lava for to see who would be first.
 
@@ -4944,7 +4943,7 @@ his piece out over it and pointed it straight down and cocked the hammer and fir
 You wouldnt hear a sound like it in a long day's ride. It give me the fidgets. He fired
 both barrels and he looked at us and he looked at the judge. The judge just waved and
 went on with his grindin and then he called us all about to fill our horns and flasks
-and we did, one by one, circlin past him like communi ants. And w춃 hen all had shared
+and we did, one by one, circlin past him like communi ants. And when all had shared
 he filled his own flask and he got out his pistols and saw to thepriming. The foremost
 of the savages was not more than a furlong on the slope. We were ready to lay into
 them but again the judge would not have it. He fired off his pistols down into the
@@ -4956,7 +4955,7 @@ of his bag and he waved it to the redskins and he called down to them in Spanish
 
 Well it would have brought tears to your eyes. All dead save me, he called. Have mercy
 on me. Todos muertos. Todos. Wavin the shirt. God it set them yappin on the slope like
-dogs and he turns to us, the judge, with that smile of his, and he says: Gen lemen.춗
+dogs and he turns to us, the judge, with that smile of his, and he says: Gen lemen.
 That was all he said. He had the pistols stuck in his belt at theback and he drew them
 one in each hand and he is as eitherhanded as a spider, he can writewith both hands
 at a time and I've seen him to do it, and he commenced to kill Indians. We needed no
@@ -4964,7 +4963,7 @@ second invitation. God it was a butchery. At the first fire we killed a round do
 we did not let up. Before the last poor nigger reached the bottom of the slope there
 was fifty-eight of them lay slaughtered among the gravels. They just slid down the slope
 like chaff down a hopper, some turned this way, some that, and they made a chain
-about the base of the mountain. We rested our rifle barrels on the brim tone and we춖
+about the base of the mountain. We rested our rifle barrels on the brim tone and we
 shot nine more on the lava where they ran. It was a stand, what it was. Wagers was
 laid. The last of them shot was a reckonable part of a mile from the muzzles of the
 guns and that on a dead run. It was sharp shootin all around and not a misfire in the
@@ -4997,7 +4996,7 @@ Night scene with moon, blossoms, judge - The village - Clanton
 on the management of animals - The trail out.
 
 They rode on into the mountains and their way took them through high pine forests,
-wind in the trees, lonely bird alls. The shoeless mules slalomi춃 ng through the dry grass
+wind in the trees, lonely bird alls. The shoeless mules slalomi ng through the dry grass
 and pine needles. In the blue coulees on the north slopes narrow tailings of old snow.
 They rode up switchbacks through a lonely aspen wood where the fallen leaves lay like
 golden disclets in the damp black trail. The leaves shifted in a million spangles down
@@ -5013,7 +5012,7 @@ feeding and looked down at them with dim pig's eyes.
 
 Glanton's horse reared and Glanton flattened himself along the horse's shoulder and
 drew his pistol. One of the Delawares was next behind him and the horse he rode was
-falling back ard and he was trying to turn it, beating it about th춛 e head with his balled
+falling back ard and he was trying to turn it, beating it about th e head with his balled
 fist, and the bear's long muzzle swung toward them in a stunned articulation, amazed
 beyond reckoning, some foul gobbet dangling from its jaws and its chops dyed red with
 blood. Glanton fired. The ball struck the bear in the chest and the bear leaned with a
@@ -5046,13 +5045,13 @@ had lived all their lives in a wilderness as had their fathers before them. They
 war by warring, the generations driven from the eastern shore across a continent, from
 the ashes at Gnadenhutten onto the prairies and across the outlet to the bloodlands of
 the west. If much in the world were mystery the limits of that world were not, for it
-was without measure or bound and there were con ained within it cre춗 atures more
+was without measure or bound and there were con ained within it cre atures more
 horrible yet and men of other colors and beings which no man has looked upon and yet
 not alien none of it more than were their own hearts alien in them,whatever wilderness
 contained there and whatever beasts.
 
-They cut the trail of the party early the next day and by night all o춆 f the day following
-they had overtaken them. The lost war ior's horse stood saddled i춓 n the caballado as
+They cut the trail of the party early the next day and by night all o f the day following
+they had overtaken them. The lost war ior's horse stood saddled i n the caballado as
 they had left it and they took down the bags and divided his estate among them and
 that man's name was never said again. In the evening the judge came to the fire and
 sat with them and questioned them and made a map upon the ground and scrutinized
@@ -5062,7 +5061,7 @@ before.
 Their way led now through dwarf oak and ilex and over a stony ground where black
 trees stood footed in the seams on the slopes. They rode through sunlight and high
 grass and in the late afternoon they came out upon an escarpment that seemed to rim
-the known world. Below them in the paling light smol ered the pla춄 ins of San Agustin
+the known world. Below them in the paling light smol ered the pla ins of San Agustin
 
 
 stretching away to the northeast, the earth floating off in a long curve silent under
@@ -5079,9 +5078,9 @@ austere and implacable like shapes capable of violating their covenant with the 
 authored them and continuing autonomous across the naked rock without reference to
 sun or man or god.
 
-They rode down from this country through a deep gorge, clat ering ov춗 er the stones,
+They rode down from this country through a deep gorge, clat ering over the stones,
 rifts of cool blue shade. In the dry sand of the arroyo floor old bones and broken
-shapes of painted pot ery and graven on the rocks above them pict춗 ographs of horse
+shapes of painted pot ery and graven on the rocks above them pict ographs of horse
 and cougar and turtle and the mounted Spaniards helmeted and bucklered and
 contemptuous of stone and silence and time itself. Lodged in faults and crevices a
 hundred feet above them were nests of straw and jetsam from old high waters and the
@@ -5118,13 +5117,13 @@ sketched it into the book. He sketched with a practiced ease and there was no wr
 of that bald brow or pursing of those oddly childish lips. His fingers traced the
 impression of old willow wicker on a piece of pottery clay and he put this into his book
 with nice shadings, an, economy of pencil strokes. He is a draftsman as he is other
-things, well suf icient to the task. He looks up from time to tim춆 e at the fire or at his
+things, well suf icient to the task. He looks up from time to tim e at the fire or at his
 companions in arms or at the night beyond. Lastly he set before him the footpiece from
 a suit of armor hammered out in a shop in Toledo three centuries before, a small steel
 tapadero frail and shelled with rot. This the judge sketched in profile and in perspective,
 citing the dimensions in his neat script, making marginal notes.
 
-Glanton watched him. When he had done he took up the lit le foot춗 guard and turned it
+Glanton watched him. When he had done he took up the lit le foot guard and turned it
 in his hand and studied it again and then he crushed it into a ball of foil and pitched
 it into the fire. He gathered up the other artifacts and cast them also into the fire and
 he shook out the wagonsheet and folded it away among his possibles together with the
@@ -5156,7 +5155,7 @@ uttermost edge of the world.
 
 I'll stand for my own witness, said Webster, but by now the others had begun to call to
 him his conceit, and who would want to see his bloody portrait anyway and would there
-be fights break out in the great crowds awaiting its unveiling and per aps they could춉
+be fights break out in the great crowds awaiting its unveiling and per aps they could
 tar and feather the picture, lacking the article itself. Untilthe judge raised his hand and
 called for amnesty and told them that Webster's feelings were of a different kind and
 not motivated by vanity at all and that he'd once drawn an old Hueco's portrait and
@@ -5164,7 +5163,7 @@ unwittingly chained the man to his own likeness. For he could not sleep for fear
 enemy might take it and deface it and so like was the portrait that he would not suffer
 it creased nor anything to touch it and he made a journey across the desert with it to
 where he'd heard the judge was to be found and he begged his counsel as to how he
-might preserve the thing and the judge took him deep into the moun ains and they춗
+might preserve the thing and the judge took him deep into the moun ains and they
 buried the portrait in the floor of a cave where it lies yet for aught the judge knew.
 
 When he was done telling this Webster spat and wiped his mouth and eyed the judge
@@ -5193,7 +5192,7 @@ Dead ones I'd say, what about you, Judge?
 Not so dead, said the judge.
 
 
-They was passable masons, I'd say that. These niggers here bout춁 s now aint no kind.
+They was passable masons, I'd say that. These niggers here bout s now aint no kind.
 
 Not so dead, said the judge. Then he told them another story and it was this story.
 
@@ -5247,7 +5246,7 @@ calling for a place to be made for the nigger. He used those words. That a place
 made. Of course by this time the nigger and hearse had passed on from sight. With this
 the old man repented all over again and swore that the boy was right and the old
 woman who was seated by the fire was amazed at all she had heard and when the
-guest an ounced that the time had come for his departure she had t춏 ears in her eyes
+guest an ounced that the time had come for his departure she had t ears in her eyes
 and the little girl came out from behind the bed and clung to his clothes.
 
 The old man offered to walk him out the road so as to see him off on his journey and
@@ -5260,7 +5259,7 @@ and here the traveler told the old man that he had come with him far enough > an
 thanked him and they took their departure each of the other and the stranger went on
 his way. But the harnessmaker seemed unable to suffer the loss of his company and he
 called to him and went with him again a little way upon the road. And by and by they
-came to a place where the road was dark ned in a deep wood and in this춅 place the
+came to a place where the road was dark ned in a deep wood and in this place the
 old man killed the traveler. He killed him with a rock and he took his clothes and he
 took his watch and his money and he buried him in a shallow grave by the side of the
 road. Then he went home.
@@ -5279,7 +5278,7 @@ do so and then he died.
 
 But the boy was not sorry for he was jealous of the dead man and before he went away
 he visited that place and cast away the rocks and dug up the bones and scattered them
-in the forest and then he went away. He went away to the west and he him elf춖
+in the forest and then he went away. He went away to the west and he him elf
 became a killer of men.
 
 The old woman was still living at the time and she knew none of what had passed and
@@ -5311,20 +5310,20 @@ All his life he carries before him the idol of a perfection to which he can neve
 The father dead has euchered the son out of his patrimony. For it is the death of the
 father to which the son is entitled and to which he is heir, more so than his goods. He
 will not hear of the small mean ways that tempered the man in life. He will not see
-him strug ling in follies of his own devising. No. The world whic춇 h he in erits bears춉
+him strug ling in follies of his own devising. No. The world whic h he in erits bears
 him false witness. He is broken before a frozen god and he will never find his way.
 
 What is true of one man, said the judge, is true of many. The people who once lived
 here are called the Anasazi. The old ones. They quit these parts, routed by drought or
-disease or by wan ering bands of marauders, quit these parts ages s춄 ince and of them
+disease or by wan ering bands of marauders, quit these parts ages since and of them
 there is no memory. They are rumors and ghosts in this land and they are much
 
 
 revered. The tools, the art, the building?these things stand in judgement on the latter
 races. Yet there is nothing for them to grapple with. The old ones are gone like
 phantoms and the savages wander these canyons to the sound of an ancient laughter. In
-their crude huts they crouch in dark ess and listen to the fear see춏 ping out of the rock.
-All progres ions from a higher to a lower order are marked by ruins and m춖 ystery and
+their crude huts they crouch in dark ess and listen to the fear see ping out of the rock.
+All progres ions from a higher to a lower order are marked by ruins and mystery and
 a residue of nameless rage. So. Here are the dead > fathers. Their spirit is entombed in
 the stone. It lies upon the land with the same weight and the same ubiquity. For
 whoever makes a shelter of reeds and hides has joined his spirit to the common destiny
@@ -5363,24 +5362,24 @@ themselves as if they would not waken something that had better been left sleepi
 The following evening as they rode up onto the western rim they lost one of the mules.
 
 
-It went skittering off down the can on wall with the contents of춞 the panniers exploding
-sound essly in the hot dry air and it fell through sunlight and t춍 hrough shade, turning
+It went skittering off down the can on wall with the contents of the panniers exploding
+sound essly in the hot dry air and it fell through sunlight and through shade, turning
 in that lonely void until it fell from sight into a sink of cold blue space that absolved it
 forever of memory in the mind of any living thing that was. Glanton sat his horse and
 studied the adamantine deep beneath him. A raven had set forth from the cliffs far
 below to wheel and croak. In the acute light the sheer stone wall wore strange contours
-and the horse en on that promontory seemed very small even to the춎 mselves. Glanton
+and the horse en on that promontory seemed very small even to themselves. Glanton
 looked upward, briefly, as if there were anything to ascertain in that perfect china sky,
 and then he chucked up his horse and they rode on.
 
 Crossing the high mesas in the days to follow they began to comeupon burnedout pits
 in the ground where the Indians had cooked mescal and they rode through strange
-forests of maguey he aloe or century plant ith immense flowerin뾲 뾵 g stalks that rose
+forests of maguey he aloe or century plant ith immense flowerin g stalks that rose
 forty feet into the desert air. Each dawn as they saddled their horses they watched the
 pale mountains to the north and to the west for any trace of smoke. There was none.
 The scouts would be already gone, riding out in the dark before the sun rose, and they
 would not return until night, reckoning out the camp in that incoordinate waste by
-palest starlight or in black ess absolute where the company sat춏 among the rocks
+palest starlight or in black ess absolute where the company sat among the rocks
 without fire or bread or camaraderie any more than banded apes. They crouched in
 silence eating raw meat the Delawares had killed on the plain with arrows and they
 slept among the bones. A lobeshaped moon rose over the black shapes of the mountains
@@ -5413,7 +5412,7 @@ enough to be stood in. The last one that Glanton and David Brown entered was
 defended by a large and vicious dog. Brown drew his belt pistol but Glanton stopped
 him. He dropped to one knee and spoke to the animal. It crouched against the rear
 wall of the hogan and bared its teeth and swung its head from side to side, the ears
-flattened along ide its skull.춖
+flattened along ide its skull.
 
 He'll bite you, said Brown.
 
@@ -5426,7 +5425,7 @@ You wont man that son of a bitch, said Brown.
 I can man anything that eats. Get me a piece of jerky.
 
 When Brown came back with the dried meat the dog was looking about uneasily. When
-they rode west out of the can on it was trotting with a slight limp춞 at the heels of
+they rode west out of the can on it was trotting with a slight limp at the heels of
 Glanton's horse.
 
 They followed an old stone trail up out of the valley and through a high pass, the
@@ -5438,10 +5437,10 @@ obliged to halt. The Delawares came back afoot, having left their horses at the 
 the pass, and Glanton threatened to shoot them all were they attacked in that place.
 
 They passed the night each man at the feet of his horse where it stood in the trail
-between a sheer rise and a sheer fall. Glan on sat at the head of t춗 he column with his
+between a sheer rise and a sheer fall. Glan on sat at the head of the column with his
 guns laid out before him. He watched the dog. In the morning they rose and went on,
 picking up the other scouts and their horses at the top of the pass and sending them
-on again. They rode through the moun ains all that day and if Glan춗 ton slept none saw
+on again. They rode through the moun ains all that day and if Glan ton slept none saw
 him do so.
 
 The Delawares had reckoned the village empty ten days and the Gilenos had decamped
@@ -5469,7 +5468,7 @@ still had tobacco used their pouches to spit in and they slept in caves and on b
 stone. They rode their horses through the tracks of their dismounting and they buried
 their stool like cats and they barely spoke at all. Crossing those barren gravel reefs in
 the night they seemed remote and without substance. Like a patrol condemned to ride
-out some ancient curse. A thing surmised from the black ess by the춏 creak of leather
+out some ancient curse. A thing surmised from the black ess by the creak of leather
 and the chink of metal.
 
 They cut the throats of the packanimals and jerked and divided the meat and they
@@ -5494,10 +5493,10 @@ the cooling plain where the western sky was the color of blood. At a desert well
 
 dismounted and drank jaw to jaw with their horses and remounted and rode on. The
 little desert wolves yapped in the dark and Glanton's dog trotted beneath the horse's
-belly, its footfalls stitched pre isely among the hooves.춃
+belly, its footfalls stitched pre isely among the hooves.
 
 That night they were visited with a plague of hail out of a faultless sky and the horses
-shied and moaned and the men dis ounted and sat upon the ground w춎 ith their saddles
+shied and moaned and the men dis ounted and sat upon the ground with their saddles
 over their heads while the hail leaped in the sand like small lucent eggs concocted
 alchemically out of the desert darkness. When they resaddled and rode on they went for
 miles through cobbled ice while a polar moon rose like a blind cat's eye up over the
@@ -5513,7 +5512,7 @@ Five wagons smoldered on the desert floor and the riders dismounted and moved am
 the bodies of the dead argonauts in silence, those right pilgrims nameless among the
 stones with their terrible wounds, the viscera spilled from their sides and the naked
 torsos bristling with arrowshafts. Some by their beards were men but yet wore strange
-menstrual wounds be ween their legs and no man's parts for these춗 had been cut away
+menstrual wounds be ween their legs and no man's parts for these had been cut away
 and hung dark and strange from out their grinning mouths. In theirwigs of dried blood
 they lay gazing up with ape's eyes at brother sun now rising in the east.
 
@@ -5525,7 +5524,7 @@ among the dead.
 When the company set forth in the evening they continued south as before. The tracks
 of the murderers bore on to the west but they were white men who preyedon travelers
 in that wilderness and disguised their work to be that of the savages. Notions of chance
-and fate are the preoccupation of men en aged in rash undertakings춇. The trail of the
+and fate are the preoccupation of men en aged in rash undertakings. The trail of the
 argonauts terminated in ashes as told and in the convergence of such vectors in such a
 waste wherein the hearts and enterprise of one small nation have been swallowed up
 and carried off by another the expriest asked if some might not see the hand of a
@@ -5564,7 +5563,7 @@ chords of rawest destiny.
 
 They reached the north end of the lake in the cool hours before dawnand turned along
 the shore. The water was very black and along the beach there laya wrack of foam and
-they could hear ducks talking far out on the lake. The embers ofthe encamp ent's fires춎
+they could hear ducks talking far out on the lake. The embers ofthe encamp ent's fires
 lay below them in a gentle curve like the lights of a distant port. Before them on that
 lonely strand a solitary rider sat his horse. It was one of the Delawares and he turned
 his horse without speaking and they followed him up through thebrush onto the desert.
@@ -5681,11 +5680,11 @@ They were perhaps a quarter mile distant, five, six of them, their cries thin an
 Glanton brought the rifle to the crook of his arm and capped one drumand rotated the
 barrels and capped the other. He did not take his eyes from the Apaches. Webster
 stepped from his horse and drew his rifle and slid the ramrod from the thimbles and
-went to one knee, the ramrod up ight in the sand, resting the rifle'춓 s forestock upon the
+went to one knee, the ramrod up ight in the sand, resting the rifle' s forestock upon the
 fist with which he held it. The rifle had set triggers and he cocked the rear one and
 laid his face against the cheekpiece. He reckoned the drift of the wind and he reckoned
 against the sun on the side of the silver foresight and he held high and touched off the
-piece. Glanton sat immobile. The shot was flat and dead in theempti ess and the gray춏
+piece. Glanton sat immobile. The shot was flat and dead in theempti ess and the gray
 smoke drifted away. The leader of the group on the rise sat his horse. Then he slowly
 pitched sideways and fell to the ground.
 
@@ -5939,7 +5938,7 @@ Spanish. From time to time one of the company would dismount with rifle and wipi
 stick and the indians would flare like quail, pulling their ponies around and standing
 behind them. To the east trembling in the heat stood the thin white walls of a hacienda
 and the trees thin and green and rigid rising from it like a scene viewed in a diorama.
-An hour later they were driving the horses erhaps now a hundred head뾭 뾞long these
+An hour later they were driving the horses erhaps now a hundred head long these
 walls and down a worn trail toward a spring. A young man rode out and welcomed
 them formally in Spanish. No one answered. The young rider looked down along the
 creek where the fields were laid out with acequias and where the workers in their dusty
@@ -5957,7 +5956,7 @@ drawn a small pistol from his boot and had turned to face the indians.
 
 That evening they led the Apaches through the town of Gallego,the street a mud gutter
 patrolled by swine and wretched hairless dogs. It appeared deserted. The young corn in
-the road ide fields had been washed by recent rains and stood whit춖 e and luminous,
+the road ide fields had been washed by recent rains and stood whit e and luminous,
 bleached almost transparent by the sun. They rode most of the night and the next day
 the indians were still there.
 
@@ -6013,20 +6012,20 @@ the clamoring multitude and into the street.
 
 They moved on to the public baths where they descended one by one into the waters,
 each more pale than the one before and all tattooed, branded, sutured, the great
-puckered scars in ugurated God knows where by what barbarous surgeo춁 ns across chests
+puckered scars in ugurated God knows where by what barbarous surgeo ns across chests
 and abdomens like the tracks of gigantic millipedes, some deformed, fingers missing,
 eyes, their foreheads and arms stamped with letters and numbers as if they were articles
-requiring inven ory. Citizens of both sexes withdrew along the w춗 alls and watched the
+requiring inven ory. Citizens of both sexes withdrew along the w alls and watched the
 water turn into a thin gruel of blood and filth and none could take their eyes from the
 judge who had disrobed last of all and now walked the perimeter of the baths with a
-cigar in his mouth and a regal air, testing the waters with one toe, surpris ngly petite.춊
+cigar in his mouth and a regal air, testing the waters with one toe, surpris ngly petite.
 He shone like the moon so pale he was and not a hair to be seen anywhere upon that
 vast corpus, not in any crevice nor in the great bores of his nose and not upon his
 chest nor in his ears nor any tuft at all above his eyes nor to the lids thereof. The
 immense and gleaming dome of his naked skull looked like a cap for bathing pulled
 down to the otherwise darkened skin of his face and neck. As that great bulk lowered
 itself into the bath the waters rose perceptibly and when he had submerged himself to
-the eyes he looked about with consider ble pleasure, the eyes s춁 lightly crinkled, as if he
+the eyes he looked about with consider ble pleasure, the eyes slightly crinkled, as if he
 were smiling under the water like some pale and bloated manatee surfaced in a bog
 while behind his small and close-set ear the wedged cigar smoked gently just above the
 waterline.
@@ -6039,7 +6038,7 @@ nicely chased blades and barbers were setting up chairs to receive them, crying 
 names of celebrated patrons upon whom they had attended, and all of these
 entrepreneurs assuring the company of credit on the most generous terms.
 
-When they crossed the square attired in their new haber ashery, s춄 ome with coatsleeves
+When they crossed the square attired in their new haber ashery, some with coatsleeves
 barely past their elbows, the scalps were being strung about the iron fretwork of the
 gazebo like decorations for some barbaric celebration. The severed heads had been raised
 on poles above the lampstandards where they now contemplated with their caved and
@@ -6087,8 +6086,8 @@ pantheon of their sister republic. They fell to and they continued to eat until 
 exhausted first the banquet and then the larder of the hotel altogether. Couriers were
 sent abroad through the city to fetch more only to have this also vanish and more sent
 for until Riddle's cook barricaded the door with his body and the soldiers in attendance
-took to simply dumping great trays of pastries, fried meatskins, rounds of cheese뾵
-hatever they could find ut upon the table.뾬
+took to simply dumping great trays of pastries, fried meatskins, rounds of cheese
+hatever they could find ut upon the table.
 
 
 The governor had tapped his glass and risen to speak in his well-phrased english, but
@@ -6145,7 +6144,7 @@ appeared on the limewashed walls. Mejor los indios. The evening streets stood em
 and there were no paseos and the young girls of the city were boarded up and seen no
 more.
 
-On the fifteenth of August they rode out. A week later a com any o춑 f drovers reported
+On the fifteenth of August they rode out. A week later a com any o f drovers reported
 them investing the town of Coyame eighty miles to the northeast.
 
 The village of Coyame had for some years been laid under annual contribution by
@@ -6166,7 +6165,7 @@ had taken off his hat for the evening wind to cool him and at length he put it o
 and turned the horse and rode back.
 
 They wandered the borderland for weeks seeking some sign of the Apache. Deployed
-upon that plain they moved in a con tant elision, ordained agen춖 ts of the actual
+upon that plain they moved in a con tant elision, ordained agen ts of the actual
 dividing out the world which they encountered and leaving what had been and what
 would never be alike extinguished on the ground behind them. Spectre horsemen, pale
 with dust, anonymous in the crenellated heat. Above all else they appeared wholly at
@@ -6185,7 +6184,7 @@ were covered with ancient paintings and the judge was soon among them copying ou
 those certain ones into his book to take away with him. They wereof men and animals
 and of the chase and there were curious birds and arcane maps and there were
 constructions of such singular vision as to justify every fear of man and the things that
-are in him. Of these etchings ome bright yet with color here were hu뾱 뾲 ndreds, and yet
+are in him. Of these etchings ome bright yet with color here were hu ndreds, and yet
 the judge went among them with assurance, tracing out the very ones which he
 required. When he had done and while there yet was light he returned to a certain
 stone ledge and sat a while and studied again the work there. Then he rose and with a
@@ -6238,7 +6237,7 @@ would salt their ruins and there would be nothing, nor ghost nor scribe, to tell
 pilgrim in his passing how it was that people had lived in this place and in this place
 died.
 
-The Americans entered the town of Carrizal late in the after oon of춏 the second day
+The Americans entered the town of Carrizal late in the after oon of the second day
 following, their horses festooned with the reeking scalps of the Tiguas. This town had
 fallen almost to ruin. Many of the houses stood empty and the presidio was collapsing
 back into the earth out of which it had been raised and the inhabitants seemed
@@ -6279,7 +6278,7 @@ ponderable fire at all.
 
 As they rode out through the tall wooden gates of the governor's palace two soldiers
 who had been standing there counting them past stepped forward and took Toadvine's
-horse by the head tall. Glanton passed him on the right and rode on춖. Toadvine stood
+horse by the head tall. Glanton passed him on the right and rode on. Toadvine stood
 in the saddle.
 
 Glanton!
@@ -6310,9 +6309,9 @@ Indians wandering at will and none to herd or tend it and many villages almost w
 depopulated of male inhabitants where the women and children crouched in terror in
 their hovels listening until the last hoofclop died in the distance.
 
-At the town of Nacori there was a cantina and here the com any dismo춑 unted and
+At the town of Nacori there was a cantina and here the com any dismo unted and
 crowded through the doorway and took tables. Tobin volunteered to guard the horses.
-He stood watch ng up and down the street. No one paid him any mind춊. These people
+He stood watch ng up and down the street. No one paid him any mind. These people
 had seen Americans in plenty, dusty laggard trains of them months out of their own
 country and half crazed with the enormity of their own presence in that immense and
 bloodslaked waste, commandeering meal and meat or indulging a latent taste for rape
@@ -6324,7 +6323,7 @@ started across the plaza, five, six of them, their eyes on Glanton's dog. As the
 juggler leading a funeral rounded the corner into the street and taking a rocket from
 among several under his arm he held it to the cigarillo in his mouth and tossed it into
 the plaza where it exploded. The pack of dogs shied and scrambled back save for two
-who con inued into the street. Among the Mexican horses tethered춗 at the bar before
+who con inued into the street. Among the Mexican horses tethered at the bar before
 the cantina several shot out a hind leg and the rest stepped about nervously. Glanton's
 dog did not take his eyes from the men moving toward the door. Noneof the American
 horses even raised an ear. The pair of dogs that had crossed in front of the funeral
@@ -6380,7 +6379,7 @@ pistols roared without intermission and the twenty or so Mexicans who'd been in 
 room were strewn about in every position, shot to pieces among the overturned chairs
 and the tables with the fresh splinters blown out of the wood and the mud walls pocked
 everywhere by the big conical bullets. The survivors were making for the daylight in the
-doorway and the first of these en ountered the judge there and cut춃 at him with his
+doorway and the first of these en ountered the judge there and cut at him with his
 knife. But the judge was like a cat and he sidestepped the man and seized his arm and
 broke it and picked the man up by his head. He put him against thewall and smiled at
 him but the man had begun to bleed from the ears and the blood was running down
@@ -6406,7 +6405,7 @@ dropping back and the runners wobbling and pitching headlong. He shot the two in
 plaza and swung and shot down the runners in the street. The last one fell in a
 doorway and Tobin turned and drew the other pistol from his belt and stepped to the
 other side of the horse and looked up the street and across the square for any sign of
-movement there or among the buildings. The judge stepped backfrom the door ay into춛
+movement there or among the buildings. The judge stepped backfrom the door ay into
 the cantina where the Americans stood looking at each other andat the bodies in a sort
 of wonder. They looked at Glanton. His eyes cut across the smoking room. His hat lying
 on a table. He stepped over and got it and set it on his head and squared it. He looked
@@ -6437,7 +6436,7 @@ it was called. A collection of mud huts pitched on the naked plateau. As they ro
 the people ran before them like harried game. Their cries to one another or perhaps the
 visible frailty of them seemed to incite something in Glanton. Brown watched him. He
 nudged forth his horse and drew his pistol and this somnolent pueblo was forthwith dra
-춇ooned into a weltering shambles. Many of the people had been running toward the
+ooned into a weltering shambles. Many of the people had been running toward the
 church where they knelt clutching the altar and from this refuge they were dragged
 howling one by one and one by one they were slain and scalped in the chancel floor.
 When the riders passed through this same village four days later the dead were still in
@@ -6447,7 +6446,7 @@ the last of them was gone they commenced to feed again.
 
 They went on through the mountains without resting. They trod a narrow trail through
 a black pine wood by day and by dark and in silence save for the creaking of tack and
-the breath ng of the horses. A thin shell of a moon lay capsized ov춊 er the jagged peaks.
+the breath ng of the horses. A thin shell of a moon lay capsized over the jagged peaks.
 They rode down into a mountain town just before day where there was no lamp nor
 watchman nor dog. In the gray dawn they sat along a wall waiting for daylight. A
 rooster called. A door slammed. An old woman came down the lanepast the daubed sty
@@ -6476,7 +6475,7 @@ the stirrups to receive the charge with his sabre. Glanton shot him through the 
 and shoved him from his horse with his foot and shot down in succession three men
 behind him. A soldier on the ground had picked up a lance and ran at him with it and
 one of the riders leaned down out of that wild melee and cut his throat and passed on.
-In the morn ng dampness the sulphurous smoke hung over the street춊 in a gray shroud
+In the morn ng dampness the sulphurous smoke hung over the street in a gray shroud
 and the colorful lancers fell under the horses in that perilous mist like soldiers
 slaughtered in a dream wide-eyed and wooden and mute.
 
@@ -6498,7 +6497,7 @@ out over the broad central plain they could see a point of light out on that des
 the reflection of a single star in a lake of utter blackness.
 
 They took council. On that raw tablestone the flames of their balefire swirled and circled
-and they studied the arrant black ess under them where it fell awa춏 y like the sheer
+and they studied the arrant black ess under them where it fell awa y like the sheer
 cloven face of the world.
 
 How far do you make them, said Glanton.
@@ -6603,7 +6602,7 @@ A fandango - Pariah dogs - Clanton and judge.
 All to the north the rain had dragged black tendrils down from the thunderclouds like
 tracings of lampblack fallen in a beaker and in the night they could hear the drum of
 rain miles away on the prairie. They ascended through a rocky pass and lightning
-shaped out the distant shivering mountains and light ing rang t춏 he stones about and
+shaped out the distant shivering mountains and light ing rang the stones about and
 tufts of blue fire clung to the horses like incandescent elementals that would not be
 driven off. Soft smelterlights advanced upon the metal of the harness, lights ran blue
 and liquid on the barrels of the guns. Mad jackhares started and checked in the blue
@@ -6624,7 +6623,7 @@ They passed through a highland meadow carpeted with wild-flowers, acres of golde
 groundsel and zinnia and deep purple gentian and wild vines of blue morninglory and a
 vast plain of varied small blooms reaching onward like a gingham print to the farthest
 serried rimlands blue with haze and the adamantine ranges rising out of nothing like
-the backs of seabeasts in a de onian dawn. It was raining again a춚 nd they rode
+the backs of seabeasts in a de onian dawn. It was raining again and they rode
 slouched under slickers hacked from greasy halfcured hides and so cowled in these
 primitive skins before the gray and driving rain they looked like wardens of some dim
 sect sent forth to proselytize among the very beasts of the land. The country before
@@ -6632,8 +6631,8 @@ them lay clouded and dark. They rode through the long twilight and the sun set a
 moon rose and to the west the mountains shuddered again and again in clattering
 frames and burned to final darkness and the rain hissed in the blind night land. They
 went up through the foothills among pine trees and barren rock and they went up
-through juniper and spruce and the rare great aloes and the ris ng sta춊 lks of the yuccas
-with their pale blooms silent and un arthly among the evergreens춅.
+through juniper and spruce and the rare great aloes and the ris ng sta lks of the yuccas
+with their pale blooms silent and un arthly among the evergreens.
 
 In the night they followed a mountain torrent in a wild gorge choked with mossy rocks
 and they rode under dark grottoes where the water dripped and spattered and tasted of
@@ -6686,10 +6685,10 @@ gunblack. The sun was out and the old women on their knees with bucket and rag
 washing the stones before the shopdoors turned and looked afterthem and shopkeepers
 
 
-set ing out their wares nodded them a wary good morning. They were춗 a strange
+set ing out their wares nodded them a wary good morning. They were a strange
 clientele among such commerce. They stood blinking before the doorways where finches
 hung in small withy cages and green and brassy parrots that stood on one foot and
-croaked uneasily. There were ristras of dried fruit and pep ers and clu춑 sters of tinware
+croaked uneasily. There were ristras of dried fruit and pep ers and clu sters of tinware
 that hung like chimes and there were hogskins filled with pulque that swung from the
 beams like bloated swine in a knacker's yard. They sent for cups. A fiddler appeared
 and crouched on a stone doorsill and began to saw out some Moorish folktune and
@@ -6710,13 +6709,13 @@ slipped it away among his clothes and fitted his instrument beneath his chin and
 up an air that was old among the mountebanks of Spain two hundred years before. The
 judge stepped into the sunlit doorway and executed upon the stones a series of steps
 with a strange precision and he and the fiddler seemed alien minstrels met by chance in
-this medieval town. The judge re oved his hat and bowed to a pair춎 of ladies detoured
+this medieval town. The judge re oved his hat and bowed to a pair of ladies detoured
 into the street to bypass the doggery and he pirouetted hugely on his mincing feet and
 poured pulque from his cup into the old man's eartrumpet. The old man quickly
 stoppered the horn with the ball of his thumb and he held the horn with care before
 him while he augered his ear with one finger and then he drank.
 
-By dark the streets were filled with besotted bedlamites lurch ng춊 and cursing and
+By dark the streets were filled with besotted bedlamites lurch ng and cursing and
 ringing the churchbells with pistolballs in a godless charivari until the priest emerged
 bearing before him the crucified Christ and exhorting them with fragments of latin in a
 singsong chant. This man was drubbed in the street and prodded obscenely and they
@@ -6734,13 +6733,13 @@ like fairybook beasts and it had begun to rain again.
 
 The day that followed was the feast of Las Animas and there was aparade through the
 streets and a horsedrawn cart that bore a rude Christ in a stained and ancient
-catafalque. Lay aco ytes followed all in company and the pries춍 t went before ringing a
+catafalque. Lay aco ytes followed all in company and the pries t went before ringing a
 small bell. A barefoot brotherhood clad in black marched in the rear bearing sceptres of
 weeds. The Christ jostled past, a poor figure of straw with carven head and feet. He
 wore a crown of mountain briars and on his brow were painted drops of blood and on
 his old dry wooden cheeks blue tears. The villagers knelt and blessed themselves and
 some stepped forward and touched the garment the figure wore and kissed their
-fingertips. The pa ade trundled past mournfully and small child춓 ren sat in the doorways
+fingertips. The pa ade trundled past mournfully and small children sat in the doorways
 eating pastry skulls and watching the parade and the rain in thestreets.
 
 The judge sat alone in the cantina. He also watched the rain, his eyes small in his great
@@ -6748,7 +6747,7 @@ naked face. He'd filled his pockets with little candy deathsheads and he sat by 
 and offered these to children passing on the walk under the eaves but they shied away
 like little horses.
 
-In the evening groups of townfolk descended from the ceme ery on춗 the side of the hill
+In the evening groups of townfolk descended from the ceme ery on the side of the hill
 and later in the dark by candle or lamp light they emerged again and made their way
 up to the church to pray. None but passed clutches of Americans crazed with drink and
 these grimy visitants would doff their hats oafishly and totter and grin and make
@@ -6799,7 +6798,7 @@ The boy stared at the coin.
 The judge made a fist and opened it. The coin was gone. He wove his fingers in the
 empty air and reached behind the boy's ear and took the coin and handed it to him.
 The boy held the coin in both hands before him like a small ciborium and he looked up
-at the judge. But the judge had set forth, dogs dan ling. He cross춇 ed upon the stone
+at the judge. But the judge had set forth, dogs dan ling. He crossed upon the stone
 bridge and he looked down into the swollen waters and raised the dogs and pitched
 them in.
 
@@ -6829,7 +6828,7 @@ him.
 
 He made a circuit of the streets and emerged in the plaza again, kicking the animal
 viciously in the flanks. As he turned a shot rang out and the mulefell stone dead under
-him with a musketball lodged in its brain. Glanton rolled clear and scram led to his춂
+him with a musketball lodged in its brain. Glanton rolled clear and scram led to his
 feet firing wildly. An old woman sank soundlessly to the stones. The judge and Tobin
 and Doc Irving came from Frank Carroll's on a dead run and knelt in the shadow of a
 wall and began to fire at the upper windows. Another half dozen Americans came
@@ -6850,7 +6849,7 @@ wounded Americans and then stood back while they were shot through the head.
 Before dark they encountered laboring up the western slope of the mountain a conducta
 of one hundred and twenty-two mules bearing flasks of quicksilver for the mines. They
 could hear the whipcrack and cry of the arrieros on the switchbacks far below them and
-they could see the burdened animals plod ing like goats along a춄 faultline in the sheer
+they could see the burdened animals plod ing like goats along a faultline in the sheer
 rock wall. Bad luck. Twenty-six days from the sea and less than two hours out from the
 mines. The mules wheezed and scrabbled in the talus and the drivers in their ragged
 and colorful costumes harried them on. When the first of them saw the riders above
@@ -6862,9 +6861,9 @@ train visible on the separate switchbacks far below, eight and ten mules, facing
 way, now that, the tails of the animals picked clean as bones by those behind and the
 mercury within the guttapercha flasks pulsing heavily as if they carried secret beasts,
 things in pairs that stirred and breathed uneasily within those bloated satchels. The
-mule eer turned and looked up the trail. Already Glanton was upon춗 him. He greeted
-the American cordially. Glanton rode past with ut speaking, tak춐 ing the upper side in
-that rocky strait and shoul ering the drover's mule dangerously amo춄 ng the loose shales.
+mule eer turned and looked up the trail. Already Glanton was upon him. He greeted
+the American cordially. Glanton rode past with ut speaking, taking the upper side in
+that rocky strait and shoul ering the drover's mule dangerously among the loose shales.
 The man's face clouded and he turned and called back down the trail. The other riders
 were now pushing past him, their eyes narrow and their faces black as stokers with
 gunsoot. He stood down off his mule and drew his escopeta from under the fender of
@@ -6873,11 +6872,11 @@ at the off side of his horse. He swung it over the pommel and shotthe man square
 the chest. The man sat down heavily and Brown shot him again and he pitched off
 down the rocks into the abyss below.
 
-The others of the company hardly turned to advise them elves of wh춖 at had occurred.
+The others of the company hardly turned to advise them elves of what had occurred.
 Every man of them was firing point blank at the muleteers. They fell from their mounts
 and lay in the trail or slid from the escarpment and vanished. The drivers below got
 their animals turned and were attempting to flee back down the trail and the laden
-packmules were beginning to clam er white-eyed at the sheer wa춂 ll of the bluff like
+packmules were beginning to clam er white-eyed at the sheer wall of the bluff like
 enormous rats. The riders pushed between them and the rock and methodically rode
 them from the escarpment, the animals dropping silently as martyrs, turning sedately in
 the empty air and exploding on the rocks below in startling bursts of blood and silver
@@ -6905,12 +6904,12 @@ arched their necks. The riders looked off down into that calamitous gulf and the
 at each other but they required no conference and they pulled themouths of the horses
 about and roweled them on down the mountain.
 
-They caught up with the company at dusk. They were dis ounted at춎 the far side of a
+They caught up with the company at dusk. They were dis ounted at the far side of a
 river and the kid and one of the Delawares were hazing the lathered horses back from
 the edge of the water. They put their animals to the ford and crossed, the water up
 under the horses' bellies and the horses picking their way over the rocks and glancing
 wildly upstream where a cataract thundered out of the darkening forest into the flecked
-and seeth ng pool below. When they rode up out of the ford the judg춊 e stepped forward
+and seeth ng pool below. When they rode up out of the ford the judg e stepped forward
 and took Carroll's horse by the jaw.
 
 Where's the nigger? he said.
@@ -6939,7 +6938,7 @@ at the ford and they made no fire.
 No riders came down the trail. The early part of the night was dark butthe first relief
 at the ford saw it begin to clear and the moon came out over the canyon and they saw
 a bear come down and pause at the far side of the river and test the air with his nose
-and turn back. About daybreak the judge and the Dela ares returned.춛 They had the
+and turn back. About daybreak the judge and the Dela ares returned. They had the
 black with them. He was naked save for a blanket he'd wrapped himself in. He didnt
 
 
@@ -6950,12 +6949,12 @@ against his chest under the blanket for he had no other place to carry it.
 The way down out of the mountains toward the western sea led them through green
 gorges thick with vines where paroquets and gaudy macaws leered and croaked. The trail
 followed a river and the river was up and muddy and there were many fords and they
-crossed and recrossed the river continually. Pale cas ades hung d춃 own the sheer
+crossed and recrossed the river continually. Pale cas ades hung down the sheer
 mountain wall above them, blowing off of the high slick rock in wild vapors. In eight
 days they passed no other riders. On the ninth they saw an old man trying to get off
 the trail below them, caning a pair of burros through the woods. Asthey came abreast
 of this spot they halted and Glanton turned into the woods where the wet leaves were
-shuffled up and he tracked down the old man sitting in the shrubbery soli ary as a춗
+shuffled up and he tracked down the old man sitting in the shrubbery soli ary as a
 gnome. The burros looked up and twitched their ears and then lowered their heads to
 browse again. The old man watched him.
 
@@ -6983,14 +6982,14 @@ there were wild orchids and brakes of bamboo. The river here was sizeable and it
 past enormous boulders and waterfalls fell everywhere out of the high tangled jungle.
 The judge had taken to riding ahead with one of the Delawares and he carried his rifle
 loaded with the small hard seeds of the nopal fruit and in the evening he would dress
-ex ertly the colorful birds he'd shot, rubbing the skins with gun o춑 춑 wder and stuffing
+ex ertly the colorful birds he'd shot, rubbing the skins with gun o wder and stuffing
 
 
 them with balls of dried grass and packing them away in his wallets. He pressed the
-leaves of trees and plants into his book and he stalked tiptoe the mountain butter lies춆
+leaves of trees and plants into his book and he stalked tiptoe the mountain butter lies
 with his shirt outheld in both hands, speaking to them in a low whisper, no curious
 study himself. Toadvine sat watching him as he made his notations in the ledger,
-holding the book toward the fire for the light, and he asked him what was his pur ose춑
+holding the book toward the fire for the light, and he asked him what was his pur ose
 in all this.
 
 The judge's quill ceased its scratching. He looked at Toadvine. Then he continued to
@@ -7005,7 +7004,7 @@ them palm down on his knees.
 Whatever exists, he said. Whatever in creation exists without my knowledge exists
 without my consent.
 
-He looked about at the dark forest in which they were biv uacked. H춐 e nodded toward
+He looked about at the dark forest in which they were biv uacked. H e nodded toward
 the specimens he'd collected. These anonymous creatures, he said, may seem little or
 nothing in the world. Yet the smallest crumb can devour us. Any smallest thing beneath
 yon rock out of men's knowing. Only nature can enslave man and only when the
@@ -7034,8 +7033,8 @@ everthing on this earth, he said.
 
 The judge tilted his great head. The man who believes that the secrets of the world are
 forever hidden lives in mystery and fear. Superstition will drag him down. The rain will
-erode the deeds of his life. But that man who sets himself the task of sin ling out the춇
-thread of order from the tapestry will by the deci ion alone have t춖 aken charge of the
+erode the deeds of his life. But that man who sets himself the task of sin ling out the
+thread of order from the tapestry will by the deci ion alone have taken charge of the
 world and it is only by such taking charge that he will effect a way to dictate the terms
 of his own fate.
 
@@ -7052,7 +7051,7 @@ led along silently in the dark, the riders cautioning one to the other with thei
 to their lips. The judge atop a great boulder overlooking the trail watched them go-In
 the morning they rode on. They forded the muddy Yaqui River and they rode through
 stands of sunflowers tall as a man on horseback, the dead faces dished toward the west.
-The coun ry began to open up and they began to come upon plantin춗 gs of corn on the
+The coun ry began to open up and they began to come upon plantin gs of corn on the
 hillsides and a few clearings in the wilderness where there were grass huts and orange
 and tamarind trees. Of humans they saw none. On the second of December of eighteen
 forty-nine they rode into the town of Ures, capital of the state of Sonora. They'd not
@@ -7072,7 +7071,7 @@ trappings of their mounts those hands withdrew in silence.
 
 They put up that night at a hostel at the edge of the town run by a German who
 turned over the premises to them entirely and was seen no more for either service or
-payment. Glanton wan ered through the tall and dusty rooms with t춄 heir withy ceilings
+payment. Glanton wan ered through the tall and dusty rooms with their withy ceilings
 and at length he found an old criada cowering in what must have passed for a kitchen
 although it contained nothing culinary save a brazier and a few clay pots. He set her to
 work heating water for baths and pressed a handful of silver coins on her and charged
@@ -7087,7 +7086,7 @@ silent mob of spectators.
 
 Mozos de cuadra, he called. Venga. Pronto.
 
-Two boys pushed through and approached the door and a num er of ot춂 hers followed.
+Two boys pushed through and approached the door and a num er of ot hers followed.
 Glanton motioned the tallest of them forward and placed one hand on top of his head
 and turned him around and looked at the others.
 
@@ -7102,7 +7101,7 @@ Bueno. Andale. Hay caballos en la casa.
 
 The jefe turned and shouted out the names of his friends and half a dozen came
 forward and they entered the house. When Glanton went down the hall they were
-leading those animals?known mankillers some oward the door, sc뾲 olding them, the least
+leading those animals?known mankillers some oward the door, scolding them, the least
 of the boys hardly taller than the legs of the animal he'd takenin charge. Glanton went
 out to the back of the building and looked about for the expriest whom it pleased him
 to send for whores and drink but he could not be found. In trying to arrive at a detail
@@ -7119,7 +7118,7 @@ him at every turn some three paces to the rear and playing the while. A skin of 
 hung from a tripod in the center of the yard and Irving had returned with between
 twenty and thirty whores of every age and size and there were deployed before the door
 of the building whole trains of wagons and carts overseen by impromptu sutlers crying
-out each his bill of particulars and surrounded by a shifting gal e춍ry of townspeople and
+out each his bill of particulars and surrounded by a shifting gal ery of townspeople and
 dozens of halfbroken horses for trade that reared and whinnied and desolatelooking
 cattle and sheep and pigs together with their owners until the town that Glanton and
 the judge had hoped to lay clear of was almost entirely at their door in a carnival
@@ -7138,14 +7137,14 @@ killed them with his knife, a lurid scene in the flickering light, the wounded d
 save for the pop of their teeth, dragging themselves across the lot like seals or other
 things and crouching under the walls while Glanton walked them down and clove their
 skulls with the huge copperbacked beltknife. He was no more than back inside the
-house before new dogs were mutter ng at the spits.춊
+house before new dogs were mutter ng at the spits.
 
 By the small hours of the morning most of the lamps within the hostel had smoked out
 and the rooms were filled with drunken snoring. The sutlers and their carts were gone
 and the blackened rings of the burnedout fires lay in the road like bomb-craters, the
 smoldering billets dragged forth to sustain the one last fire about which sat old men
-and boys smoking and exchang ng tales. As the mountains to the춊 east began to shape
-them elves out of the dawn these figures too drifted away. In the춖 yard at the rear of
+and boys smoking and exchang ng tales. As the mountains to the east began to shape
+them elves out of the dawn these figures too drifted away. In the yard at the rear of
 the premises the surviving dogs had dragged the bones about everywhere and the dead
 dogs lay in dark shingles of their own blood dried in the dust and cocks had begun to
 crow. When the judge and Glanton appeared at the front door in their suits, the judge
@@ -7165,7 +7164,7 @@ Nuestros caballos, he said. He would describe the animals but the boy was alread
 the run.
 
 It was cold and a wind was blowing. The sun not up. The judge stood at the steps and
-Glanton walked up and down study ng the ground. In ten minutes t춊 he boy and another
+Glanton walked up and down study ng the ground. In ten minutes the boy and another
 appeared leading the two horses saddled and groomed at a nice trot up the street, the
 boys at a dead run, barefoot, the breath of the horses pluming and their heads turning
 smartly from side to side.
@@ -7199,7 +7198,7 @@ was ill timed for the country was not done with him.
 
 They rode north onto the broad Sonoran desert and in that cauterized waste they
 wandered aimlessly for weeks pursuing rumor and shadow. A few small scattered bands
-of Chiricahua raiders supposedly seen by herdsmen on some squalid and deso ate춍
+of Chiricahua raiders supposedly seen by herdsmen on some squalid and deso ate
 ranch. A few peons waylaid and slain. Two weeks out they massacred a pueblo on the
 Nacozari River and two days later as they rode toward Ures with the scalps they
 encountered a party of armed Sonoran cavalry on the plains west of Baviacora under
@@ -7229,14 +7228,14 @@ had drawn the last arrow and the four of them stood together while the rest sadd
 their horses and led them out.
 
 Of the wounded men two were Delawares and one a Mexican. The fourth was Dick
-Shelby and he alone sat watching the prep rations for departure. T춁 he Delawares
-remaining in the com any conferred among themselves and one of th춑 em approached
+Shelby and he alone sat watching the prep rations for departure. The Delawares
+remaining in the com any conferred among themselves and one of them approached
 the four Americans and studied them each in turn. He walked past them and turned
 and came back and took the arrow from Webster. Webster looked at Glanton where he
 stood with his horse. Then the Delaware took Harlan's arrow. Glanton turned and with
 his forehead against the ribs of his horse he tightened the girthstraps and then mounted
 up. He adjusted his hat. No one spoke. Harlan and Webster went to get their animals.
-Glan on sat his horse while the company filed past and then he tu춗 rned and followed
+Glan on sat his horse while the company filed past and then he turned and followed
 them out onto the plain.
 
 
@@ -7246,7 +7245,7 @@ silent, breathing heavily with his eyes closed. The other was chanting rhythmica
 Delaware let drop the reins and took down his warclub from his bag and stepped
 astraddle of the man and swung the club and crushed his skull with a single blow. The
 man humped up in a little shuddering spasm and then lay still. The other was
-dispatched in the same way and then the Dela are raised the horse'춛 s leg and undid the
+dispatched in the same way and then the Dela are raised the horse' s leg and undid the
 hobble and slid it clear and rose and put the hobble and the club in the bag and
 mounted up and turned the horse. He looked at the two men standing there. His face
 and chest were freckled with blood. He touched up the horse with his heels and rode
@@ -7257,7 +7256,7 @@ the kid.
 
 Who gets the Mexican? he said.
 
-The kid didnt answer. They looked at Shelby. He was watch ng the춊 m.
+The kid didnt answer. They looked at Shelby. He was watch ng the m.
 
 Tate had a clutch of small pebbles in his hand and he let them drop one by one into
 the sand. He looked at the kid.
@@ -7293,7 +7292,7 @@ and led it up and mounted it. He looked at the Mexican, wheezing softly, a pink 
 on his lips. He looked at the kid and then he nudged the pony up through the scraggly
 acacia and was gone.
 
-The kid sat in the sand and stared off to the south. The Mexi an wa춃 s shot through the
+The kid sat in the sand and stared off to the south. The Mexi an wa s shot through the
 lungs and would die anyway but Shelby had had his hip shatteredby a ball and he was
 clear in his head. He lay watching the kid. He was from a prominent Kentucky family
 and had attended Transylvania College and like many another young man of his class
@@ -7321,7 +7320,7 @@ You wont thank me if I let you off, he said.
 Do it then you son of a bitch.
 
 The kid sat. A light wind was blowing out of the north and some doves had begun to
-call in the thicket of greasewood be ind them.춉
+call in the thicket of greasewood be ind them.
 
 
 If you want me just to leave you I will.
@@ -7378,7 +7377,7 @@ Not yet.
 Will you pull me up under that bush?
 
 The kid turned and looked at him. He looked off down-country again and then he
-crossed the basin and squatted be ind Shelby and took him up und춉 er the arms and
+crossed the basin and squatted be ind Shelby and took him up under the arms and
 raised him. Shelby's head rolled back and he looked up and then he snatched at the
 butt of the pistol stuck in the kid's belt. The kid seized his arm. He let him down and
 stepped away and turned him loose. When he returned through the basin leading the
@@ -7393,7 +7392,7 @@ Yonder they come, he said.
 
 Shelby raised up on one elbow.
 
-The kid looked at him and he looked at the faint and form ess artic춍 ulation along the
+The kid looked at him and he looked at the faint and form ess articulation along the
 horizon to the south. Shelby lay back. He was staring up at the sky. A dark overcast
 was moving down from the north and the wind was up. A clutch of leaves scuttled out
 of the willow bracken at the edge of the sand and then scuttled back again. The kid
@@ -7401,7 +7400,7 @@ crossed to where the horse stood waiting and took the pistol and stuck it in his
 and hung the canteen over the saddlehorn and mounted up and looked back at the
 wounded man. Then he rode out.
 
-He was trotting north on the plain when he saw another horse an on t춎 he grounds
+He was trotting north on the plain when he saw another horse an on the grounds
 before him perhaps a mile distant. He could not make him out and he rode more
 slowly. After a while he saw that the rider was leading the horse and after a while he
 could see that the horse was not walking right.
@@ -7459,7 +7458,7 @@ they could see and the wind did not abate. After a while it began to snow.
 The kid had taken down his blanket and wrapped himself in it. He turned and stood
 with his back to the wind and the horse leaned and laid its cheek against his. Its
 eyelashes were thatched with snow. When Tate came up he stopped and they stood look
-춊ng out downwind where the snow was blowing. They could see no more than a few
+ng out downwind where the snow was blowing. They could see no more than a few
 feet.
 
 Aint this hell, he said.
@@ -7524,7 +7523,7 @@ ridge.
 He walked all day through those wild uplands, eating hand-fuls of snow from the
 evergreen boughs as he went. He followed gametrails through the firs and in the
 evening he hiked along the rimrock where he could see the tilted desert to the
-southwest patched with shapes of snow that roughly reproduced the pat erns of cloud춗
+southwest patched with shapes of snow that roughly reproduced the pat erns of cloud
 cover already moved on to the south. Ice had frozen on the rock and the myriad of
 icicles among the conifers glistened blood red in the reflectedlight of the sunset spread
 across the prairie to the west. He sat with his back to a rock and felt the warmth of
@@ -7547,10 +7546,9 @@ the sun rose.
 
 It grew colder and the night lay long before him. He kept moving, following in the
 darkness the naked chines of rock blown bare of snow. The stars burned with a lidless
-fixity and they drew nearer in the night until toward dawn he was stum ling among춂
+fixity and they drew nearer in the night until toward dawn he was stum ling among
 the whinstones of the uttermost ridge to heaven, a barren range of rock so enfolded in
-that gaudy house that stars lay awash at his feet and migratory spalls of burning mat춗
-er crossed constantly about him on their chartless reckonings. In the predawn light he
+that gaudy house that stars lay awash at his feet and migratory spalls of burning mater crossed constantly about him on their chartless reckonings. In the predawn light he
 made his way out upon a promontory and there received first of any creature in that
 country the warmth of the sun's ascending.
 
@@ -7561,8 +7559,8 @@ upon a pole.
 
 He moved north all day and in the long light of the evening he saw from that high
 rimland the collision of armies remote and silent upon the plain below. The dark little
-horses circled and the landscape shifted in the paling light and the moun ains beyond춗
-brooded in darkening silhouette. The distant horse en rode and pa춎 rried and a faint
+horses circled and the landscape shifted in the paling light and the moun ains beyond
+brooded in darkening silhouette. The distant horse en rode and pa rried and a faint
 drift of smoke passed over them and they moved on up the deepening shade of the
 valley floor leaving behind them the shapes of mortal men who had lost their lives in
 that place. He watched all this pass below him mute and ordered and senseless until
@@ -7604,7 +7602,7 @@ flame frayed by the wind that freshened and faded and shed scattered sparks down
 storm like hot scurf blown from some unreckonable forge howling in the waste. He sat
 and watched it. He could not judge how far it was. He lay on his stomach to skylight
 the terrain to see what men were there but there was no sky and no light. He lay for a
-long time watch ng but he saw nothing move.춊
+long time watch ng but he saw nothing move.
 
 When he went on again the fire seemed to recede before him. A troop of figures passed
 between him and the light. Then again. Wolves perhaps. He wenton.
@@ -7615,7 +7613,7 @@ in the hot sand and held his numbed hands out while all about inthat circle atte
 companies of lesser auxiliaries routed forth into the inordinate day, small owls that
 crouched silently and stood from foot to foot and tarantulas and solpugas and
 vinegarroons and the vicious mygale spiders and beaded lizards with mouths black as a
-chowdog's, deadly to man, and the little desert basi isks that춍 jet blood from their eyes
+chowdog's, deadly to man, and the little desert basi isks that jet blood from their eyes
 and the small sandvipers like seemly gods, silent and the same, in Jeda, in Babylon. A
 constellation of ignited eyes that edged the ring of light all bound in a precarious truce
 before this torch whose brightness had set back the stars in theirsockets.
@@ -7632,9 +7630,9 @@ ground in the night hissing and stinking of sulphur.
 
 Seated tailorwise in the eye of that cratered waste he watched the world tend away at
 the edges to a shimmering surmise that ringed the desert round. After a while he rose
-and made his way to the edge of the pan and up the dry course of an arroyo, fol춍
+and made his way to the edge of the pan and up the dry course of an arroyo, fol
 owing the small demonic tracks of javelinas until he came upon them drinking at a
-standing pool of water. They flushed snort ng into the chaparral a춊 nd he lay in the wet
+standing pool of water. They flushed snort ng into the chaparral and he lay in the wet
 trampled sand and drank and rested and drank again.
 
 In the afternoon he started across the valley floor with the weight of the water swinging
@@ -7652,15 +7650,15 @@ sallies and sorties that fetched up to the edge of that incinerated shape and fl
 again.
 
 It was the remains of the scalps taken on the Nacozari and they had been burned
-unredeemed in a green and stinking bon ire so that nothing remaine춆 d of the poblanos
+unredeemed in a green and stinking bon ire so that nothing remaine d of the poblanos
 save this charred coagulate of their preterite lives. The cremation had been sited upon a
-rise of ground and he studied every quarter of the ter ain about bu춓 t there was nothing
-to be seen. He went on, follow ng the tracks with their suggesti춊 on of pursuit and
+rise of ground and he studied every quarter of the ter ain about bu t there was nothing
+to be seen. He went on, follow ng the tracks with their suggestion of pursuit and
 darkness, trailing them through the deepening twilight. With sunset it grew cold, yet
 nothing like so cold as in the mountains. His fast had weakened him and he sat in the
 sand to rest and woke sprawled and twisted on the ground. The moon was up, a half
 moon that sat like a child's boat in the gap of the black paper mountains to the east.
-He rose and went on. Coyotes were yap ing out there and his feet reel춑 ed beneath him.
+He rose and went on. Coyotes were yap ing out there and his feet reeled beneath him.
 
 
 An hour more of such progress and he came upon a horse.
@@ -7683,7 +7681,7 @@ spoke to it and it moved forward uncertainly.
 
 He reckoned it one of the packhorses purchased in Ures. It stopped and he urged it
 forward but it did not go. He brought his bootheels sharply up under its ribs and it
-squatted on its hindquarters and went crabbing sideways. He reached and un id the춄
+squatted on its hindquarters and went crabbing sideways. He reached and un id the
 belt from its muzzle and kicked it forward and gave it a whack with the belt and it
 stepped out right smartly. He twisted a good handful of the mane in his fist and
 jammed the pistol securely in his waist and rode on, perched upon the raw spine of the
@@ -7693,7 +7691,7 @@ In their riding they were joined by another horse that came off the desert and w
 alongside them and it was still there when dawn broke. In the night too the tracks of
 the riders had been joined by a larger party and it was a broad and trampled causeway
 that now led up the valley floor to the north. With daylight he leaned down with his
-face against the horse's shoul er and studied the tracks. They w춄 ere unshod Indian
+face against the horse's shoul er and studied the tracks. They were unshod Indian
 ponies and there were perhaps a hundred of them. Nor had they joined the riders but
 rather been joined by them. He pushed on. The little horse that had come to them in
 the night had moved off some leagues and now paced them with a watchful eye and the
@@ -7714,7 +7712,7 @@ They looked bad. They were used up and bloody and black about the eyes and they 
 bound up their wounds with linens that were filthy and bloodstained and their clothes
 were crusted with dried blood and powderblack. Glanton's eyes in their dark sockets
 were burning centroids of murder and he and his haggard riders stared balefully at the
-kid as if he were no part of them for all they were so like in wretchedness of circum 춖
+kid as if he were no part of them for all they were so like in wretchedness of circum
 tance. The kid slid down from the horse and stood among them gaunt and parched and
 crazedlooking. Someone threw him a canteen.
 
@@ -7771,7 +7769,7 @@ it to smoke. The scouts did not come in and they posted videttes and turned in t
 each man with his weapons at his breast.
 
 Midmorning of the day following they crossed an alkali pan whereon were convoked an
-assembly of men's heads. The com any halted and Glanton and th춑 e judge rode forward.
+assembly of men's heads. The com any halted and Glanton and th e judge rode forward.
 The heads were eight in number and each wore a hat and they formed aring all facing
 outward. Glanton and the judge circled them and the judge halted and stepped down
 and pushed over one of the heads with his boot. As if to satisfy himself that no man
@@ -7799,7 +7797,7 @@ muskets and miquelets or guns fabricated out of parts rudely let into stocks of
 cottonwood that had been shaped with axes like clubhouse guns for boys. There were
 even guns among them with no locks at all that were fired by jamming a cigarillo
 against the vent in the barrel, sending the gunstones from the riverbed with which they
-were loaded whissing through the air on flights of their own eccentric selec ion like the춗
+were loaded whissing through the air on flights of their own eccentric selec ion like the
 paths of meteorites. The Americans pushed their horses forward. It had begun to snow
 again and a cold wind blew down the narrow street before them. Evenin their wretched
 state they glared from their saddles at this falstaffian militia with undisguised contempt.
@@ -7811,7 +7809,7 @@ buildings beyond and made mute the cries of the vendors who'd followed them. Gla
 and the Mexican he'd set out with returned and the company mounted up and filed out
 down the street until they came to an old wooden gate that led into a courtyard. The
 courtyard was dusted with snow and within were contained barnyard fowl and
-animals?goats, a burro hat clawed and scrabbled blindly at the w뾲 alls as the riders
+animals?goats, a burro hat clawed and scrabbled blindly at the w alls as the riders
 entered. In one corner stood a tripod of blackened sticks and there was a large
 bloodstain that had been partly snowed over and showed a faint pale rose in the last
 light. A man came out of the house and he and Glanton spoke and the man talked with
@@ -7830,7 +7828,7 @@ door in an adobe shed and stood by holding the lamp aloft. Theybrought their sad
 and their blankets. In the yard the horses stamped in the cold.
 
 The shed held a mare with a suckling colt and the boy would have put her out but they
-called to him to leave her. They car ied straw from a stall and pitc춓 hed it down and he
+called to him to leave her. They car ied straw from a stall and pitc hed it down and he
 
 
 held the lamp for them while they spread their bedding. The barn smelled of clay and
@@ -7844,7 +7842,7 @@ hearts other hostels and not of their choosing. The mare sniffed uneasily and th
 colt stepped about. Then one by one they began to divest themselves of their outer
 clothes, the hide slickers and raw wool serapes and vests, and one by one they
 propagated about themselves a great crackling of sparks and eachman was seen to wear
-a shroud of palest fire. Their arms aloft pulling at their clothes were lumi ous and춏
+a shroud of palest fire. Their arms aloft pulling at their clothes were lumi ous and
 each obscure soul was enveloped in audible shapes of light as if it had always been so.
 The mare at the far end of the stable snorted and shied at this luminosity in beings so
 en-darkened and the little horse turned and hid his face in the web of his dam's flank.
@@ -7915,7 +7913,7 @@ into the sacristy and stood looking down with the others.
 The man in the floor was dying and he was dressed altogether in homemade clothes of
 sheephide even to boots and a strange cap. They turned him over on the cracked clay
 tiles and his jaw moved and a bloody spittle formed along his lower lip. His eyes were
-dull and there was fear in them and there was some hing else. John춗 Prewett stood the
+dull and there was fear in them and there was some hing else. John Prewett stood the
 
 
 butt of his rifle in the floor and swung his horn about to recharge the piece. I seen
@@ -7964,12 +7962,12 @@ There was a blind man on a stoop watching the plaza and as they passed he raised
 head to listen.
 
 They rode out onto the desert to camp. There was no wind and the silence out there
-was greatly favored by every kind of fugi ive as was the open coun춗 try itself and no
+was greatly favored by every kind of fugi ive as was the open country itself and no
 mountains close at hand for enemies to black themselves against. They were caught up
 and saddled in the morning before light, all riding together, their arms at the ready.
-Each man scanned the terrain and the move ents of the least of crea춎 tures were logged
+Each man scanned the terrain and the move ents of the least of crea tures were logged
 into their collective cognizance until they were federated with invisible wires of vigilance
-and advanced upon that landscape with a single reso ance. They춏 passed abandoned
+and advanced upon that landscape with a single reso ance. They passed abandoned
 haciendas and roadside graves and by midmorning they had picked up the track of the
 Apaches again coming in off the desert to the west and advancing before them through
 the loose sand of the riverbottom. The riders got down and pinched up samples of the
@@ -7992,7 +7990,7 @@ suffered and died impartially.
 
 They rode that night through the mission of San Xavier del Bac, the church solemn and
 stark in the starlight. Not a dog barked. The clusters of Papago huts seemed without
-tenant. The air was cold and clear and the country there and beyond lay in a dark ess춏
+tenant. The air was cold and clear and the country there and beyond lay in a dark ess
 unclaimed by so much as an owl. A pale green meteor came up the valley floor behind
 them and passed overhead and vanished silently in the void.
 
@@ -8062,7 +8060,7 @@ Mire, said the Apache. Mire la oreja de mi caballo.
 
 He steadied the animal's head to show it but it jerked loose and slung the broken ear
 about so that blood sprayed the riders. Horseblood or any blood a tremor ran that
-perilous architecture and the ponies stood rigid and quivering in the reddened sun ise춓
+perilous architecture and the ponies stood rigid and quivering in the reddened sun ise
 and the desert under them hummed like a snaredrum. The tensile properties of this
 unratified truce were abused to the utmost of their enduring when the judge stood
 slightly in the saddle and raised his arm and spoke out a greetingbeyond them.
@@ -8093,7 +8091,7 @@ The Apache riders had begun to extricate themselves from among the Americans lik
 men backing out of a thornthicket. The Americans stood their rifles upright and Mangas
 led the injured horse forward and turned its head up, containing the animal solely with
 his hands and the white eye rolling crazily. After some discussion it became plain that
-whatever the assess ent of damage levied there was no specie ac춎 ceptable by way of
+whatever the assess ent of damage levied there was no specie acceptable by way of
 payment other than whiskey.
 
 Glanton spat and eyed the man. No hay Whiskey, he said.
@@ -8146,7 +8144,7 @@ mounted on the revetment and Gouts expected the savages would withdraw when they
 could get nothing more to drink. He was very formal and he addressed Glanton as
 Captain. None of the tattered partisans had even dismounted. They looked about at the
 bleak and ruinous town. A blindfolded burro tethered to a pole was turning a pugmill,
-circling endlessly, the wooden millshaft creak ng in its block춊 s. Chickens and smaller
+circling endlessly, the wooden millshaft creak ng in its block s. Chickens and smaller
 birds were scratching at the base of the mill. The pole was a good four feet off the
 ground yet the birds ducked or squatted each time it passed overhead. In the dust of
 the plaza lay a number of men apparently asleep. White, indian, Mexican. Some covered
@@ -8169,7 +8167,7 @@ They're fixin to get that way, said Glanton. He nudged the horse forward. He did
 speak again and none of the others had spoken at all. As they crossed the plaza a few
 vagrants raised their heads up out of their blankets and lookedafter them.
 
-The bar they entered was a square mud room and the pro rietor set abou춑 t serving
+The bar they entered was a square mud room and the pro rietor set abou t serving
 them in his underwear. They sat on a bench at a wooden table in the gloom drinking
 sullenly.
 
@@ -8211,7 +8209,7 @@ Glanton and the judge sought them out. A rude tent thrown up out of an old tarp.
 sign that said: See The Wild Man Two Bits. They passed behind a wagonsheet where
 within a crude cage of paloverde poles crouched a naked imbecile. The floor of the cage
 was littered with filth and trodden food and flies clambered about everywhere. The idiot
-was small and mis hapen and his face was smeared with feces and h춖 e sat peering at
+was small and mis hapen and his face was smeared with feces and h e sat peering at
 them with dull hostility silently chewing a turd.
 
 
@@ -8295,7 +8293,7 @@ a man at grace. The judge sat smiling, his arms crossed. They were all slightly 
 
 He thinks we're niggers.
 
-They sat in silence. The old woman in the court had com enced wai춎 ling some dolorous
+They sat in silence. The old woman in the court had com enced wai ling some dolorous
 air and the man was standing with his hand outheld. Piled just within the door were
 the satchels and holsters and arms of the company.
 
@@ -8376,7 +8374,7 @@ and a half dozen armed troopers entered the premises. The cantina was a single r
 and there was a hole in the ceiling where a trunk of sunlight fell through onto the mud
 floor and figures crossing the room steered with care past the edge of this column of
 light as if it might be hot to the touch. They were a hardbit denizenry and they
-shambled to the bar and back in their rags and skins like cavefolk ex hanging at some춃
+shambled to the bar and back in their rags and skins like cavefolk ex hanging at some
 nameless trade. The lieutenant circled this reeking solarium and stood before Glanton.
 
 Captain, we're going to have to take whoever's responsible for the death of Mr Owens
@@ -8415,7 +8413,7 @@ him in an affair of honor. Secondly I have been with him all day and I can assur
 that neither he nor any of his men have ever set foot in the premises to which you
 allude.
 
-The lieutenant seemed stunned at the baldness of these dis la춃 imers. He looked from
+The lieutenant seemed stunned at the baldness of these dis la imers. He looked from
 the judge to Glanton and back again. I will be damned, he said. Then he turned and
 pushed past the men and quit the place.
 
@@ -8544,7 +8542,7 @@ this opportunity to ventilate himself upon the ferric nature of heavenly bodies 
 powers and claims. Two lines were drawn in the dirt ten feet apart and a third round
 of wagers was laid, coins from half a dozen countries in both gold and silver and even
 a few boletas or notes of discounted script from the mines near Tubac. The judge seized
-that great slag wandered for what millennia from what unreckonable corner of the uni춚
+that great slag wandered for what millennia from what unreckonable corner of the uni
 erse and he raised it overhead and stood tottering and then lunged forward. It cleared
 the mark by a foot and he shared with no one the specie piled on the saddleblanket at
 the farrier's feet for not even Glanton had been willing to underwrite this third trial.
@@ -8571,7 +8569,7 @@ They rode out at dusk. The corporal in the gatehouse above the portal came out a
 called to them to halt but they did not. They rode twenty-one men and a dog and a
 little flatbed cart aboard which the idiot and his cage had been lashed as if for a sea
 journey. Lashed on behind the cage rode the whiskey keg they'd drained the night
-before. The keg had been dis antled and rebound by a man Glanton h춎 ad appointed
+before. The keg had been dis antled and rebound by a man Glanton had appointed
 cooper pro-tern to the expedition and it now contained within it a flask made from a
 common sheep's stomach and holding perhaps three quarts of whiskey. This flask was
 fitted to the bung at the inside and the rest of the keg was filled with water. So
@@ -8587,11 +8585,11 @@ mood was foul enough for him to have shot the sentry with no provocation at all.
 the sentry called again he swung about with his rifle and the man had the sense to
 duck under the parapet and they heard no more from him. In the long dusk the
 savages rode out to meet them and the whiskey was exchanged for upon a Saltillo
-blanket spread on the ground. Glanton paid little atten ion to t춗 he proceedings. When
+blanket spread on the ground. Glanton paid little atten ion to the proceedings. When
 the savages had counted out gold and silver to the judge's satisfaction Glanton stepped
 onto the blanket and kicked the coins together with his bootheel and then stepped away
 and directed Brown to take up the blanket. Mangas and his lieutenants exchanged dark
-looks but the Amer cans mounted up and rode out and none looked b춊 ack save the
+looks but the Amer cans mounted up and rode out and none looked back save the
 recruits. They'd become privy to the details of the business and one of them fell in
 
 
@@ -8607,7 +8605,7 @@ Why wont they? he said.
 Brown spat. Because it's dark, he said.
 
 They rode west from the town across the base of a small mountain through a dogtown
-strewn with old broken earthen are from a crockery furnace that once h춛 ad been there.
+strewn with old broken earthen are from a crockery furnace that once had been there.
 The keeper of the idiot rode downside of the trestled cage and the idiot clutched the
 poles and watched the land pass in silence.
 
@@ -8624,7 +8622,7 @@ sleeping but much was changed. So many gone, defected or dead. The Delawares all
 slain. He watched the fire and if he saw portents there it was much the same to him.
 He would live to look upon the western sea and he was equal to whatever might follow
 for he was complete at every hour. Whether his history should run concomitant with
-men and na ions, whether it should cease. He'd long forsworn all춗 weighing of
+men and na ions, whether it should cease. He'd long forsworn all weighing of
 consequence and allowing as he did that men's destinies are given yet he usurped to
 contain within him all that he would ever be in the world and all that the world would
 be to him and be his charter written in the urstone itself he claimed agency and said so
@@ -8652,7 +8650,7 @@ than ropes with which to garrote the enemy.
 
 Glanton?and?his?men?reviewed?this?company?with?stony amazement. The Mexicans
 pressed about with their hands out-held for tobacco and Glanton and the colonel
-exchanged rudi entary civilities and then Glanton pushed on t춎 hrough that importunate
+exchanged rudi entary civilities and then Glanton pushed on through that importunate
 horde. They were of another nation, those riders, and all that land to the south out of
 which they'd originated and whatever lands to the east toward which they were bound
 were dead to him and both the ground and any sojourners upon it remote and arguable
@@ -8661,13 +8659,13 @@ moved entirely clear of them and each man turned his horse and each man followed
 and not even the judge spoke to excuse himself from out of that encounter.
 
 They rode on into the darkness and the moonblanched waste lay before them cold and
-pale and the moon sat in a ring over ead and in that ring lay a mock m춉 oon with its
+pale and the moon sat in a ring over ead and in that ring lay a mock moon with its
 own cold gray and nacre seas. They made camp on a low bench of landwhere walls of
 dry aggregate marked an old river course and they struck up a fire about which they sat
 in silence, the eyes of the dog and of the idiot and certain other men glowing red as
 coals in their heads where they turned. The flames sawed in the wind and the embers
 paled and deepened and paled and deepened like the bloodbeat of some living thing
-eviscerate upon the ground before them and they watched the fire which does con ain춗
+eviscerate upon the ground before them and they watched the fire which does con ain
 within it something of men themselves inasmuch as they are less without it and are
 divided from their origins and are exiles. For each fire is all fires, the first fire and the
 last ever to be. By and by the judge rose and moved away on some obscure mission
@@ -8686,18 +8684,18 @@ stood half naked and sweating spoke and said that there were notand that there w
 no men anywhere in the universe save those upon the earth. All listened as he spoke,
 those who had turned to watch him and those who would not.
 
-The truth about the world, he said, is that anything is pos ible.춖 Had you not seen it
+The truth about the world, he said, is that anything is pos ible. Had you not seen it
 all from birth and thereby bled it of its strangeness it would appear to you for what it
 is, a hat trick in a medicine show, a fevered dream, a trance bepopulate with chimeras
 having neither analogue nor precedent, an itinerant carnival, a migratory tentshow whose
-ultimate destina ion after many a pitch in many a mudded field춗 is unspeakable and
+ultimate destina ion after many a pitch in many a mudded field is unspeakable and
 calamitous beyond reckoning.
 
 The universe is no narrow thing and the order within it is not constrained by any
 latitude in its conception to repeat what exists in one part in any other part. Even in
 this world more things exist without our knowledge than with it and the order in
 creation which you see is that which you have put there, like a string in a maze, so
-that you shall not lose your way. For ex stence has its own order춊 and that no man's
+that you shall not lose your way. For ex stence has its own order and that no man's
 mind can compass, that mind itself being but a fact among others.
 
 Brown spat into the fire. That's some more of your craziness, he said.
@@ -8716,11 +8714,11 @@ to the judge and he caught it in his hand and smiled.
 
 The arc of circling bodies is determined by the length of their tether, said the judge.
 Moons, coins, men. His hands moved as if he were pulling something from one fist in a
-series of elon ations. Watch the coin, Davy, he said.춇
+series of elon ations. Watch the coin, Davy, he said.
 
 He flung it and it cut an arc through the firelight and was gone in the darkness
 beyond. They watched the night where it had vanished and they watched the judge and
-in their watch ng some the one and some the other they were a comm춊 on witness.
+in their watch ng some the one and some the other they were a common witness.
 
 
 The coin, Davy, the coin, whispered the judge. He sat erect and raised his hand and
@@ -8741,8 +8739,8 @@ evoke in animals. But Glanton called the dog to him and when it did not come he
 dropped back along the little column and leaned down and quirted it viciously with his
 hobble rope and drove it out before him.
 
-They began to come upon chains and packsaddles, single rees, d춗 ead mules, wagons.
-Saddletrees eaten bare of their raw ide coverings and weathered wh춉 ite as bone, a light
+They began to come upon chains and packsaddles, single rees, dead mules, wagons.
+Saddletrees eaten bare of their raw ide coverings and weathered white as bone, a light
 chamfering of miceteeth along the edges of the wood. They rode through a region where
 iron will not rust nor tin tarnish. The ribbed frames of dead cattle under their patches
 of dried hide lay like the ruins of primitive boats upturned upon that shoreless void and
@@ -8750,35 +8748,35 @@ they passed lurid and austere the black and desiccated shapes of horses and mule
 travelers had stood afoot. These parched beasts had died with their necks stretched in
 agony in the sand and now upright and blind and lurching askew with scraps of
 blackened leather hanging from the fretwork of their ribs they leaned with their long
-mouths howling after the end ess tandem suns that passed abov춍 e them. The riders rode
+mouths howling after the end ess tandem suns that passed abov e them. The riders rode
 on. They crossed a vast dry lake with rows of dead volcanoes ranged beyond it like the
 works of enormous insects. To the south lay broken shapes of scoria in a lava bed as
 far as the eye could see. Under the hooves of the horses the alabaster sand shaped itself
 in whorls strangely symmetric like iron filings in a field and these shapes flared and
 drew back again, resonating upon that harmonic ground and then turning to swirl away
-over the playa. As if the very sediment of things contained yet some resi ue of춄
+over the playa. As if the very sediment of things contained yet some resi ue of
 sentience. As if in the transit of those riders were a thing so profoundly terrible as to
-register even to the uttermost gran lation of reality.춙
+register even to the uttermost gran lation of reality.
 
 On a rise at the western edge of the playa they passed a crude wooden cross where
 Maricopas had crucified an Apache. The mummied corpse hung from the crosstree with
 its mouth gaped in a raw hole, a thing of leather and bone scoured by the pumice
 
 
-winds off the lake and the pale tree of the ribs show ng through the춊 scraps of hide
+winds off the lake and the pale tree of the ribs show ng through the scraps of hide
 that hung from the breast. They rode on. The horses trudged sullenly the alien ground
 and the round earth rolled beneath them silently milling the greater void wherein they
 were contained. In the neuter austerity of that terrain all phenomena were bequeathed a
 strange equality and no one thing nor spider nor stone nor blade of grass could put
 forth claim to precedence. The very clarity of these articles belied their familiarity, for
 the eye predicates the whole on some feature or part and here was nothing more
-luminous than another and nothing more enshadowed and in the optical democ acy of춓
+luminous than another and nothing more enshadowed and in the optical democ acy of
 such landscapes all preference is made whimsical and a man and a rock become
 endowed with unguessed kinships.
 
 They grew gaunted and lank under the white suns of those days and their hollow
 burnedout eyes were like those of noctambulants surprised by day. Crouched under their
-hats they seemed fugi ives on some grander scale, like beings f춗 or whom the sun
+hats they seemed fugi ives on some grander scale, like beings for whom the sun
 hungered. Even the judge grew silent and speculative. He'd spoke of purging oneself of
 those things that lay claim to a man but that body receiving his remarks counted
 themselves well done with any claims at all. They rode on and the wind drove the fine
@@ -8805,7 +8803,7 @@ will be. That way and not some other way.
 
 He turned to Brown, from whom he'd heard some whispered slur or demurrer. Ah Davy,
 he said. It's your own trade we honor here. Why not rather take a small bow. Let each
-ac nowledge each.춌
+ac nowledge each.
 
 
 My trade?
@@ -8836,7 +8834,7 @@ nobler than work. He knows too that the worth or merit of a game is not inherent
 the game itself but rather in the value of that which is put at hazard. Games of chance
 require a wager to have meaning at all. Games of sport involve theskill and strength of
 the opponents and the humiliation of defeat and the pride of victory are in themselves
-sufficient stake because they inhere in the worth of the princi a춑ls and define them. But
+sufficient stake because they inhere in the worth of the princi als and define them. But
 trial of chance or trial of worth all games aspire to the condition of war for here that
 which is wagered swallows up game, player, all.
 
@@ -8865,7 +8863,7 @@ Might does not make right, said living. The man that wins in some combat is not
 vindicated morally.
 
 Moral law is an invention of mankind for the disenfranchise-ment of the powerful in
-favor of the weak. Historical law sub erts it at every turn. A moral춚 view can never be
+favor of the weak. Historical law sub erts it at every turn. A moral view can never be
 proven right or wrong by any ultimate test. A man falling dead in aduel is not thought
 thereby to be proven in error as to his views. His very involvement in such a trial gives
 evidence of a new and broader view. The willingness of the principals to forgo further
@@ -8875,7 +8873,7 @@ great moment the divergences thereof. For the argument is indeedtrivial, but not
 separate wills thereby made manifest. Man's vanity may well approach the infinite in
 capacity but his knowledge remains imperfect and howevermuch he comes to value his
 judgements ultimately he must submit them before a higher court. Here there can be no
-special pleading. Here are con iderations of equity and rectitud춖 e and moral right
+special pleading. Here are con iderations of equity and rectitud e and moral right
 rendered void and without warrant and here are the views of the litigants despised.
 Decisions of life and death, of what shall be and what shall not, beggar all question of
 right. In elections of these magnitudes are all lesser ones subsumed, moral, spiritual,
@@ -8917,7 +8915,7 @@ horses.
 
 At all desert watering places there are bones but the judge that evening carried to the
 fire one such as none there had ever seen before, a great femur from some beast long
-extinct that he'd found weathered out of a bluff and that he now sat measur ng with춊
+extinct that he'd found weathered out of a bluff and that he now sat measur ng with
 the tailor's tape he carried and sketching into his log. All in that company had heard
 the judge on paleontology save for the new recruits and they sat watching and putting
 to him such queries as they could conceive of. He answered them with care, amplifying
@@ -8988,10 +8986,10 @@ river and he said something to it and it came up and sat by his knee.
 
 The ferryboat put out from the far bank and crossed to a landing upstream where there
 was a deadman built of driftlogs. The boat was contrived from a pair of old wagonboxes
-fitted to ether and caulked with pitch. A group of people had sh춇 ouldered up their
+fitted to ether and caulked with pitch. A group of people had shouldered up their
 dunnage and stood waiting. Glanton turned and went up the bankto get his horse.
 
-The ferryman was a doctor from New York state named Lin oln. He was춃 supervising
+The ferryman was a doctor from New York state named Lin oln. He was supervising
 the loading, the travelers stepping aboard and squatting alongthe rails of the scow with
 their parcels and looking out uncertainly at the broad water. A half-mastiff dog sat on
 the bank watching. At Glanton's approach it stood bristling. The doctor turned and
@@ -9004,7 +9002,7 @@ doctor's dog following some ten paces behind.
 
 Glanton's party was camped on a bench of sand partially shaded by river willows. As he
 and the doctor approached the idiot rose in his cage and seized the bars and
-commenced hoot ng as if he'd warn the doctor back. The doctor we춊 nt wide of the
+commenced hoot ng as if he'd warn the doctor back. The doctor went wide of the
 thing, glancing at his host, but Glanton's lieutenants had come forward and soon the
 doctor and the judge were deep in discourse to the exclusion of anyone else.
 
@@ -9020,15 +9018,15 @@ trees and a delegation of mounted savages rode out to meet them.
 
 They halted and sat their horses. The party approaching were cladin such fool's regalia
 and withal bore themselves with such aplomb that the paler riders were hard put to
-keep their com osure. The leader was a man named Caballo en Pelo춑 and this old
+keep their com osure. The leader was a man named Caballo en Pelo and this old
 mogul wore a belted wool overcoat that would have served a far colder climate and
-beneath it a woman's blouse of em roidered silk and a pair of pant춂 aloons of gray
+beneath it a woman's blouse of em roidered silk and a pair of pantaloons of gray
 cassinette. He was small and wiry and he had lost an eye to the Maricopas and he
 presented the Americans with a strange priapic leer that may have at one time been a
 smile. At his right rode a lesser chieftain named Pascual in a frogged coat out at the
 elbows and who wore in his nose a bone hung with small pendants.The third man was
 Pablo and he was clad in a scarlet coat with tarnished braiding and tarnished epaulettes
-of silver wire. He was bare ooted and bare of leg and he wore on his fa춆 ce a pair of
+of silver wire. He was bare ooted and bare of leg and he wore on his face a pair of
 round green goggles. In this attire they arranged themselves before the Americans and
 nodded austerely.
 
@@ -9062,7 +9060,7 @@ By daylight the women at the crossing had discovered the idiot in his cage. They
 
 
 gathered about him, apparently unap-palled by the nakedness and filth. They crooned to
-him and they consulted among themselves and a woman named Sarah Borgin is led춏
+him and they consulted among themselves and a woman named Sarah Borgin is led
 them to seek out the brother. She was a huge woman with a great red face and she
 read him riot.
 
@@ -9105,7 +9103,7 @@ Where are they takin it? said Toadvine.
 
 The kid didnt know. They were backing the cart through the loose sand toward the edge
 of the river and they let it down and opened the cage. The Borginnis woman stood
-before the im ecile.춂
+before the im ecile.
 
 James Robert come out of there.
 
@@ -9148,8 +9146,8 @@ the camp dogs stirred and muttered. The Borginnis took the idiot to his pallet u
 
 wagon-sheet and stripped him to his new underwear and she tucked him into his
 blanket and kissed him goodnight and the camp grew quiet. Whenthe idiot crossed that
-blue and smoky amphi heatre he was naked once again, shambling춗 past the fires like a
-balden groundsloth. He paused and tested the air and he shuf le춆 d on. He went wide of
+blue and smoky amphi heatre he was naked once again, shambling past the fires like a
+balden groundsloth. He paused and tested the air and he shuf le d on. He went wide of
 the landing and stumbled through the shore willows, whimpering and pushing with his
 thin arms at things in the night. Then he was standing alone on the shore. He hooted
 softly and his voice passed from him like a gift that was also needed so that no sound
@@ -9157,8 +9155,8 @@ of it echoed back. He entered the water. Before the river reached much past his 
 he'd lost his footing and sunk from sight.
 
 Now the judge on his midnight rounds was passing along at just this place stark naked
-himself uch encounters being com oner than men suppose or who w뾱 춎 ould survive any
-crossing by night nd he stepped into the river and seized up the d뾞 rown ng idiot,춊
+himself uch encounters being com oner than men suppose or who w ould survive any
+crossing by night nd he stepped into the river and seized up the drown ng idiot,
 snatching it aloft by the heels like a great midwife and slapping it on the back to let
 the water out. A birth scene or a baptism or some ritual not yet inaugurated into any
 canon. He twisted the water from its hair and he gathered the naked and sobbing fool
@@ -9186,19 +9184,19 @@ wheels ?Murder of Jackson ?The Yuma massacre.
 
 The doctor had been bound for California when the ferry fell into his hands for the
 most by chance. In the ensuing months he'd amassed a considerable wealth in gold and
-silver and jewelry. He and the two men who worked for him had taken up resi ence춄
+silver and jewelry. He and the two men who worked for him had taken up resi ence
 
 
 on the west bank of the river overlooking the ferrylanding among the abutments of an
 unfinished hillside fortification made from mud and rock. In addition to the pair of
-freightwagons he'd inherited from Major Graham's command he had also a moun ain춗
-howitzer bronze twelvepounder with a bore the size of a saucer n뾞 뾞 d this piece stood
+freightwagons he'd inherited from Major Graham's command he had also a moun ain
+howitzer bronze twelvepounder with a bore the size of a saucer n d this piece stood
 idle and unloaded in its wooden truck. In the doctor's crude quarters he and Glanton
 and the judge together with Brown and Irving sat drinking tea and Glanton sketched for
 the doctor a few of their indian adventures and advised him strongly to secure his
 position. The doctor demurred. He claimed to get along well with the Yumas. Glanton
 told him to his face that any man who trusted an indian was a fool. The doctor colored
-but he held his tongue. The judge inter ened. He asked the doct춚 or did he consider the
+but he held his tongue. The judge inter ened. He asked the doctor did he consider the
 pilgrims huddled on the far shore to be under his protection. The doctor said that he
 did so consider them. The judge spoke reasonably and with concern and when Glanton
 and his detail returned down the hill to cross to their camp they had the doctor's
@@ -9217,7 +9215,7 @@ Long Webster swung the howitzer and steadied it and Brown crammed his lighted ci
 into the touch-hole.
 
 Even over that open terrain the concussion was immense. The howitzer in its truck
-leaped from the ground and clattered smok ng backward across the pa춊 cked clay. On
+leaped from the ground and clattered smok ng backward across the pa cked clay. On
 the floodplain below the fort a terrible destruction had passed and upward of a dozen of
 the Yumas lay dead or writhing in the sand. A great howl went up among them and
 Glanton and his riders defiled out of the wooded littoral upriver and rode upon them
@@ -9229,7 +9227,7 @@ children lay prone among the trunks and freightboxes. The horses of the Yumas re
 and screamed and churned about in the loose sand with their hoopshaped nostrils and
 whited eyes and the survivors made for the willows from which they'd emerged leaving
 on the field the wounded and the dying and the dead. Glanton and his men did not
-pursue them. They dis ounted and walked methodically among th춎 e fallen dispatching
+pursue them. They dis ounted and walked methodically among th e fallen dispatching
 
 
 them man and horse alike each with a pistolball through the brain while the ferry
@@ -9246,14 +9244,14 @@ People who had been waiting three days to cross at a dollar a headwere now told 
 the fare was four dollars. And even this tariff was in effect for no more than a few
 days. Soon they were operating a sort of procrustean ferry where the fares were tailored
 to accommodate the purses of the travelers. Ultimately all pretense was dropped and the
-immi rants were robbed outright. Travelers were beaten and their arms춇 and goods
+immi rants were robbed outright. Travelers were beaten and their arms and goods
 appropriated and they were sent destitute and beggared into the desert. The doctor came
 down to remonstrate with them and was paid his share of the revenues and sent back.
 Horses were taken and women violated and bodies began to drift past the Yuma camp
-downriver. As these outrages multi lied the doctor barricaded him춑 self in his quarters
+downriver. As these outrages multi lied the doctor barricaded himself in his quarters
 and was seen no more.
 
-In the following month a company from Kentucky under Gen ral Pat춅 terson arrived and
+In the following month a company from Kentucky under Gen ral Pat terson arrived and
 disdaining to bargain with Glanton constructed a ferry downriver and crossed and moved
 on. This ferry was taken over by the Yumas and operated for them by a man named
 Callaghan, but within days it was burned and Callaghan's headless body floated
@@ -9267,7 +9265,7 @@ through this place before it was yet good light they encountereda party of Sonor
 and about and they saw hanging from a scaffold a poor Judas fashioned from straw and
 old rags who wore on his canvas face a painted scowl that reflected in the hand that
 had executed it no more than a child's conception of the man and his crime. The
-Sonorans had been up since mid ight drinking and they had lit a bo춏 nfire on the bench
+Sonorans had been up since mid ight drinking and they had lit a bonfire on the bench
 of loam where the gibbet stood and as the Americans passed along the edge of their
 camp they called out to them in Spanish. Someone had brought a long cane from the
 fire tipped with lighted tow and the Judas was being set afire. Its raggedy clothes were
@@ -9284,7 +9282,7 @@ a coat about his shoulders and hurried on.
 By now Glanton had enslaved a number of Sonorans and he kept crews of them
 working at the fortification of the hill. There were also detained in their camp a dozen
 or more indian and Mexican girls, some little more than children. Glanton supervised
-with some interest the raising of the walls about him but other i춛se left his men to
+with some interest the raising of the walls about him but other ise left his men to
 pursue the business at the crossing with a terrible latitude. He seemed to take little
 account of the wealth they were amassing although daily he'd open the brass lock with
 which the wood and leather trunk in his quarters was secured and raise the lid and
@@ -9335,8 +9333,8 @@ walkway and watched the dawn come down from the hills behind the town.
 
 Noon he was red-eyed and reeking before the alcalde's door demanding the release of
 his companions. The alcalde vacated out the back of the premises and shortly there
-arrived an Ameri an corporal and two soldiers who warned him away. An h춃 our later he
-was at the farriery. Standing warily in the doorway peer ng into t춊 he gloom until he
+arrived an Ameri an corporal and two soldiers who warned him away. An hour later he
+was at the farriery. Standing warily in the doorway peer ng into the gloom until he
 could make out the shape of things within.
 
 The farrier was at his bench and Brown entered and laid before him a polished
@@ -9357,7 +9355,7 @@ I need these barrels cut down.
 The man took the gun and held it in his hands. There was a raised center rib between
 the barrels and inlaid in gold the maker's name, London. There were two platinum
 bands in the patent breech and the locks and the hammers were chased with scrollwork
-cut deeply in the steel and there were partridges en raved at either춇 end of the maker's
+cut deeply in the steel and there were partridges en raved at either end of the maker's
 
 
 name there. The purple barrels were welded up from triple skelps and the hammered
@@ -9430,7 +9428,7 @@ which I aim to take it out of your ass.
 The farrier didnt take his eyes off Brown. He began to back away from the bench and
 then he turned and ran.
 
-When the sergeant of the guard arrived Brown had the shot un chucked춇 up in the
+When the sergeant of the guard arrived Brown had the shot un chucked up in the
 benchvise and was working at the barrels with a hacksaw. The sergeant walked around
 to where he could see his face. What do you want, said Brown.
 
@@ -9519,7 +9517,7 @@ showed him the coins again and he spoke familiarly of their places of origin,
 supplementing the judge's reports with impromptu data. Even shares, he hissed. You and
 me.
 
-He studied the recruit through the bars. Petit wiped his fore ead wi춉 th his sleeve.
+He studied the recruit through the bars. Petit wiped his fore ead with his sleeve.
 Brown scooped the coins back into the poke and handed them out to him.
 
 You think we caint trust one another? he said.
@@ -9549,7 +9547,7 @@ When Webster and Toadvine rode into the camp at Yuma they had neither provisions
 nor the mules they'd left with. Glanton took five men and rode out at dusk leaving the
 judge in charge of the ferry. They reached San Diego in the dead of night and were
 directed to the alcalde's house. This man came to the door in nightshirt and stockingcap
-holding a candle before him. Glan on pushed him back into the pa춗 rlor and sent his
+holding a candle before him. Glan on pushed him back into the parlor and sent his
 men on to the rear of the house from whence they heard directly a woman's screams
 and a few dull slaps and then silence.
 
@@ -9563,7 +9561,7 @@ mouth and she fell over in the tousled bedding and put her hands over her head.
 Glanton held the candle aloft and directed one of the recruits toboost the other on his
 shoulders and the boy reached along the top of one of the vigas until he found a space
 and he fitted the end of the rope through and let it down and they hauled on it and
-raised the mute and strug ling alcalde into the air. They'd not ti춇 ed his hands and he
+raised the mute and strug ling alcalde into the air. They'd not tied his hands and he
 groped wildly overhead for the rope and pulled himself up to save strangling and he
 kicked his feet and revolved slowly in the candlelight.
 
@@ -9582,8 +9580,8 @@ toward him.
 Digame, gasped the alcalde.
 
 Someone reached to seize the wife but Glanton motioned him away and she staggered
-out of the bed and took hold of her hus and about the knees to hol춂 d him up. She was
-sobbing and pray ng for mercy to Glanton and to God impartially.춊
+out of the bed and took hold of her hus and about the knees to hol d him up. She was
+sobbing and pray ng for mercy to Glanton and to God impartially.
 
 Glanton walked around to where he could see the man's face. I want my money, he
 said. My money and my mules and the man I sent out here. El hombre que tiene
@@ -9613,7 +9611,7 @@ cupped hand before him. When they came back they reported the little dungeon in 
 building out back empty.
 
 
-Glanton studied the alcalde. The old woman was visibly tot eri춗 ng. They'd halfhitched
+Glanton studied the alcalde. The old woman was visibly tot eri ng. They'd halfhitched
 the rope about the tailpost of the bed and he loosed the rope and the alcalde and the
 wife collapsed into the floor.
 
@@ -9630,13 +9628,13 @@ him were beaten senseless and stripped of their arms. At dawn when the soldiers 
 in the hostel door there was no one in the room.
 
 Glanton returned to Yuma alone, his men gone to the gold fields. On that bonestrewn
-waste he encountered wretched par els of foot-travelers who call춃 ed out to him and men
-dead where they'd fallen and men who would die and groups of folks clus ered about a춗
+waste he encountered wretched par els of foot-travelers who call ed out to him and men
+dead where they'd fallen and men who would die and groups of folks clus ered about a
 last wagon or cart shouting hoarsely at the mules or oxen and goading them on as if
 they bore in those frail caissons the covenant itself and theseanimals would die and the
 people with them and they called out to that lone horseman to warn him of the danger
 at the crossing and the horseman rode on all contrary to the tide of refugees like some
-storied hero toward what beast of war or plague or famine with what set to his re춍
+storied hero toward what beast of war or plague or famine with what set to his re
 entless jaw.
 
 When he reached Yuma he was drunk. Behind him on a string were two small jacks
@@ -9674,7 +9672,7 @@ their camp. Someone had given the idiot whiskey mixed with sarsaparilla and this
 which could little more than walk had commenced to dance beforethe fire with loping
 simian steps, moving with great gravity and smacking its loosewet lips.
 
-At dawn the black walked out to the landing and stood uri ating i춏 n the river. The
+At dawn the black walked out to the landing and stood uri ating i n the river. The
 scows lay downstream against the bank with a few inches of sandy water standing in
 the floorboards. He pulled his robes about him and stepped aboard the thwart and
 balanced there. The water ran over the boards toward him. He stood looking out. The
@@ -9687,7 +9685,7 @@ as he did so a long cane arrow passed through his upper abdomen and flew on and 
 far out in the river and sank and backed to the surface again and began to turn and to
 drift downstream.
 
-He faced around, his robes sustained about him. He was hold ng hi춊 s wound and with
+He faced around, his robes sustained about him. He was hold ng hi s wound and with
 his other hand he ravaged among his clothes for the weapons that were not there and
 were not there. A second arrow passed him on the left and two more struck and lodged
 fast in his chest and in his groin. They were a full four feet in length and they lofted
@@ -9706,7 +9704,7 @@ reddening waters and raised him up and stove in his head with his warclub.
 
 They swarmed up the hill toward the fortifications where the Americans lay sleeping and
 some were mounted and some afoot and all of them armed with bows and clubs and
-their faces blacked or pale with fard and their hair bound up in clay. The first quar춗
+their faces blacked or pale with fard and their hair bound up in clay. The first quar
 ers they entered were Lincoln's. When they emerged a few minutes later one of them
 carried the doctor's dripping head by the hair and others were dragging behind them
 the doctor's dog, bound at the muzzle, jerking and bucking across the dry clay of the
@@ -9738,7 +9736,7 @@ together they entered the wood at the base of the hill and disappeared from sigh
 
 The savages built a bonfire on the hill and fueled it with the furnishings from the white
 men's quarters and they raised up Glanton's body and bore it aloft in the manner of a
-slain cham ion and hurled it onto the flames. They'd tied his do춑 g to his corpse and it
+slain cham ion and hurled it onto the flames. They'd tied his do g to his corpse and it
 
 
 was snatched after in howling suttee to disappear crackling in the rolling greenwood
@@ -9840,12 +9838,12 @@ alongside the kid. The pistol bucked and the gray smoke hung motionless in the a
 one of the savages went down like a player through a trap. The kid had cocked the
 pistol again but Toadvine put his hand over the barrel and the kid looked up at him
 and lowered the hammer and then sat and reloaded the empty chamber and pushed
-him elf up and recovered his crutch and they went on. Behind them o춖 n the plain they
+him elf up and recovered his crutch and they went on. Behind them o n the plain they
 could hear the thin clamor of the aborigines as they clustered about the one he'd shot.
 
 That painted horde dogged their steps the day long. They were twenty-four hours
 without water and the barren mural of sand and sky was beginning to shimmer and
-swim and the peri dic arrows sprang aslant from the sands about them춐 like the tufted
+swim and the peri dic arrows sprang aslant from the sands about them like the tufted
 stalks of mutant desert growths propagating angrily into the dry desert air. They did not
 stop. When they reached the wells at Alamo Mucho the sun was low before them and
 there was a figure seated at the rim of the basin. This figure rose and stood warped in
@@ -9893,8 +9891,8 @@ take the heart out of ye.
 
 The Yumas seemed immobilized by these misfortunes and the kid cocked the pistol and
 shot down another of their number before they began to collectthemselves and to move
-back, tak ng their dead with them, lofting a flurry of arrows and h춊 owling out
-bloodoaths in their stoneage tongue or invocations to what v춅er gods of war or fortune
+back, tak ng their dead with them, lofting a flurry of arrows and howling out
+bloodoaths in their stoneage tongue or invocations to what ver gods of war or fortune
 they'd the ear of and retreating upon the pan until they were very small indeed.
 
 The kid shouldered up his flask and shotpouch and slid down the pitch to the floor of
@@ -9906,13 +9904,13 @@ piece in the warm sand to dry.
 
 Toadvine had made his way around the excavation until he reached the expriest and
 they lay watching the retreat of the savages through the heat shimmering off the pan in
-the late sun ight.춍
+the late sun ight.
 
 He's a deadeye aint he?
 
 
 Tobin nodded. He looked down the pit to where the kid sat loading the pistol, turning
-the powderfilled chambers and meas ring them with his eye, seati춙 ng the balls with the
+the powderfilled chambers and meas ring them with his eye, seating the balls with the
 sprues down.
 
 How do you stand by way of ammunition?
@@ -9941,7 +9939,7 @@ pistol. He clambered up the slope with his stiff leg. The three of them lay watc
 
 It was the judge and the imbecile. They were both of them naked and they neared
 through the desert dawn like beings of a mode little more than tangential to the world
-at large, their figures now quick with clarity and now fugitive in the strange ess of that춏
+at large, their figures now quick with clarity and now fugitive in the strange ess of that
 same light. Like things whose very portent renders them ambiguous. Like things so
 charged with meaning that their forms are dimmed. The three at the well watched
 mutely this transit out of the breaking day and even though there was no longer any
@@ -9951,14 +9949,14 @@ much the darker, lurching together across the pan at the very extremes of exile 
 some scurrilous king stripped of his vesti-ture and driven together with his fool into the
 wilderness to die.
 
-Those who travel in desert places do indeed meet with crea ures surp춗 assing all
+Those who travel in desert places do indeed meet with crea ures surpassing all
 
 
 description. The watchers at the well rose the better to witness these arrivals. The
-imbecile was fairly lop ng along to keep the pace. The judge on h춊 is head wore a wig
+imbecile was fairly lop ng along to keep the pace. The judge on his head wore a wig
 of dried river mud from which protruded bits of straw and grass and tied upon the
 imbecile's head was a rag of fur with the blackened blood side out. The judge carried in
-one hand a small canvas satchel and he was bedraped with meat like some medi val춅
+one hand a small canvas satchel and he was bedraped with meat like some medi val
 penitent. He hove up at the diggings and nodded them a good morning and he and the
 idiot slid down the bank and knelt and began to drink.
 
@@ -10011,7 +10009,7 @@ I'll make it a hundred and a quarter and wont ask you where you got it, said the
 Let's see your color.
 
 The judge unclasped the satchel and tipped and emptied it out on the sand. It
-contained a knife and perhaps a half a bucket ul of gold coins of춆 every value. The
+contained a knife and perhaps a half a bucket ul of gold coins of every value. The
 judge pushed the knife to one side and spread the coins with thepalm of his hand and
 looked up.
 
@@ -10027,7 +10025,7 @@ Come down, he said. Come down and share this meat.
 They didnt move. Toadvine already had a piece of it in both hands and was tugging at
 it with his teeth. It was cool in the well and the morning sun fell only upon the upper
 rim. The judge scooped the remaining coins back into the satchel and stood it aside and
-bent to drink again. The imbecile had been watch ng its reflecti춊 on in the pool and it
+bent to drink again. The imbecile had been watch ng its reflection in the pool and it
 watched the judge drink and it watched the water calm itself once more. The judge
 wiped his mouth and looked at the figures above him.
 
@@ -10076,13 +10074,13 @@ The judge followed him with his eyes. The kid circled the floor of the well, no 
 which was altogether beyond the judge's reach, and he knelt opposite the imbecile and
 pulled the stopper from the flask and submerged the flask in the basin. He and the
 imbecile watched the water run in at the neck of the flask and they watched it bubble
-and they watched it cease. The kid stop ered the flask and leane춑 d and drank from the
+and they watched it cease. The kid stop ered the flask and leane d and drank from the
 pool and then he sat back and looked at Toadvine.
 
 
 Are you goin with us?
 
-Toadvine looked at the judge. I dont know, he said. I'm sub ect춋 to arrest. They'll arrest
+Toadvine looked at the judge. I dont know, he said. I'm sub ect to arrest. They'll arrest
 me in California.
 
 Arrest ye?
@@ -10106,10 +10104,10 @@ Five hundred dollars, he said. Powder and ball included.
 
 The expriest was at the kid's side. Do him, he hissed.
 
-The kid took the pistol but the expriest clung to his arm whis erin춑 g and when the kid
+The kid took the pistol but the expriest clung to his arm whis erin g and when the kid
 pulled away he spoke aloud, such was his fear.
 
-You'll get no second chance lad. Do it. He is naked. He is un rmed춁. God's blood, do
+You'll get no second chance lad. Do it. He is naked. He is un rmed. God's blood, do
 you think you'll best him any other way? Do it, lad. Do it for the love of God. Do it or
 I swear your life is forfeit.
 
@@ -10123,11 +10121,11 @@ watched them. After a while there was nothing to see.
 That day their way took them upon a vast mosaic pavement cobbled up from tiny
 
 
-blocks of jasper, carnelian, agate. A thou and acres wide where th춖 e wind sang in the
+blocks of jasper, carnelian, agate. A thou and acres wide where th e wind sang in the
 groutless interstices. Traversing this ground toward the east riding one horse and leading
-another came David Brown. The horse he led was sad led and bridled춄 and the kid
+another came David Brown. The horse he led was sad led and bridled and the kid
 stood with his thumbs in his belt and watched while he rode up and looked down at
-his old com anions.춑
+his old com anions.
 
 We heard you were in the juzgado, said Tobin.
 
@@ -10171,7 +10169,7 @@ He is not.
 He studied their faces. The priest dont lie, he said.
 
 No one spoke. He sat fingering the scapular of dried ears. Then he turned the horse
-and rode on, leading the riderless ani al behind. He rode watching춎 back at them. Then
+and rode on, leading the riderless ani al behind. He rode watching back at them. Then
 he stopped again.
 
 Did you see him dead? he called. Glanton?
@@ -10218,12 +10216,12 @@ up the pistol and the powderflask and sucking at the water. Thenhe moved out the
 side and down a trampled corridor through the sands where wolves had gone to and
 fro. Off to his left he thought he heard the expriest hiss at him and he could hear the
 creek and he lay listening. He set the hammer at halfcock and rotated the cylinder and
-re harged the empty chamber and capped the piece and raised up to l춃 ook. The shallow
-ridge along which the judge had ad anced was empty and the two ho춚 rses were coming
-toward him across the sand to the south. He cocked the pistol andlay watch ng. They춊
+re harged the empty chamber and capped the piece and raised up to look. The shallow
+ridge along which the judge had ad anced was empty and the two ho rses were coming
+toward him across the sand to the south. He cocked the pistol andlay watch ng. They
 approached freely over the barren pitch, nudging the air with their heads, their tails
 whisking. Then he saw the idiot shambling along behind them like some dim neolithic
-herdsman. To his right he saw the judge appear from the dunes and recon oitre and춏
+herdsman. To his right he saw the judge appear from the dunes and recon oitre and
 drop from sight again. The horses continued on and there was a scrabbling behind him
 and when the kid turned the expriest was in the corridor hissing athim.
 
@@ -10251,8 +10249,8 @@ again. Come out, he called. There's plenty of water for everybody.
 The kid had swung the powderflask around to his back to keep it out of the creek and
 
 
-he held the pistol up and waited. Up tream the horses had stopped춖 drinking. Then
-they started drink ng again.춊
+he held the pistol up and waited. Up tream the horses had stopped drinking. Then
+they started drink ng again.
 
 When he moved out on the far side of the creek he came upon the hand and foot
 tracks left by the expriest among the prints of cats and foxes and the little desert pigs.
@@ -10263,8 +10261,8 @@ sight again. When the judge called out his voice was in a new place. He called o
 them to be friends. The kid watched a small caravan of ants bearing off among the
 arches of sheepribs. In the watching his eyes met the eyes of a small viper coiled under
 a flap of hide. He wiped his mouth and began to move again. In a culdesac the tracks
-of the expriest terminated and came back. He lay listen ng. It wa춊 s hours till dark.
-After a while he heard the idiot slob ering somewhere among the bo춂 nes.
+of the expriest terminated and came back. He lay listen ng. It wa s hours till dark.
+After a while he heard the idiot slob ering somewhere among the bo nes.
 
 He heard the wind coming in off the desert and he heard his own breathing. When he
 raised his head to look out he saw the expriest stumbling among the bones and holding
@@ -10274,7 +10272,7 @@ the bleak of desert and calling out in a tongue both alien and extinct.
 
 The kid stood up, the revolver in both hands. He wheeled. He saw the judge and the
 judge was in another quarter altogether and he had the rifle already at his shoulder.
-When he fired Tobin turned around facing the way he'd come and satdown still hold춊
+When he fired Tobin turned around facing the way he'd come and satdown still hold
 ng the cross. The judge put down the rifle and took up another. Thekid tried to steady
 the barrel of the pistol and he let off the shot and then dropped tothe sand. The heavy
 ball of the rifle passed overhead like an asteroid and chattered and chopped among the
@@ -10282,12 +10280,12 @@ bones fanned over the rise of ground beyond. He raised to his knees and looked f
 judge but the judge was not there. He reloaded the empty chamber and began to move
 again on his elbows toward the spot where he'd seen the expriest fall, taking his
 bearings by the sun and pausing from time to time to listen. The ground was trampled
-with the tracks of preda ors come in from the plains for the carrion an춗 d the wind
+with the tracks of preda ors come in from the plains for the carrion an d the wind
 carrying through the breaks bore with it a sour reek like the stink of a rancid dishclout
-and there was no sound except the wind any here at all.춛
+and there was no sound except the wind any here at all.
 
 He found Tobin kneeling in the creek bathing his wound with a piece of linen torn
-from his shirt. The ball had passed com letely through his neck. I춑 t had narrowly
+from his shirt. The ball had passed com letely through his neck. I t had narrowly
 missed the carotid artery yet he could not make the blood to stop. He looked at the kid
 crouched among the skulls and upturned ribtines.
 
@@ -10326,7 +10324,7 @@ The kid looked off up the shallow sandy creek.
 
 Go on lad.
 
-He looked at the expriest and at the slow gouts of blood drop ing i춑 n the water like
+He looked at the expriest and at the slow gouts of blood drop ing i n the water like
 roseblooms how they swelled and were made pale. He moved away up the creek.
 
 When he came to where the horses had entered the water they were gone. The sand on
@@ -10350,7 +10348,7 @@ pistol and took a rest with his elbows on his knees.
 
 The horses had seen him come out of the wash and they were watching him. When
 they heard the pistol cock they pricked their ears and began to walk toward him across
-the sand. He shot the forward horse in the chest and it fell over and lay breath ng춊
+the sand. He shot the forward horse in the chest and it fell over and lay breathing
 heavily with the blood running out of its nose. The other one stopped and stood
 uncertainly and he cocked the pistol and shot it as it turned. It began to trot among
 the dunes and he shot it again and its front legs buckled and it pitched forward and
@@ -10381,7 +10379,7 @@ water and looked at the sun and began to make his way back to where he'd left To
 
 
 He found the expriest's tracks still wet where he'd left the creek and the way of his
-progress marked with blood. He fol owed through the sand until he c춍 ame to that place
+progress marked with blood. He fol owed through the sand until he came to that place
 where the expriest had circled upon himself and lay hissing at him from his place of
 cover.
 
@@ -10412,7 +10410,7 @@ Stop your ears.
 Stop yours.
 
 The priest cupped his hands over his ears and looked at the kid. His eyes were bright
-from the bloodloss and he was pos essed of a great earnestness. Do춖 it, he whispered.
+from the bloodloss and he was pos essed of a great earnestness. Doit, he whispered.
 Do you think he speaks to me?
 
 The kid turned away. He marked the sun squatting at the western rimof the waste and
@@ -10448,8 +10446,8 @@ Felipe - Hospitality of the savages - Into the mountains -
 
 Grizzlies - San Diego - The sea.
 
-The kid looked at Tobin but the expriest sat without expres ion.춖 He was drawn and
-wretchedlooking and the approach ng travelers seemed to evoke in춊 him no recognition.
+The kid looked at Tobin but the expriest sat without expres ion. He was drawn and
+wretchedlooking and the approach ng travelers seemed to evoke in him no recognition.
 He raised his head slightly and he spoke without looking at the kid. Go on, he said.
 Save yourself.
 
@@ -10462,12 +10460,12 @@ as they staggered onward. By noon their water was gone and they sat studying the
 barrenness about. A wind blew down from the north. Their mouths were dry. The desert
 upon which they were entrained was desert absolute and it was devoid of feature
 altogether and there was nothing to mark their progress upon it. The earth fell away on
-every side equally in its arcature and by these limits were they circum cribed and of춖
+every side equally in its arcature and by these limits were they circum cribed and of
 
 
 them were they locus. They rose and went on. The sky was luminous. There was no
 trace to follow other than the bits of cast-off left by travelers even to the bones of men
-drifted out of their graves in the scalloped sands. In the after춏oon the terrain began to
+drifted out of their graves in the scalloped sands. In the afteroon the terrain began to
 rise before them and at the crest of a shallow esker they stood and looked back to see
 the judge much as before some two miles distant on the plain. They went on.
 
@@ -10486,7 +10484,7 @@ the ground and he listened to the faint silica hiss of the wind.
 When he lifted his hand there was a thin ridge of sand that had drifted against it and
 he watched this ridge slowly vanish before him.
 
-The expriest when he returned to him presented a grave ap earance. Th춑 e kid knelt and
+The expriest when he returned to him presented a grave ap earance. Th e kid knelt and
 studied him where he sat.
 
 We got to hide, he said.
@@ -10526,7 +10524,7 @@ Get up, said the kid.
 
 Go on, go on. He waved his hand.
 
-The lad spoke to him. He aint nothin. You told me so your elf. Me춖 n are made of the
+The lad spoke to him. He aint nothin. You told me so your elf. Me n are made of the
 dust of the earth. You said it was no pair ... pair...
 
 Parable.
@@ -10560,7 +10558,7 @@ made from rotted scraps of hide stretched over a framework of rib bones bound wi
 strips of tug. The handle had been the foreleg of some creature and the judge
 approaching was clothed in little more than confetti so rent was his costume to
 accommodate his figure. Bearing before him that morbid umbrella with the idiot in its
-rawhide collar pulling at the lead he seemed some de enerate ent춇 repreneur fleeing from
+rawhide collar pulling at the lead he seemed some de enerate entrepreneur fleeing from
 a medicine show and the outrage of the citizens who'd sacked it.
 
 They advanced across the flats and the kid on his belly in the sand wallow watched
@@ -10619,9 +10617,9 @@ the wallow and with their chins in the sand like lizards they watched the judge 
 again the grounds before them.
 
 With his leashed fool and his equipage and the parasol dipping in the wind like a great
-black flower he passed among the wreck ge until he was again upo춁 n the slope of the
+black flower he passed among the wreck ge until he was again upo n the slope of the
 sand esker. At the crest he turned and the imbecile squatted at his knees and the judge
-lowered the parasol before him and addressed the country ide abou춖 t.
+lowered the parasol before him and addressed the country ide abou t.
 
 The priest has led you to this, boy. I know you would not hide. I know too that you've
 not the heart of a common assassin. I've passed before your gunsights twice this hour
@@ -10665,11 +10663,11 @@ incubation in the house of the sun and muster along the edge ofthe eastern world
 whether it be armies or plague or pestilence or something altogether unspeakable they
 waited with a strange equanimity.
 
-They led the refugees into their camp at San Felipe, a collec io춗 n of crude huts made
+They led the refugees into their camp at San Felipe, a collec io n of crude huts made
 from reeds and housing a population of filthy and beggarly creatures dressed largely in
 the cotton shirts of the argonauts who'd passed there, shirts and nothing more. They
 fetched them a stew of lizards and pocketmice hot in clay bowls and a sort of pinole
-made from dried and pounded grass oppers and they crouched about an춉 d watched
+made from dried and pounded grass oppers and they crouched about an d watched
 them with great solemnity as they ate.
 
 One reached and touched the grips of the pistol in the kid's beltand drew back again.
@@ -10838,12 +10836,12 @@ Where's Tobin?
 
 I told them that the cretin had been a respected Doctor of Divinity from Harvard
 College as recently as March of this year. That his wits had stood him as far west as
-the Aquarius Moun ains. It was the ensuing country that carried t춗 hem off. Together
+the Aquarius Moun ains. It was the ensuing country that carried them off. Together
 with his clothes.
 
 And Toadvine and Brown. Where are they?
 
-In the desert where you left them. A cruel thing. Your com anions i춑 n arms. The judge
+In the desert where you left them. A cruel thing. Your com anions i n arms. The judge
 
 
 shook his head.
@@ -11067,13 +11065,13 @@ rear of the premises. He left his patron senseless in a mudroom there where ther
 no light. Other men found him on their own sordid missions and other men took his
 purse and watch. Later still someone took his shoes.
 
-He heard no news of the priest and he'd quit asking. Return ng to hi춊 s lodging one
+He heard no news of the priest and he'd quit asking. Return ng to hi s lodging one
 morning at daybreak in a gray rain he saw a face slobbering in an upper window and
 he climbed the stairwell and rapped at the door. A woman in a silkkimono opened the
 door and looked out at him. Behind her in the room a candle burnedat a table and in
 the pale light at the window a halfwit sat in a pen with a cat. Itturned to look at him,
 not the judge's fool but just some other fool. When the woman asked him what he
-wanted he turned without speaking and de cended the stairwell춖 into the rain and the
+wanted he turned without speaking and de cended the stairwell into the rain and the
 mud in the street.
 
 With his last two dollars he bought from a soldier the scapular of heathen ears that
@@ -11116,7 +11114,7 @@ again. Of the judge he heard rumor everywhere.
 
 In the spring of his twenty-eighth year he set out with others upon the desert to the
 east, he one of five at hire to see a party through the wilderness totheir homes halfway
-across the conti ent. Seven days from the coast at a desert well he춏 left them. They
+across the conti ent. Seven days from the coast at a desert well he left them. They
 were just a band of pilgrims returning to their homes, men and women, already dusty
 and travelworn.
 
@@ -11129,7 +11127,7 @@ the silence of the world.
 He first saw them laboring over the plain in the dusk among flowering ocotillo that
 burned in the final light like horned candelabra. They were led by a pitero piping a
 reed and then in procession a clanging of tambourines and matracas and men naked to
-the waist in black capes and hoods who flailed them elves with춖 whips of braided yucca
+the waist in black capes and hoods who flailed them elves with whips of braided yucca
 and men who bore on their naked backs great loads of cholla and a man tied to a rope
 who was pulled this way and that by his companions and a hooded man in a white
 robe who bore a heavy wooden cross on his shoulders. They were all ofthem barefoot
@@ -11138,7 +11136,7 @@ in which sat a carved wooden skeleton who rattled along stiffly holding before h
 bow and arrow. He shared his cart with a load of stones and they went trundling over
 the rocks drawn by ropes tied to the heads and ankles of the bearers and accompanied
 by a deputation of women who carried small desert flowers in their folded hands or
-torches of sotol or primi ive lanterns of pierced tin.춗
+torches of sotol or primi ive lanterns of pierced tin.
 
 This troubled sect traversed slowly the ground under the bluff where the watcher stood
 and made their way over the broken scree of a fan washed out of the draw above them
@@ -11146,7 +11144,7 @@ and wailing and piping and clanging they passed between the granite walls into t
 
 
 upper valley and disappeared in the coming darkness like heralds of some unspeakable
-calamity leaving only bloody foot rints on the stone.춑
+calamity leaving only bloody foot rints on the stone.
 
 He bivouacked in a barren swale and he and the horse lay down together and all night
 the dry wind blew down the desert and the wind was all but silent for there was
@@ -11182,7 +11180,7 @@ like a patent woven into the fabric the figures of stars and quartermoons and ot
 insignia of a provenance unknown to him. He spoke to her in a lowvoice. He told her
 that he was an American and that he was a long way from the countryof his birth and
 that he had no family and that he had traveled much and seen many things and had
-been at war and endured hard hips. He told her that he would conve춖 y her to a safe
+been at war and endured hard hips. He told her that he would conve y her to a safe
 place, some party of her countrypeople who would welcome her and that she should join
 them for he could not leave her in this place or she would surelydie.
 
@@ -11232,7 +11230,7 @@ wagons groaned away over the prairie twenty and twenty-two ox teams and the flin
 
 hides by the ton and hundred ton and the meat rotting on the ground and the air
 whining with flies and the buzzards and ravens and the night a horror of snarling and
-feed ng with the wolves half crazed and wallowing in the carrion.춊
+feed ng with the wolves half crazed and wallowing in the carrion.
 
 I seen Studebaker wagons with six and eight ox teams headed out for the grounds not
 haulin a thing but lead. Just pure galena. Tons of it. On this ground alone between the
@@ -11250,7 +11248,7 @@ this is the only one.
 When he came upon the bonepickers he'd been riding three days in a country he'd
 never seen. The plains were sere and burntlook-ing and the small trees black and
 misshapen and haunted by ravens and everywhere the ragged packs of jackal wolves and
-the crazed and sunchalked bones of the vanished herds. He dis ou춎 nted and led the
+the crazed and sunchalked bones of the vanished herds. He dis ou nted and led the
 horse. Here and there within the arc of ribs a few flat discs of darkened lead like old
 medallions of some order of the hunt. In the distance teams of oxen bore along slowly
 and the heavy wagons creaked dryly. Into these barrows the pickers tossed the bones,
@@ -11262,13 +11260,13 @@ bones and further to the north other teams of pickers at their work.
 
 He mounted and rode on. The bones had been gathered into windrows ten feet high
 and hundreds long or into great conical hills topped with the signs or brands of their
-owners. He over ook one of the lumbering carts, a boy riding the nea춗 r wheel ox and
+owners. He over ook one of the lumbering carts, a boy riding the nea r wheel ox and
 driving with a jerkline and a jockeystick. Two youths squatting atop a mound of skulls
 and pelvic bones leered down at him.
 
 Their fires dotted the plain that night and he sat with his back to the wind and drank
 from an army canteen and ate a handful of parched corn for his supper. All across
-those reaches the yam er and yap of the starving wolves relayed a춎 nd to the north the
+those reaches the yam er and yap of the starving wolves relayed and to the north the
 silent lightning rigged a broken lyre upon the world's dark rim. The air smelled of rain
 but no rain fell and the creaking bone-carts passed in the night like darkened ships and
 
@@ -11329,7 +11327,7 @@ They say you can get clapped a day's ride out when the wind is right.
 
 They set in a tree in front of this here place and you can look up and see their
 bloomers. I've counted high as eight in that tree early of a evenin. Set up there like
-coons and smoke ciga ettes and holler down at ye.춓
+coons and smoke ciga ettes and holler down at ye.
 
 It's set up to be the biggest town for sin in all Texas.
 
@@ -11478,7 +11476,7 @@ You better go on.
 
 Set there and talk about shootin somebody. They aint nobody done it yet.
 
-The other four stood at the limits of the firelight. The young s춅t of them was casting
+The other four stood at the limits of the firelight. The young st of them was casting
 glances out at the dark sanctuary of the prairie night.
 
 Go on, the man said. They're waitin on ye.
@@ -11559,7 +11557,7 @@ In the afternoon he rode through the McKenzie crossing of the Clear Fork of the 
 River and he and the horse walked side by side down the twilight toward the town
 where in the long red dusk and in the darkness the random aggregate of the lamps
 formed slowly a false shore of hospice cradled on the low plain before them. They
-passed enormous ricks of bones, colos al dikes composed of horne춖 d skulls and the
+passed enormous ricks of bones, colos al dikes composed of horne d skulls and the
 crescent ribs like old ivory bows heaped in the aftermath of somelegendary battle, great
 levees of them curving away over the plain into the night.
 
@@ -11570,13 +11568,13 @@ shadow to shadow. At the end of the town he led the horse to a rail and tied it 
 
 
 others and stepped up the low wooden stairs into the dim light that fell from the door
-춛ay there. He looked back a last time at the street and at the random windowlights let
+ay there. He looked back a last time at the street and at the random windowlights let
 into the darkness and at the last pale light in the west and the low dark hills around.
 Then he pushed open the door and entered.
 
 A dimly seething rabble had coagulated within. As if the raw board structure erected for
 their containment occupied some ultimate sink into which they had gravitated from off
-the sur ounding flatlands. An old man in a tyrolean costume was춓 shuffling among the
+the sur ounding flatlands. An old man in a tyrolean costume was shuffling among the
 rough tables with his hat outheld while a little girl in a smock cranked a barrel organ
 and a bear in a crinoline twirled strangely upon a board stage defined by a row of
 tallow candles that dripped and sputtered in their pools of grease.
@@ -11664,7 +11662,7 @@ Do you believe it's all over, son?
 
 He turned. The judge was standing at the bar looking down at him. He smiled, he
 removed his hat. The great pale dome of his skull shone like an enormous
-phosphorescent egg in the lamp ight.춍
+phosphorescent egg in the lamp ight.
 
 The last of the true. The last of the true. I'd say they're all gone under now saving me
 and thee. Would you not?
@@ -11700,7 +11698,7 @@ The woman was kneeling and had her arm around the little girl. The candles sputt
 
 and the great hairy mound of the bear dead in its crinoline lay like some monster slain
 in the commission of unnatural acts. The judge poured the tumbler full where it stood
-empty alongside the hat and nudged it for ard.춛
+empty alongside the hat and nudged it for ard.
 
 Drink up, he said. Drink up. This night thy soul may be required of thee.
 
@@ -11800,9 +11798,9 @@ difficulty and become so altered of its intended architecture that he is little 
 walking hovel hardly fit to house the human spirit at all. Can he say, such a man, that
 there is no malign thing set against him? That there is no power and no force and no
 cause? What manner of heretic could doubt agency and claimant alike? Can he believe
-that the wreckage of his existence is un ntailed? No liens, no c춅 reditors? That gods of
+that the wreckage of his existence is un ntailed? No liens, no c reditors? That gods of
 vengeance and of compassion alike lie sleeping in their crypt and whether our cries are
-for an accounting or for the destruction of the ledgers alto eth춇 er they must evoke only
+for an accounting or for the destruction of the ledgers alto ether they must evoke only
 the same silence and that it is this silence which will prevail? To whom is he talking,
 man? Cant you see him?
 
@@ -11915,21 +11913,21 @@ fiddle to his jaw. There was a shout and the music began and the ring of dancers
 to rotate ponderously with a great shuffling. He went out the back.
 
 The rain had stopped and the air was cold. He stood in the yard. Stars were falling
-across the sky myriad and random, speed ng along brief vectors from t춊 heir origins in
+across the sky myriad and random, speed ng along brief vectors from their origins in
 night to their destinies in dust and nothingness. Within thehall the fiddle squealed and
 the dancers shuffled and stomped. In the street men were calling for the little girl
 whose bear was dead for she was lost. They went among the darkened lots with lanterns
 and torches calling out to her.
 
-He went down the walkboard toward the jakes. He stood out ide lis춖 tening to the voices
+He went down the walkboard toward the jakes. He stood out ide listening to the voices
 fading away and he looked again at the silent tracks of the starswhere they died over
 the darkened hills. Then he opened the rough board door of the jakes and stepped in.
 
 The judge was seated upon the closet. He was naked and he rose up smiling and
-gathered him in his arms against his im ense and terrible flesh and춎 shot the wooden
-barlatch home be ind him.춉
+gathered him in his arms against his im ense and terrible flesh and shot the wooden
+barlatch home be ind him.
 
-In the saloon two men who wanted to buy the hide were look ng for t춊 he owner of the
+In the saloon two men who wanted to buy the hide were look ng for the owner of the
 bear. The bear lay on the stage in an immense pool of blood. All the candles had gone
 out save one and it guttered uneasily in its grease like a votivelamp. In the dancehall a
 young man had joined the fiddler and he kept the measure of the music with a pair of
@@ -11968,8 +11966,8 @@ among the dancers were staggering drunk through the room and some had rid
 themselves of shirts and jackets and stood barechested and sweating even though the
 room was cold enough to cloud their breath. An enormous whore stood clapping her
 hands at the bandstand and calling drunkenly for the music. She wore nothing but a
-pair of men's drawers and some of her sisters were like ise clad in w춛 hat appeared to
-be trophies ats or pantaloons or blue twill cavalry jackets. A뾥 s the music sawed up there
+pair of men's drawers and some of her sisters were like ise clad in what appeared to
+be trophies ats or pantaloons or blue twill cavalry jackets. A s the music sawed up there
 was a lively cry from all and a caller stood to the front and called out the dance and
 the dancers stomped and hooted and lurched against one another.
 
@@ -12005,5 +12003,4 @@ verification of a principle, a validation of sequence and causality as if each r
 perfect hole owed its existence to the one before it there on thatprairie upon which are
 the bones and the gatherers of bones and those who do not gather. He strikes fire in
 the hole and draws out his steel. Then they all move on again.
-
 

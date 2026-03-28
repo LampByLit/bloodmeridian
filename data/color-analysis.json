@@ -2,11 +2,11 @@
   "meta": {
     "sourcePath": "media/bloodmeridian.md",
     "tier": "A",
-    "tierAHits": 426,
+    "tierAHits": 428,
     "tierBHits": 0,
-    "generatedAt": "2026-03-22T03:05:28.600Z",
-    "sentenceCount": 7680,
-    "totalHits": 426,
+    "generatedAt": "2026-03-28T23:38:54.528Z",
+    "sentenceCount": 7717,
+    "totalHits": 428,
     "notes": "Tier A: explicit lemmas. Tier B: gloss metonyms where they do not overlap Tier A. Name-like uses: data/name-exclusions.json + Title Case. Gold/silver money: data/money-metal-exclusions.json. Material/fruit/other homonyms: data/homonym-exclusions.json. Verbs: data/verb-homograph-exclusions.json.",
     "nameExclusions": {
       "phraseCount": 8
@@ -59,23 +59,23 @@
   ],
   "gloss": null,
   "byFamily": {
-    "neutral": 274,
+    "neutral": 276,
     "red": 55,
-    "orange": 5,
+    "orange": 4,
     "yellow": 16,
     "green": 18,
     "blue": 54,
     "indigo": 2,
-    "violet": 2
+    "violet": 3
   },
   "byFamilyWords": {
     "neutral": {
       "blackness": 5,
       "black": 92,
       "gray": 43,
+      "white": 70,
       "steel": 7,
       "bone": 16,
-      "white": 68,
       "sun bleached": 1,
       "brown": 4,
       "brown-skinned": 1,
@@ -106,7 +106,7 @@
       "reddening": 1
     },
     "orange": {
-      "rust": 2,
+      "rust": 1,
       "orange": 2,
       "auburn": 1
     },
@@ -132,6 +132,7 @@
       "indigo": 2
     },
     "violet": {
+      "lavender": 1,
       "purple": 2
     }
   },
@@ -139,14 +140,14 @@
     "blackness": 5,
     "black": 92,
     "gray": 43,
+    "white": 70,
     "blue": 43,
     "steel": 7,
     "light blue": 1,
     "bone": 16,
-    "rust": 2,
+    "rust": 1,
     "green": 17,
     "bloodred": 1,
-    "white": 68,
     "red": 28,
     "iron blue": 1,
     "yellow": 11,
@@ -162,6 +163,7 @@
     "ruddy": 1,
     "ashen": 1,
     "sable": 1,
+    "lavender": 1,
     "silver": 3,
     "indigo": 2,
     "pinkish": 1,
@@ -232,7 +234,18 @@
       "note": ""
     },
     {
-      "sentenceId": 185,
+      "sentenceId": 65,
+      "word": "white",
+      "family": "neutral",
+      "start": 26,
+      "end": 31,
+      "sentence": "Egrets in their rookeries white as candles among the moss.",
+      "tier": "A",
+      "contextAfter": "as candles among the moss.",
+      "note": ""
+    },
+    {
+      "sentenceId": 187,
       "word": "black",
       "family": "neutral",
       "start": 29,
@@ -243,7 +256,7 @@
       "note": ""
     },
     {
-      "sentenceId": 282,
+      "sentenceId": 284,
       "word": "blue",
       "family": "blue",
       "start": 29,
@@ -254,7 +267,7 @@
       "note": ""
     },
     {
-      "sentenceId": 354,
+      "sentenceId": 356,
       "word": "black",
       "family": "neutral",
       "start": 72,
@@ -265,7 +278,7 @@
       "note": ""
     },
     {
-      "sentenceId": 358,
+      "sentenceId": 360,
       "word": "steel",
       "family": "neutral",
       "start": 35,
@@ -276,7 +289,7 @@
       "note": ""
     },
     {
-      "sentenceId": 467,
+      "sentenceId": 469,
       "word": "black",
       "family": "neutral",
       "start": 46,
@@ -287,7 +300,7 @@
       "note": ""
     },
     {
-      "sentenceId": 469,
+      "sentenceId": 471,
       "word": "light blue",
       "family": "blue",
       "start": 87,
@@ -298,7 +311,7 @@
       "note": ""
     },
     {
-      "sentenceId": 474,
+      "sentenceId": 476,
       "word": "bone",
       "family": "neutral",
       "start": 47,
@@ -309,7 +322,7 @@
       "note": ""
     },
     {
-      "sentenceId": 502,
+      "sentenceId": 504,
       "word": "rust",
       "family": "orange",
       "start": 86,
@@ -320,7 +333,7 @@
       "note": ""
     },
     {
-      "sentenceId": 505,
+      "sentenceId": 507,
       "word": "blackness",
       "family": "neutral",
       "start": 91,
@@ -331,7 +344,7 @@
       "note": ""
     },
     {
-      "sentenceId": 571,
+      "sentenceId": 573,
       "word": "green",
       "family": "green",
       "start": 160,
@@ -342,7 +355,7 @@
       "note": ""
     },
     {
-      "sentenceId": 574,
+      "sentenceId": 576,
       "word": "bloodred",
       "family": "red",
       "start": 50,
@@ -353,7 +366,7 @@
       "note": ""
     },
     {
-      "sentenceId": 575,
+      "sentenceId": 577,
       "word": "white",
       "family": "neutral",
       "start": 14,
@@ -364,7 +377,7 @@
       "note": ""
     },
     {
-      "sentenceId": 577,
+      "sentenceId": 579,
       "word": "white",
       "family": "neutral",
       "start": 74,
@@ -375,7 +388,7 @@
       "note": ""
     },
     {
-      "sentenceId": 597,
+      "sentenceId": 599,
       "word": "white",
       "family": "neutral",
       "start": 66,
@@ -386,7 +399,7 @@
       "note": ""
     },
     {
-      "sentenceId": 714,
+      "sentenceId": 716,
       "word": "bone",
       "family": "neutral",
       "start": 96,
@@ -397,7 +410,7 @@
       "note": ""
     },
     {
-      "sentenceId": 741,
+      "sentenceId": 743,
       "word": "black",
       "family": "neutral",
       "start": 33,
@@ -408,7 +421,7 @@
       "note": ""
     },
     {
-      "sentenceId": 749,
+      "sentenceId": 751,
       "word": "black",
       "family": "neutral",
       "start": 4,
@@ -419,7 +432,7 @@
       "note": ""
     },
     {
-      "sentenceId": 781,
+      "sentenceId": 783,
       "word": "white",
       "family": "neutral",
       "start": 4,
@@ -430,7 +443,7 @@
       "note": ""
     },
     {
-      "sentenceId": 806,
+      "sentenceId": 808,
       "word": "black",
       "family": "neutral",
       "start": 59,
@@ -441,7 +454,7 @@
       "note": ""
     },
     {
-      "sentenceId": 838,
+      "sentenceId": 840,
       "word": "white",
       "family": "neutral",
       "start": 9,
@@ -452,7 +465,7 @@
       "note": ""
     },
     {
-      "sentenceId": 838,
+      "sentenceId": 840,
       "word": "white",
       "family": "neutral",
       "start": 42,
@@ -463,7 +476,7 @@
       "note": ""
     },
     {
-      "sentenceId": 860,
+      "sentenceId": 862,
       "word": "green",
       "family": "green",
       "start": 83,
@@ -474,18 +487,18 @@
       "note": ""
     },
     {
-      "sentenceId": 864,
+      "sentenceId": 866,
       "word": "green",
       "family": "green",
       "start": 28,
       "end": 33,
-      "sentence": "In the courtyard there were green plants growing and they were freshly watered and steam ng.춊 The captain's man strode down the long balcony and rapped sharply at the door at the end.",
+      "sentence": "In the courtyard there were green plants growing and they were freshly watered and steam ng.",
       "tier": "A",
-      "contextAfter": "plants growing and they were freshly watered and steam ng.춊",
+      "contextAfter": "plants growing and they were freshly watered and steam ng.",
       "note": ""
     },
     {
-      "sentenceId": 867,
+      "sentenceId": 870,
       "word": "black",
       "family": "neutral",
       "start": 49,
@@ -496,7 +509,7 @@
       "note": ""
     },
     {
-      "sentenceId": 874,
+      "sentenceId": 877,
       "word": "red",
       "family": "red",
       "start": 108,
@@ -507,7 +520,7 @@
       "note": ""
     },
     {
-      "sentenceId": 885,
+      "sentenceId": 888,
       "word": "gray",
       "family": "neutral",
       "start": 7,
@@ -518,7 +531,7 @@
       "note": ""
     },
     {
-      "sentenceId": 927,
+      "sentenceId": 930,
       "word": "white",
       "family": "neutral",
       "start": 11,
@@ -529,7 +542,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1099,
+      "sentenceId": 1102,
       "word": "blue",
       "family": "blue",
       "start": 53,
@@ -540,18 +553,18 @@
       "note": ""
     },
     {
-      "sentenceId": 1109,
+      "sentenceId": 1112,
       "word": "blue",
       "family": "blue",
       "start": 139,
       "end": 143,
-      "sentence": "With immigrants and Texans and Mexicans and with slaves and Lipan Indians and deputations of Karankawas tall and austere, their faces dyed blue and their hands locked about the shafts of their sixfoot spears, all but naked savages who with their painted skins and their whispered taste for human flesh seemed out age춓 ous presences even in that fabled company.",
+      "sentence": "With immigrants and Texans and Mexicans and with slaves and Lipan Indians and deputations of Karankawas tall and austere, their faces dyed blue and their hands locked about the shafts of their sixfoot spears, all but naked savages who with their painted skins and their whispered taste for human flesh seemed out age ous presences even in that fabled company.",
       "tier": "A",
       "contextAfter": "and their hands locked about the shafts of their sixfoot",
       "note": ""
     },
     {
-      "sentenceId": 1152,
+      "sentenceId": 1155,
       "word": "black",
       "family": "neutral",
       "start": 34,
@@ -562,7 +575,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1194,
+      "sentenceId": 1197,
       "word": "gray",
       "family": "neutral",
       "start": 44,
@@ -573,7 +586,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1230,
+      "sentenceId": 1233,
       "word": "iron blue",
       "family": "blue",
       "start": 27,
@@ -584,7 +597,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1235,
+      "sentenceId": 1238,
       "word": "red",
       "family": "red",
       "start": 288,
@@ -595,18 +608,18 @@
       "note": ""
     },
     {
-      "sentenceId": 1239,
+      "sentenceId": 1242,
       "word": "yellow",
       "family": "yellow",
       "start": 58,
       "end": 64,
-      "sentence": "Now wolves had come to follow them, great pale lobos with yellow eyes that trotted neat of foot or squatted in the shimmer ng heat to watch them wh춊 ere they made their noon halt.",
+      "sentence": "Now wolves had come to follow them, great pale lobos with yellow eyes that trotted neat of foot or squatted in the shimmer ng heat to watch them where they made their noon halt.",
       "tier": "A",
       "contextAfter": "eyes that trotted neat of foot or squatted in the",
       "note": ""
     },
     {
-      "sentenceId": 1244,
+      "sentenceId": 1247,
       "word": "green",
       "family": "green",
       "start": 175,
@@ -617,29 +630,29 @@
       "note": ""
     },
     {
-      "sentenceId": 1255,
+      "sentenceId": 1258,
       "word": "white",
       "family": "neutral",
       "start": 57,
       "end": 62,
-      "sentence": "They saw halfburied skeletons of mules with the bones so white and polished they seemed incandescent even in that blazing heat and they saw panniers and packsaddles and the bones of men and they saw a mule entire, the dried and black ned carcass hard as iron.춅 They rode on.",
+      "sentence": "They saw halfburied skeletons of mules with the bones so white and polished they seemed incandescent even in that blazing heat and they saw panniers and packsaddles and the bones of men and they saw a mule entire, the dried and black ned carcass hard as iron.",
       "tier": "A",
       "contextAfter": "and polished they seemed incandescent even in that blazing heat",
       "note": ""
     },
     {
-      "sentenceId": 1255,
+      "sentenceId": 1258,
       "word": "black",
       "family": "neutral",
       "start": 228,
       "end": 233,
-      "sentence": "They saw halfburied skeletons of mules with the bones so white and polished they seemed incandescent even in that blazing heat and they saw panniers and packsaddles and the bones of men and they saw a mule entire, the dried and black ned carcass hard as iron.춅 They rode on.",
+      "sentence": "They saw halfburied skeletons of mules with the bones so white and polished they seemed incandescent even in that blazing heat and they saw panniers and packsaddles and the bones of men and they saw a mule entire, the dried and black ned carcass hard as iron.",
       "tier": "A",
-      "contextAfter": "ned carcass hard as iron.춅 They rode on.",
+      "contextAfter": "ned carcass hard as iron.",
       "note": ""
     },
     {
-      "sentenceId": 1256,
+      "sentenceId": 1260,
       "word": "white",
       "family": "neutral",
       "start": 4,
@@ -650,7 +663,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1263,
+      "sentenceId": 1267,
       "word": "blue",
       "family": "blue",
       "start": 17,
@@ -661,7 +674,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1265,
+      "sentenceId": 1269,
       "word": "white",
       "family": "neutral",
       "start": 55,
@@ -672,7 +685,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1270,
+      "sentenceId": 1274,
       "word": "blue",
       "family": "blue",
       "start": 13,
@@ -683,7 +696,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1271,
+      "sentenceId": 1275,
       "word": "black",
       "family": "neutral",
       "start": 118,
@@ -694,7 +707,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1278,
+      "sentenceId": 1282,
       "word": "blue",
       "family": "blue",
       "start": 85,
@@ -705,7 +718,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1278,
+      "sentenceId": 1282,
       "word": "pale blue",
       "family": "blue",
       "start": 204,
@@ -716,7 +729,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1279,
+      "sentenceId": 1283,
       "word": "bluish",
       "family": "blue",
       "start": 99,
@@ -727,7 +740,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1279,
+      "sentenceId": 1283,
       "word": "black",
       "family": "neutral",
       "start": 179,
@@ -738,7 +751,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1280,
+      "sentenceId": 1284,
       "word": "blue",
       "family": "blue",
       "start": 85,
@@ -749,7 +762,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1289,
+      "sentenceId": 1293,
       "word": "white",
       "family": "neutral",
       "start": 141,
@@ -760,7 +773,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1290,
+      "sentenceId": 1294,
       "word": "bone",
       "family": "neutral",
       "start": 0,
@@ -771,7 +784,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1291,
+      "sentenceId": 1295,
       "word": "sun bleached",
       "family": "neutral",
       "start": 58,
@@ -782,7 +795,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1291,
+      "sentenceId": 1295,
       "word": "brown",
       "family": "neutral",
       "start": 111,
@@ -793,7 +806,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1330,
+      "sentenceId": 1334,
       "word": "white",
       "family": "neutral",
       "start": 99,
@@ -804,7 +817,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1347,
+      "sentenceId": 1351,
       "word": "crimson",
       "family": "red",
       "start": 20,
@@ -815,7 +828,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1348,
+      "sentenceId": 1352,
       "word": "blue",
       "family": "blue",
       "start": 133,
@@ -826,7 +839,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1393,
+      "sentenceId": 1397,
       "word": "yellow",
       "family": "yellow",
       "start": 60,
@@ -837,40 +850,40 @@
       "note": ""
     },
     {
-      "sentenceId": 1401,
+      "sentenceId": 1405,
       "word": "white",
       "family": "neutral",
       "start": 359,
       "end": 364,
-      "sentence": "A legion of horribles, hundreds in number, half naked or clad in costumes attic or biblical or wardrobed out of a fevered dream with the skins of animals and silk finery and pieces of uniform still tracked with the blood of prior owners, coats of slain dragoons, frogged and braided cavalry jackets, one in a stovepipe hat and one with an umbrella and one in white stockings and a bloodstained weddingveil and some in headgear of cranefeathers or rawhide helmets that bore the horns of bull or buffalo and one in a pigeontailed coat worn back ards and otherwise naked an춛 d one in the armor of a Spanish conquistador, the breastplate and pauldrons deeply dented with old blows of mace or sabre done in another country by men whose very bones were dust and many with their braids spliced up with the hair of other beasts until they trailed upon the ground and their horses' ears and tails worked with bits of brightly colored cloth and one whose horse's whole head was painted crimson red and all the horsemen's faces gaudy and grotesque with daubings like a company of mounted clowns, death hilarious, all howling in a barbarous tongue and riding down upon them like a horde from a hell more horrible yet than the brim tone land of Christian reckoning, sc춖 reeching and yammering and clothed in smoke like those vaporous beings in regions beyond right knowing where the eye wanders and the lip jerks and drools.",
+      "sentence": "A legion of horribles, hundreds in number, half naked or clad in costumes attic or biblical or wardrobed out of a fevered dream with the skins of animals and silk finery and pieces of uniform still tracked with the blood of prior owners, coats of slain dragoons, frogged and braided cavalry jackets, one in a stovepipe hat and one with an umbrella and one in white stockings and a bloodstained weddingveil and some in headgear of cranefeathers or rawhide helmets that bore the horns of bull or buffalo and one in a pigeontailed coat worn back ards and otherwise naked an d one in the armor of a Spanish conquistador, the breastplate and pauldrons deeply dented with old blows of mace or sabre done in another country by men whose very bones were dust and many with their braids spliced up with the hair of other beasts until they trailed upon the ground and their horses' ears and tails worked with bits of brightly colored cloth and one whose horse's whole head was painted crimson red and all the horsemen's faces gaudy and grotesque with daubings like a company of mounted clowns, death hilarious, all howling in a barbarous tongue and riding down upon them like a horde from a hell more horrible yet than the brim tone land of Christian reckoning, screeching and yammering and clothed in smoke like those vaporous beings in regions beyond right knowing where the eye wanders and the lip jerks and drools.",
       "tier": "A",
       "contextAfter": "stockings and a bloodstained weddingveil and some in headgear of",
       "note": ""
     },
     {
-      "sentenceId": 1401,
+      "sentenceId": 1405,
       "word": "crimson",
       "family": "red",
-      "start": 976,
-      "end": 983,
-      "sentence": "A legion of horribles, hundreds in number, half naked or clad in costumes attic or biblical or wardrobed out of a fevered dream with the skins of animals and silk finery and pieces of uniform still tracked with the blood of prior owners, coats of slain dragoons, frogged and braided cavalry jackets, one in a stovepipe hat and one with an umbrella and one in white stockings and a bloodstained weddingveil and some in headgear of cranefeathers or rawhide helmets that bore the horns of bull or buffalo and one in a pigeontailed coat worn back ards and otherwise naked an춛 d one in the armor of a Spanish conquistador, the breastplate and pauldrons deeply dented with old blows of mace or sabre done in another country by men whose very bones were dust and many with their braids spliced up with the hair of other beasts until they trailed upon the ground and their horses' ears and tails worked with bits of brightly colored cloth and one whose horse's whole head was painted crimson red and all the horsemen's faces gaudy and grotesque with daubings like a company of mounted clowns, death hilarious, all howling in a barbarous tongue and riding down upon them like a horde from a hell more horrible yet than the brim tone land of Christian reckoning, sc춖 reeching and yammering and clothed in smoke like those vaporous beings in regions beyond right knowing where the eye wanders and the lip jerks and drools.",
+      "start": 975,
+      "end": 982,
+      "sentence": "A legion of horribles, hundreds in number, half naked or clad in costumes attic or biblical or wardrobed out of a fevered dream with the skins of animals and silk finery and pieces of uniform still tracked with the blood of prior owners, coats of slain dragoons, frogged and braided cavalry jackets, one in a stovepipe hat and one with an umbrella and one in white stockings and a bloodstained weddingveil and some in headgear of cranefeathers or rawhide helmets that bore the horns of bull or buffalo and one in a pigeontailed coat worn back ards and otherwise naked an d one in the armor of a Spanish conquistador, the breastplate and pauldrons deeply dented with old blows of mace or sabre done in another country by men whose very bones were dust and many with their braids spliced up with the hair of other beasts until they trailed upon the ground and their horses' ears and tails worked with bits of brightly colored cloth and one whose horse's whole head was painted crimson red and all the horsemen's faces gaudy and grotesque with daubings like a company of mounted clowns, death hilarious, all howling in a barbarous tongue and riding down upon them like a horde from a hell more horrible yet than the brim tone land of Christian reckoning, screeching and yammering and clothed in smoke like those vaporous beings in regions beyond right knowing where the eye wanders and the lip jerks and drools.",
       "tier": "A",
       "contextAfter": "red and all the horsemen's faces gaudy and grotesque with",
       "note": ""
     },
     {
-      "sentenceId": 1401,
+      "sentenceId": 1405,
       "word": "red",
       "family": "red",
-      "start": 984,
-      "end": 987,
-      "sentence": "A legion of horribles, hundreds in number, half naked or clad in costumes attic or biblical or wardrobed out of a fevered dream with the skins of animals and silk finery and pieces of uniform still tracked with the blood of prior owners, coats of slain dragoons, frogged and braided cavalry jackets, one in a stovepipe hat and one with an umbrella and one in white stockings and a bloodstained weddingveil and some in headgear of cranefeathers or rawhide helmets that bore the horns of bull or buffalo and one in a pigeontailed coat worn back ards and otherwise naked an춛 d one in the armor of a Spanish conquistador, the breastplate and pauldrons deeply dented with old blows of mace or sabre done in another country by men whose very bones were dust and many with their braids spliced up with the hair of other beasts until they trailed upon the ground and their horses' ears and tails worked with bits of brightly colored cloth and one whose horse's whole head was painted crimson red and all the horsemen's faces gaudy and grotesque with daubings like a company of mounted clowns, death hilarious, all howling in a barbarous tongue and riding down upon them like a horde from a hell more horrible yet than the brim tone land of Christian reckoning, sc춖 reeching and yammering and clothed in smoke like those vaporous beings in regions beyond right knowing where the eye wanders and the lip jerks and drools.",
+      "start": 983,
+      "end": 986,
+      "sentence": "A legion of horribles, hundreds in number, half naked or clad in costumes attic or biblical or wardrobed out of a fevered dream with the skins of animals and silk finery and pieces of uniform still tracked with the blood of prior owners, coats of slain dragoons, frogged and braided cavalry jackets, one in a stovepipe hat and one with an umbrella and one in white stockings and a bloodstained weddingveil and some in headgear of cranefeathers or rawhide helmets that bore the horns of bull or buffalo and one in a pigeontailed coat worn back ards and otherwise naked an d one in the armor of a Spanish conquistador, the breastplate and pauldrons deeply dented with old blows of mace or sabre done in another country by men whose very bones were dust and many with their braids spliced up with the hair of other beasts until they trailed upon the ground and their horses' ears and tails worked with bits of brightly colored cloth and one whose horse's whole head was painted crimson red and all the horsemen's faces gaudy and grotesque with daubings like a company of mounted clowns, death hilarious, all howling in a barbarous tongue and riding down upon them like a horde from a hell more horrible yet than the brim tone land of Christian reckoning, screeching and yammering and clothed in smoke like those vaporous beings in regions beyond right knowing where the eye wanders and the lip jerks and drools.",
       "tier": "A",
       "contextAfter": "and all the horsemen's faces gaudy and grotesque with daubings",
       "note": ""
     },
     {
-      "sentenceId": 1405,
+      "sentenceId": 1409,
       "word": "gray",
       "family": "neutral",
       "start": 74,
@@ -881,7 +894,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1412,
+      "sentenceId": 1416,
       "word": "white",
       "family": "neutral",
       "start": 1071,
@@ -892,7 +905,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1413,
+      "sentenceId": 1417,
       "word": "bone",
       "family": "neutral",
       "start": 120,
@@ -903,7 +916,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1447,
+      "sentenceId": 1451,
       "word": "gray",
       "family": "neutral",
       "start": 89,
@@ -914,7 +927,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1449,
+      "sentenceId": 1453,
       "word": "black",
       "family": "neutral",
       "start": 19,
@@ -925,7 +938,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1457,
+      "sentenceId": 1461,
       "word": "black",
       "family": "neutral",
       "start": 6,
@@ -936,7 +949,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1460,
+      "sentenceId": 1464,
       "word": "black",
       "family": "neutral",
       "start": 76,
@@ -947,7 +960,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1462,
+      "sentenceId": 1466,
       "word": "bone",
       "family": "neutral",
       "start": 172,
@@ -958,7 +971,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1479,
+      "sentenceId": 1483,
       "word": "black",
       "family": "neutral",
       "start": 100,
@@ -969,7 +982,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1535,
+      "sentenceId": 1539,
       "word": "black",
       "family": "neutral",
       "start": 38,
@@ -980,7 +993,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1541,
+      "sentenceId": 1545,
       "word": "black",
       "family": "neutral",
       "start": 88,
@@ -991,7 +1004,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1550,
+      "sentenceId": 1554,
       "word": "golden",
       "family": "yellow",
       "start": 117,
@@ -1002,7 +1015,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1553,
+      "sentenceId": 1557,
       "word": "burgundy",
       "family": "red",
       "start": 142,
@@ -1013,7 +1026,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1554,
+      "sentenceId": 1558,
       "word": "dark red",
       "family": "red",
       "start": 267,
@@ -1024,7 +1037,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1563,
+      "sentenceId": 1567,
       "word": "white",
       "family": "neutral",
       "start": 42,
@@ -1035,7 +1048,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1584,
+      "sentenceId": 1588,
       "word": "green",
       "family": "green",
       "start": 160,
@@ -1046,7 +1059,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1588,
+      "sentenceId": 1592,
       "word": "blue",
       "family": "blue",
       "start": 48,
@@ -1057,7 +1070,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1588,
+      "sentenceId": 1592,
       "word": "white",
       "family": "neutral",
       "start": 195,
@@ -1068,7 +1081,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1588,
+      "sentenceId": 1592,
       "word": "blue",
       "family": "blue",
       "start": 213,
@@ -1079,7 +1092,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1699,
+      "sentenceId": 1703,
       "word": "blue",
       "family": "blue",
       "start": 61,
@@ -1090,7 +1103,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1700,
+      "sentenceId": 1704,
       "word": "black",
       "family": "neutral",
       "start": 106,
@@ -1101,7 +1114,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1702,
+      "sentenceId": 1706,
       "word": "pale blue",
       "family": "blue",
       "start": 88,
@@ -1112,7 +1125,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1714,
+      "sentenceId": 1718,
       "word": "bone",
       "family": "neutral",
       "start": 60,
@@ -1123,7 +1136,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1725,
+      "sentenceId": 1729,
       "word": "yellow",
       "family": "yellow",
       "start": 27,
@@ -1134,7 +1147,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1751,
+      "sentenceId": 1755,
       "word": "pale blue",
       "family": "blue",
       "start": 27,
@@ -1145,7 +1158,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1751,
+      "sentenceId": 1755,
       "word": "white",
       "family": "neutral",
       "start": 80,
@@ -1156,7 +1169,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1764,
+      "sentenceId": 1768,
       "word": "white",
       "family": "neutral",
       "start": 43,
@@ -1167,7 +1180,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1778,
+      "sentenceId": 1782,
       "word": "gray",
       "family": "neutral",
       "start": 13,
@@ -1178,7 +1191,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1796,
+      "sentenceId": 1800,
       "word": "brown-skinned",
       "family": "neutral",
       "start": 73,
@@ -1189,7 +1202,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1796,
+      "sentenceId": 1800,
       "word": "white",
       "family": "neutral",
       "start": 112,
@@ -1200,7 +1213,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1796,
+      "sentenceId": 1800,
       "word": "red",
       "family": "red",
       "start": 240,
@@ -1211,7 +1224,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1800,
+      "sentenceId": 1804,
       "word": "black",
       "family": "neutral",
       "start": 145,
@@ -1222,7 +1235,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1869,
+      "sentenceId": 1873,
       "word": "white",
       "family": "neutral",
       "start": 347,
@@ -1233,29 +1246,29 @@
       "note": ""
     },
     {
-      "sentenceId": 1872,
+      "sentenceId": 1876,
       "word": "bone",
       "family": "neutral",
       "start": 156,
       "end": 160,
-      "sentence": "Scribes crouched by the steps with their quills and inkpots and bowls of sand and lepers moaning through the streets and naked dogs that seemed composed of bone entirely and vendors of tamales and old women with faces dark and harrowed as the land squatting in the gutters over charcoal fires where black ned strips of anonym춅 ous meat sizzled and spat.",
+      "sentence": "Scribes crouched by the steps with their quills and inkpots and bowls of sand and lepers moaning through the streets and naked dogs that seemed composed of bone entirely and vendors of tamales and old women with faces dark and harrowed as the land squatting in the gutters over charcoal fires where black ned strips of anonymous meat sizzled and spat.",
       "tier": "A",
       "contextAfter": "entirely and vendors of tamales and old women with faces",
       "note": ""
     },
     {
-      "sentenceId": 1872,
+      "sentenceId": 1876,
       "word": "black",
       "family": "neutral",
       "start": 299,
       "end": 304,
-      "sentence": "Scribes crouched by the steps with their quills and inkpots and bowls of sand and lepers moaning through the streets and naked dogs that seemed composed of bone entirely and vendors of tamales and old women with faces dark and harrowed as the land squatting in the gutters over charcoal fires where black ned strips of anonym춅 ous meat sizzled and spat.",
+      "sentence": "Scribes crouched by the steps with their quills and inkpots and bowls of sand and lepers moaning through the streets and naked dogs that seemed composed of bone entirely and vendors of tamales and old women with faces dark and harrowed as the land squatting in the gutters over charcoal fires where black ned strips of anonymous meat sizzled and spat.",
       "tier": "A",
-      "contextAfter": "ned strips of anonym춅 ous meat sizzled and spat.",
+      "contextAfter": "ned strips of anonymous meat sizzled and spat.",
       "note": ""
     },
     {
-      "sentenceId": 1873,
+      "sentenceId": 1877,
       "word": "black",
       "family": "neutral",
       "start": 232,
@@ -1266,7 +1279,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1873,
+      "sentenceId": 1877,
       "word": "red",
       "family": "red",
       "start": 279,
@@ -1277,7 +1290,7 @@
       "note": ""
     },
     {
-      "sentenceId": 1873,
+      "sentenceId": 1877,
       "word": "blue",
       "family": "blue",
       "start": 393,
@@ -1288,7 +1301,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2004,
+      "sentenceId": 2008,
       "word": "ruddy",
       "family": "red",
       "start": 16,
@@ -1299,18 +1312,18 @@
       "note": ""
     },
     {
-      "sentenceId": 2005,
+      "sentenceId": 2009,
       "word": "white",
       "family": "neutral",
       "start": 60,
       "end": 65,
-      "sentence": "The enormous dome of his head when he bared it was blinding white and per춆 ectly circumscribed about so that it looked to have been painted.",
+      "sentence": "The enormous dome of his head when he bared it was blinding white and per ectly circumscribed about so that it looked to have been painted.",
       "tier": "A",
-      "contextAfter": "and per춆 ectly circumscribed about so that it looked to",
+      "contextAfter": "and per ectly circumscribed about so that it looked to",
       "note": ""
     },
     {
-      "sentenceId": 2025,
+      "sentenceId": 2029,
       "word": "gray",
       "family": "neutral",
       "start": 118,
@@ -1321,7 +1334,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2030,
+      "sentenceId": 2034,
       "word": "black",
       "family": "neutral",
       "start": 54,
@@ -1332,7 +1345,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2030,
+      "sentenceId": 2034,
       "word": "white",
       "family": "neutral",
       "start": 65,
@@ -1343,18 +1356,18 @@
       "note": ""
     },
     {
-      "sentenceId": 2031,
+      "sentenceId": 2035,
       "word": "white",
       "family": "neutral",
-      "start": 80,
-      "end": 85,
-      "sentence": "Bad blood lay be ween them and as they rode up und춗 er the barren mountains the white man would fall back alongside the other and take his shadow for the shade that was in it and whisper to him.",
+      "start": 78,
+      "end": 83,
+      "sentence": "Bad blood lay be ween them and as they rode up under the barren mountains the white man would fall back alongside the other and take his shadow for the shade that was in it and whisper to him.",
       "tier": "A",
       "contextAfter": "man would fall back alongside the other and take his",
       "note": ""
     },
     {
-      "sentenceId": 2032,
+      "sentenceId": 2036,
       "word": "black",
       "family": "neutral",
       "start": 4,
@@ -1365,7 +1378,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2033,
+      "sentenceId": 2037,
       "word": "white",
       "family": "neutral",
       "start": 10,
@@ -1376,7 +1389,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2034,
+      "sentenceId": 2038,
       "word": "white",
       "family": "neutral",
       "start": 4,
@@ -1387,7 +1400,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2037,
+      "sentenceId": 2041,
       "word": "brown",
       "family": "neutral",
       "start": 203,
@@ -1398,7 +1411,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2064,
+      "sentenceId": 2068,
       "word": "gray",
       "family": "neutral",
       "start": 10,
@@ -1409,7 +1422,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2147,
+      "sentenceId": 2151,
       "word": "black",
       "family": "neutral",
       "start": 230,
@@ -1420,7 +1433,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2150,
+      "sentenceId": 2154,
       "word": "blue",
       "family": "blue",
       "start": 31,
@@ -1431,7 +1444,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2164,
+      "sentenceId": 2168,
       "word": "black",
       "family": "neutral",
       "start": 65,
@@ -1442,7 +1455,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2175,
+      "sentenceId": 2179,
       "word": "white",
       "family": "neutral",
       "start": 89,
@@ -1453,7 +1466,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2187,
+      "sentenceId": 2191,
       "word": "gray",
       "family": "neutral",
       "start": 19,
@@ -1464,40 +1477,40 @@
       "note": ""
     },
     {
-      "sentenceId": 2188,
+      "sentenceId": 2192,
       "word": "blue",
       "family": "blue",
       "start": 240,
       "end": 244,
-      "sentence": "They did not noon nor did they siesta and the cotton eye of the moon squatted at broad day in the throat of the mountains to the east and they were still riding when it overtook them at its midnight meridian, sketching on the plain below a blue cameo of such dread pil rims clanking north.춇 They spent the night in the corral of a hacienda where all night men kept watchfires burning on the azoteas or roofs.",
+      "sentence": "They did not noon nor did they siesta and the cotton eye of the moon squatted at broad day in the throat of the mountains to the east and they were still riding when it overtook them at its midnight meridian, sketching on the plain below a blue cameo of such dread pil rims clanking north.",
       "tier": "A",
-      "contextAfter": "cameo of such dread pil rims clanking north.춇 They spent",
+      "contextAfter": "cameo of such dread pil rims clanking north.",
       "note": ""
     },
     {
-      "sentenceId": 2192,
+      "sentenceId": 2197,
       "word": "ashen",
       "family": "neutral",
       "start": 44,
       "end": 49,
-      "sentence": "The smelter chimneys were ranged against an ashen sky and the globy lights of the furnaces glow 춅 red under the dark of the hills.",
+      "sentence": "The smelter chimneys were ranged against an ashen sky and the globy lights of the furnaces glow red under the dark of the hills.",
       "tier": "A",
-      "contextAfter": "sky and the globy lights of the furnaces glow 춅",
+      "contextAfter": "sky and the globy lights of the furnaces glow red",
       "note": ""
     },
     {
-      "sentenceId": 2192,
+      "sentenceId": 2197,
       "word": "red",
       "family": "red",
-      "start": 98,
-      "end": 101,
-      "sentence": "The smelter chimneys were ranged against an ashen sky and the globy lights of the furnaces glow 춅 red under the dark of the hills.",
+      "start": 96,
+      "end": 99,
+      "sentence": "The smelter chimneys were ranged against an ashen sky and the globy lights of the furnaces glow red under the dark of the hills.",
       "tier": "A",
       "contextAfter": "under the dark of the hills.",
       "note": ""
     },
     {
-      "sentenceId": 2225,
+      "sentenceId": 2230,
       "word": "brown",
       "family": "neutral",
       "start": 88,
@@ -1508,7 +1521,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2244,
+      "sentenceId": 2249,
       "word": "blue",
       "family": "blue",
       "start": 76,
@@ -1519,7 +1532,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2246,
+      "sentenceId": 2251,
       "word": "gray",
       "family": "neutral",
       "start": 61,
@@ -1530,7 +1543,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2254,
+      "sentenceId": 2259,
       "word": "blackness",
       "family": "neutral",
       "start": 157,
@@ -1541,7 +1554,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2263,
+      "sentenceId": 2268,
       "word": "black",
       "family": "neutral",
       "start": 30,
@@ -1552,7 +1565,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2340,
+      "sentenceId": 2345,
       "word": "black",
       "family": "neutral",
       "start": 4,
@@ -1563,7 +1576,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2341,
+      "sentenceId": 2346,
       "word": "sable",
       "family": "neutral",
       "start": 16,
@@ -1574,7 +1587,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2529,
+      "sentenceId": 2536,
       "word": "white",
       "family": "neutral",
       "start": 115,
@@ -1585,7 +1598,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2540,
+      "sentenceId": 2547,
       "word": "white",
       "family": "neutral",
       "start": 13,
@@ -1596,7 +1609,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2625,
+      "sentenceId": 2633,
       "word": "black",
       "family": "neutral",
       "start": 35,
@@ -1607,7 +1620,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2628,
+      "sentenceId": 2636,
       "word": "white",
       "family": "neutral",
       "start": 44,
@@ -1618,7 +1631,18 @@
       "note": ""
     },
     {
-      "sentenceId": 2660,
+      "sentenceId": 2667,
+      "word": "lavender",
+      "family": "violet",
+      "start": 23,
+      "end": 31,
+      "sentence": "Riding up through wild lavender or soapweed, under the Animas peaks.",
+      "tier": "A",
+      "contextAfter": "or soapweed, under the Animas peaks.",
+      "note": ""
+    },
+    {
+      "sentenceId": 2668,
       "word": "blue",
       "family": "blue",
       "start": 173,
@@ -1629,7 +1653,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2664,
+      "sentenceId": 2672,
       "word": "blue",
       "family": "blue",
       "start": 75,
@@ -1640,7 +1664,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2667,
+      "sentenceId": 2675,
       "word": "gray",
       "family": "neutral",
       "start": 83,
@@ -1651,7 +1675,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2675,
+      "sentenceId": 2683,
       "word": "white",
       "family": "neutral",
       "start": 13,
@@ -1662,7 +1686,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2680,
+      "sentenceId": 2688,
       "word": "white",
       "family": "neutral",
       "start": 4,
@@ -1673,7 +1697,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2686,
+      "sentenceId": 2694,
       "word": "black",
       "family": "neutral",
       "start": 18,
@@ -1684,7 +1708,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2693,
+      "sentenceId": 2701,
       "word": "white",
       "family": "neutral",
       "start": 4,
@@ -1695,18 +1719,18 @@
       "note": ""
     },
     {
-      "sentenceId": 2696,
+      "sentenceId": 2704,
       "word": "black",
       "family": "neutral",
-      "start": 86,
-      "end": 91,
-      "sentence": "One hand lay in his lap and the other was out tretched on춖 his knee holding a slender black cigarillo.",
+      "start": 85,
+      "end": 90,
+      "sentence": "One hand lay in his lap and the other was out tretched on his knee holding a slender black cigarillo.",
       "tier": "A",
       "contextAfter": "cigarillo.",
       "note": ""
     },
     {
-      "sentenceId": 2698,
+      "sentenceId": 2706,
       "word": "white",
       "family": "neutral",
       "start": 4,
@@ -1717,7 +1741,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2702,
+      "sentenceId": 2710,
       "word": "gray",
       "family": "neutral",
       "start": 37,
@@ -1728,7 +1752,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2716,
+      "sentenceId": 2724,
       "word": "blue",
       "family": "blue",
       "start": 87,
@@ -1739,29 +1763,29 @@
       "note": ""
     },
     {
-      "sentenceId": 2718,
+      "sentenceId": 2726,
       "word": "silver",
       "family": "neutral",
       "start": 82,
       "end": 88,
-      "sentence": "Out on the playa a cold sea broke and water gone these thousand years lay riffled silver in the morn ng wind.춊 Sounds like a pack of hounds, said Toadvine.",
+      "sentence": "Out on the playa a cold sea broke and water gone these thousand years lay riffled silver in the morn ng wind.",
       "tier": "A",
-      "contextAfter": "in the morn ng wind.춊 Sounds like a pack of",
+      "contextAfter": "in the morn ng wind.",
       "note": ""
     },
     {
-      "sentenceId": 2723,
+      "sentenceId": 2732,
       "word": "black",
       "family": "neutral",
       "start": 87,
       "end": 92,
-      "sentence": "They crossed before the sun and vanished one by one and reappeared again and they were black in the sun and they rode out of that vanished sea like burnt phantoms with the legs of the animals kicking up the spume that was not real and they were lost in the sun and lost in the lake and they shimmered and slurred together and separated again and they augmented by planes in lurid avatars and began to coalesce and there began to appear above them in the dawn-broached sky a hellish likeness of their ranks riding huge and inverted and the horses' legs incredibly elongate trampling down the high thin cirrus and the howling antiwarriors pendant from their mounts immense and chimeric and the high wild cries carry ng that flat and barren pan li춊 ke the cries of souls broke through some misweave in the weft of things into theworld below.",
+      "sentence": "They crossed before the sun and vanished one by one and reappeared again and they were black in the sun and they rode out of that vanished sea like burnt phantoms with the legs of the animals kicking up the spume that was not real and they were lost in the sun and lost in the lake and they shimmered and slurred together and separated again and they augmented by planes in lurid avatars and began to coalesce and there began to appear above them in the dawn-broached sky a hellish likeness of their ranks riding huge and inverted and the horses' legs incredibly elongate trampling down the high thin cirrus and the howling antiwarriors pendant from their mounts immense and chimeric and the high wild cries carry ng that flat and barren pan like the cries of souls broke through some misweave in the weft of things into theworld below.",
       "tier": "A",
       "contextAfter": "in the sun and they rode out of that vanished",
       "note": ""
     },
     {
-      "sentenceId": 2725,
+      "sentenceId": 2734,
       "word": "blue",
       "family": "blue",
       "start": 34,
@@ -1772,7 +1796,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2743,
+      "sentenceId": 2753,
       "word": "black",
       "family": "neutral",
       "start": 28,
@@ -1783,7 +1807,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2744,
+      "sentenceId": 2754,
       "word": "white",
       "family": "neutral",
       "start": 22,
@@ -1794,7 +1818,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2744,
+      "sentenceId": 2754,
       "word": "dark red",
       "family": "red",
       "start": 111,
@@ -1805,29 +1829,29 @@
       "note": ""
     },
     {
-      "sentenceId": 2759,
+      "sentenceId": 2769,
       "word": "white",
       "family": "neutral",
-      "start": 131,
-      "end": 136,
-      "sentence": "The sun reflected off the pan burned the under ides춖 of their faces and shadow of horse and rider alike were painted upon the fine white powder in purest indigo.",
+      "start": 130,
+      "end": 135,
+      "sentence": "The sun reflected off the pan burned the under ides of their faces and shadow of horse and rider alike were painted upon the fine white powder in purest indigo.",
       "tier": "A",
       "contextAfter": "powder in purest indigo.",
       "note": ""
     },
     {
-      "sentenceId": 2759,
+      "sentenceId": 2769,
       "word": "indigo",
       "family": "indigo",
-      "start": 154,
-      "end": 160,
-      "sentence": "The sun reflected off the pan burned the under ides춖 of their faces and shadow of horse and rider alike were painted upon the fine white powder in purest indigo.",
+      "start": 153,
+      "end": 159,
+      "sentence": "The sun reflected off the pan burned the under ides of their faces and shadow of horse and rider alike were painted upon the fine white powder in purest indigo.",
       "tier": "A",
       "contextAfter": ".",
       "note": ""
     },
     {
-      "sentenceId": 2771,
+      "sentenceId": 2781,
       "word": "gray",
       "family": "neutral",
       "start": 161,
@@ -1838,7 +1862,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2793,
+      "sentenceId": 2803,
       "word": "gray",
       "family": "neutral",
       "start": 8,
@@ -1849,7 +1873,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2799,
+      "sentenceId": 2809,
       "word": "gray",
       "family": "neutral",
       "start": 48,
@@ -1860,7 +1884,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2805,
+      "sentenceId": 2815,
       "word": "bluish",
       "family": "blue",
       "start": 2,
@@ -1871,7 +1895,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2809,
+      "sentenceId": 2819,
       "word": "white",
       "family": "neutral",
       "start": 19,
@@ -1882,7 +1906,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2819,
+      "sentenceId": 2829,
       "word": "gray",
       "family": "neutral",
       "start": 7,
@@ -1893,7 +1917,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2842,
+      "sentenceId": 2852,
       "word": "bone",
       "family": "neutral",
       "start": 61,
@@ -1904,7 +1928,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2842,
+      "sentenceId": 2852,
       "word": "pinkish",
       "family": "red",
       "start": 80,
@@ -1915,7 +1939,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2842,
+      "sentenceId": 2852,
       "word": "white",
       "family": "neutral",
       "start": 88,
@@ -1926,7 +1950,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2865,
+      "sentenceId": 2875,
       "word": "red",
       "family": "red",
       "start": 97,
@@ -1937,18 +1961,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2880,
-      "word": "rust",
-      "family": "orange",
-      "start": 104,
-      "end": 108,
-      "sentence": "To the west among the low dark hills they could hear the howl ng of a wolf that the squatters did mist춊 rust and the hunters smiled among themselves.",
-      "tier": "A",
-      "contextAfter": "and the hunters smiled among themselves.",
-      "note": ""
-    },
-    {
-      "sentenceId": 2881,
+      "sentenceId": 2891,
       "word": "gray",
       "family": "neutral",
       "start": 195,
@@ -1959,7 +1972,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2897,
+      "sentenceId": 2907,
       "word": "white",
       "family": "neutral",
       "start": 28,
@@ -1970,7 +1983,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2897,
+      "sentenceId": 2907,
       "word": "snow",
       "family": "neutral",
       "start": 39,
@@ -1981,7 +1994,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2902,
+      "sentenceId": 2912,
       "word": "cobalt",
       "family": "blue",
       "start": 57,
@@ -1992,7 +2005,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2903,
+      "sentenceId": 2913,
       "word": "white",
       "family": "neutral",
       "start": 50,
@@ -2003,7 +2016,7 @@
       "note": ""
     },
     {
-      "sentenceId": 2930,
+      "sentenceId": 2940,
       "word": "red",
       "family": "red",
       "start": 52,
@@ -2014,29 +2027,29 @@
       "note": ""
     },
     {
-      "sentenceId": 2957,
+      "sentenceId": 2967,
       "word": "bone",
       "family": "neutral",
       "start": 39,
       "end": 43,
-      "sentence": "By fires of highland drift ood pale as bone they crouc춛 hed in silence while the flames yawed in the nightwinds ascending those stony draws.",
+      "sentence": "By fires of highland drift ood pale as bone they crouched in silence while the flames yawed in the nightwinds ascending those stony draws.",
       "tier": "A",
-      "contextAfter": "they crouc춛 hed in silence while the flames yawed in",
+      "contextAfter": "they crouched in silence while the flames yawed in the",
       "note": ""
     },
     {
-      "sentenceId": 3035,
+      "sentenceId": 3045,
       "word": "red",
       "family": "red",
-      "start": 50,
-      "end": 53,
-      "sentence": "Every man in the company claims to have en ounte춃 red that sootysouled rascal in some other place.",
+      "start": 49,
+      "end": 52,
+      "sentence": "Every man in the company claims to have en ounte red that sootysouled rascal in some other place.",
       "tier": "A",
       "contextAfter": "that sootysouled rascal in some other place.",
       "note": ""
     },
     {
-      "sentenceId": 3096,
+      "sentenceId": 3106,
       "word": "red",
       "family": "red",
       "start": 95,
@@ -2047,7 +2060,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3187,
+      "sentenceId": 3197,
       "word": "black",
       "family": "neutral",
       "start": 74,
@@ -2058,7 +2071,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3194,
+      "sentenceId": 3204,
       "word": "black",
       "family": "neutral",
       "start": 6,
@@ -2069,7 +2082,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3229,
+      "sentenceId": 3239,
       "word": "yellow",
       "family": "yellow",
       "start": 61,
@@ -2080,7 +2093,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3237,
+      "sentenceId": 3247,
       "word": "black",
       "family": "neutral",
       "start": 308,
@@ -2091,7 +2104,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3284,
+      "sentenceId": 3294,
       "word": "white",
       "family": "neutral",
       "start": 70,
@@ -2102,7 +2115,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3321,
+      "sentenceId": 3332,
       "word": "blue",
       "family": "blue",
       "start": 7,
@@ -2113,7 +2126,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3321,
+      "sentenceId": 3332,
       "word": "snow",
       "family": "neutral",
       "start": 63,
@@ -2124,7 +2137,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3322,
+      "sentenceId": 3333,
       "word": "golden",
       "family": "yellow",
       "start": 86,
@@ -2135,7 +2148,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3322,
+      "sentenceId": 3333,
       "word": "black",
       "family": "neutral",
       "start": 114,
@@ -2146,7 +2159,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3324,
+      "sentenceId": 3335,
       "word": "blue",
       "family": "blue",
       "start": 277,
@@ -2157,7 +2170,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3325,
+      "sentenceId": 3336,
       "word": "blond",
       "family": "yellow",
       "start": 164,
@@ -2168,18 +2181,18 @@
       "note": ""
     },
     {
-      "sentenceId": 3327,
+      "sentenceId": 3338,
       "word": "red",
       "family": "red",
-      "start": 320,
-      "end": 323,
-      "sentence": "One of the Delawares was next behind him and the horse he rode was falling back ard and he was trying to turn it, beating it about th춛 e head with his balled fist, and the bear's long muzzle swung toward them in a stunned articulation, amazed beyond reckoning, some foul gobbet dangling from its jaws and its chops dyed red with blood.",
+      "start": 319,
+      "end": 322,
+      "sentence": "One of the Delawares was next behind him and the horse he rode was falling back ard and he was trying to turn it, beating it about th e head with his balled fist, and the bear's long muzzle swung toward them in a stunned articulation, amazed beyond reckoning, some foul gobbet dangling from its jaws and its chops dyed red with blood.",
       "tier": "A",
       "contextAfter": "with blood.",
       "note": ""
     },
     {
-      "sentenceId": 3349,
+      "sentenceId": 3360,
       "word": "black",
       "family": "neutral",
       "start": 75,
@@ -2190,7 +2203,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3354,
+      "sentenceId": 3365,
       "word": "black",
       "family": "neutral",
       "start": 194,
@@ -2201,18 +2214,18 @@
       "note": ""
     },
     {
-      "sentenceId": 3355,
+      "sentenceId": 3366,
       "word": "blue",
       "family": "blue",
-      "start": 99,
-      "end": 103,
-      "sentence": "They rode down from this country through a deep gorge, clat ering ov춗 er the stones, rifts of cool blue shade.",
+      "start": 97,
+      "end": 101,
+      "sentence": "They rode down from this country through a deep gorge, clat ering over the stones, rifts of cool blue shade.",
       "tier": "A",
       "contextAfter": "shade.",
       "note": ""
     },
     {
-      "sentenceId": 3357,
+      "sentenceId": 3368,
       "word": "white",
       "family": "neutral",
       "start": 327,
@@ -2223,7 +2236,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3361,
+      "sentenceId": 3372,
       "word": "black",
       "family": "neutral",
       "start": 56,
@@ -2234,7 +2247,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3367,
+      "sentenceId": 3378,
       "word": "bone",
       "family": "neutral",
       "start": 97,
@@ -2245,7 +2258,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3372,
+      "sentenceId": 3383,
       "word": "steel",
       "family": "neutral",
       "start": 125,
@@ -2256,7 +2269,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3420,
+      "sentenceId": 3431,
       "word": "white",
       "family": "neutral",
       "start": 79,
@@ -2267,7 +2280,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3427,
+      "sentenceId": 3438,
       "word": "pink",
       "family": "red",
       "start": 139,
@@ -2278,7 +2291,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3427,
+      "sentenceId": 3438,
       "word": "black",
       "family": "neutral",
       "start": 305,
@@ -2289,7 +2302,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3433,
+      "sentenceId": 3444,
       "word": "black",
       "family": "neutral",
       "start": 23,
@@ -2300,40 +2313,40 @@
       "note": ""
     },
     {
-      "sentenceId": 3478,
+      "sentenceId": 3489,
       "word": "wan",
       "family": "neutral",
       "start": 58,
       "end": 61,
-      "sentence": "They quit these parts, routed by drought or disease or by wan ering bands of marauders, quit these parts ages s춄 ince and of them there is no memory.",
+      "sentence": "They quit these parts, routed by drought or disease or by wan ering bands of marauders, quit these parts ages since and of them there is no memory.",
       "tier": "A",
-      "contextAfter": "ering bands of marauders, quit these parts ages s춄 ince",
+      "contextAfter": "ering bands of marauders, quit these parts ages since and",
       "note": ""
     },
     {
-      "sentenceId": 3520,
+      "sentenceId": 3531,
       "word": "blue",
       "family": "blue",
-      "start": 243,
-      "end": 247,
-      "sentence": "It went skittering off down the can on wall with the contents of춞 the panniers exploding sound essly in the hot dry air and it fell through sunlight and t춍 hrough shade, turning in that lonely void until it fell from sight into a sink of cold blue space that absolved it forever of memory in the mind of any living thing that was.",
+      "start": 240,
+      "end": 244,
+      "sentence": "It went skittering off down the can on wall with the contents of the panniers exploding sound essly in the hot dry air and it fell through sunlight and through shade, turning in that lonely void until it fell from sight into a sink of cold blue space that absolved it forever of memory in the mind of any living thing that was.",
       "tier": "A",
       "contextAfter": "space that absolved it forever of memory in the mind",
       "note": ""
     },
     {
-      "sentenceId": 3528,
+      "sentenceId": 3539,
       "word": "black",
       "family": "neutral",
       "start": 193,
       "end": 198,
-      "sentence": "The scouts would be already gone, riding out in the dark before the sun rose, and they would not return until night, reckoning out the camp in that incoordinate waste by palest starlight or in black ess absolute where the company sat춏 among the rocks without fire or bread or camaraderie any more than banded apes.",
+      "sentence": "The scouts would be already gone, riding out in the dark before the sun rose, and they would not return until night, reckoning out the camp in that incoordinate waste by palest starlight or in black ess absolute where the company sat among the rocks without fire or bread or camaraderie any more than banded apes.",
       "tier": "A",
-      "contextAfter": "ess absolute where the company sat춏 among the rocks without",
+      "contextAfter": "ess absolute where the company sat among the rocks without",
       "note": ""
     },
     {
-      "sentenceId": 3530,
+      "sentenceId": 3541,
       "word": "black",
       "family": "neutral",
       "start": 32,
@@ -2344,7 +2357,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3530,
+      "sentenceId": 3541,
       "word": "white",
       "family": "neutral",
       "start": 123,
@@ -2355,7 +2368,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3569,
+      "sentenceId": 3581,
       "word": "blue",
       "family": "blue",
       "start": 43,
@@ -2366,18 +2379,18 @@
       "note": ""
     },
     {
-      "sentenceId": 3579,
+      "sentenceId": 3591,
       "word": "black",
       "family": "neutral",
       "start": 26,
       "end": 31,
-      "sentence": "A thing surmised from the black ess by the춏 creak of leather and the chink of metal.",
+      "sentence": "A thing surmised from the black ess by the creak of leather and the chink of metal.",
       "tier": "A",
-      "contextAfter": "ess by the춏 creak of leather and the chink of",
+      "contextAfter": "ess by the creak of leather and the chink of",
       "note": ""
     },
     {
-      "sentenceId": 3581,
+      "sentenceId": 3593,
       "word": "black",
       "family": "neutral",
       "start": 262,
@@ -2388,7 +2401,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3603,
+      "sentenceId": 3616,
       "word": "white",
       "family": "neutral",
       "start": 62,
@@ -2399,7 +2412,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3618,
+      "sentenceId": 3631,
       "word": "black",
       "family": "neutral",
       "start": 19,
@@ -2410,7 +2423,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3643,
+      "sentenceId": 3656,
       "word": "white",
       "family": "neutral",
       "start": 29,
@@ -2421,7 +2434,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3653,
+      "sentenceId": 3666,
       "word": "white",
       "family": "neutral",
       "start": 88,
@@ -2432,7 +2445,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3664,
+      "sentenceId": 3677,
       "word": "pink",
       "family": "red",
       "start": 119,
@@ -2443,7 +2456,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3665,
+      "sentenceId": 3678,
       "word": "black",
       "family": "neutral",
       "start": 46,
@@ -2454,7 +2467,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3667,
+      "sentenceId": 3680,
       "word": "red",
       "family": "red",
       "start": 29,
@@ -2465,18 +2478,18 @@
       "note": ""
     },
     {
-      "sentenceId": 3687,
+      "sentenceId": 3700,
       "word": "gray",
       "family": "neutral",
       "start": 51,
       "end": 55,
-      "sentence": "The shot was flat and dead in theempti ess and the gray춏 smoke drifted away.",
+      "sentence": "The shot was flat and dead in theempti ess and the gray smoke drifted away.",
       "tier": "A",
-      "contextAfter": "춏 smoke drifted away.",
+      "contextAfter": "smoke drifted away.",
       "note": ""
     },
     {
-      "sentenceId": 3761,
+      "sentenceId": 3774,
       "word": "black",
       "family": "neutral",
       "start": 106,
@@ -2487,7 +2500,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3762,
+      "sentenceId": 3775,
       "word": "black",
       "family": "neutral",
       "start": 28,
@@ -2498,7 +2511,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3816,
+      "sentenceId": 3829,
       "word": "blood-soaked",
       "family": "red",
       "start": 58,
@@ -2509,7 +2522,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3831,
+      "sentenceId": 3844,
       "word": "bluish",
       "family": "blue",
       "start": 167,
@@ -2520,7 +2533,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3835,
+      "sentenceId": 3848,
       "word": "red",
       "family": "red",
       "start": 337,
@@ -2531,7 +2544,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3853,
+      "sentenceId": 3866,
       "word": "white",
       "family": "neutral",
       "start": 49,
@@ -2542,7 +2555,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3853,
+      "sentenceId": 3866,
       "word": "green",
       "family": "green",
       "start": 98,
@@ -2553,7 +2566,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3857,
+      "sentenceId": 3870,
       "word": "white",
       "family": "neutral",
       "start": 126,
@@ -2564,18 +2577,18 @@
       "note": ""
     },
     {
-      "sentenceId": 3868,
+      "sentenceId": 3881,
       "word": "bleached",
       "family": "neutral",
-      "start": 102,
-      "end": 110,
-      "sentence": "The young corn in the road ide fields had been washed by recent rains and stood whit춖 e and luminous, bleached almost transparent by the sun.",
+      "start": 101,
+      "end": 109,
+      "sentence": "The young corn in the road ide fields had been washed by recent rains and stood whit e and luminous, bleached almost transparent by the sun.",
       "tier": "A",
       "contextAfter": "almost transparent by the sun.",
       "note": ""
     },
     {
-      "sentenceId": 3882,
+      "sentenceId": 3895,
       "word": "black",
       "family": "neutral",
       "start": 91,
@@ -2586,7 +2599,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3885,
+      "sentenceId": 3898,
       "word": "black",
       "family": "neutral",
       "start": 13,
@@ -2597,7 +2610,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3893,
+      "sentenceId": 3907,
       "word": "white",
       "family": "neutral",
       "start": 155,
@@ -2608,7 +2621,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3925,
+      "sentenceId": 3940,
       "word": "white",
       "family": "neutral",
       "start": 105,
@@ -2619,7 +2632,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3932,
+      "sentenceId": 3947,
       "word": "white",
       "family": "neutral",
       "start": 4,
@@ -2630,7 +2643,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3989,
+      "sentenceId": 4004,
       "word": "black",
       "family": "neutral",
       "start": 30,
@@ -2641,7 +2654,7 @@
       "note": ""
     },
     {
-      "sentenceId": 3998,
+      "sentenceId": 4013,
       "word": "white",
       "family": "neutral",
       "start": 159,
@@ -2652,7 +2665,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4000,
+      "sentenceId": 4015,
       "word": "blue",
       "family": "blue",
       "start": 91,
@@ -2663,7 +2676,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4002,
+      "sentenceId": 4017,
       "word": "white",
       "family": "neutral",
       "start": 163,
@@ -2674,7 +2687,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4006,
+      "sentenceId": 4021,
       "word": "blue",
       "family": "blue",
       "start": 140,
@@ -2685,7 +2698,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4053,
+      "sentenceId": 4068,
       "word": "black",
       "family": "neutral",
       "start": 99,
@@ -2696,7 +2709,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4105,
+      "sentenceId": 4120,
       "word": "wine-colored",
       "family": "red",
       "start": 111,
@@ -2707,7 +2720,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4114,
+      "sentenceId": 4129,
       "word": "pink",
       "family": "red",
       "start": 122,
@@ -2718,7 +2731,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4131,
+      "sentenceId": 4146,
       "word": "black",
       "family": "neutral",
       "start": 35,
@@ -2729,7 +2742,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4134,
+      "sentenceId": 4149,
       "word": "gray",
       "family": "neutral",
       "start": 7,
@@ -2740,7 +2753,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4146,
+      "sentenceId": 4161,
       "word": "green",
       "family": "green",
       "start": 81,
@@ -2751,7 +2764,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4146,
+      "sentenceId": 4161,
       "word": "scarlet",
       "family": "red",
       "start": 106,
@@ -2762,7 +2775,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4146,
+      "sentenceId": 4161,
       "word": "scarlet",
       "family": "red",
       "start": 118,
@@ -2773,18 +2786,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4157,
+      "sentenceId": 4172,
       "word": "gray",
       "family": "neutral",
-      "start": 72,
-      "end": 76,
-      "sentence": "In the morn ng dampness the sulphurous smoke hung over the street춊 in a gray shroud and the colorful lancers fell under the horses in that perilous mist like soldiers slaughtered in a dream wide-eyed and wooden and mute.",
+      "start": 71,
+      "end": 75,
+      "sentence": "In the morn ng dampness the sulphurous smoke hung over the street in a gray shroud and the colorful lancers fell under the horses in that perilous mist like soldiers slaughtered in a dream wide-eyed and wooden and mute.",
       "tier": "A",
       "contextAfter": "shroud and the colorful lancers fell under the horses in",
       "note": ""
     },
     {
-      "sentenceId": 4164,
+      "sentenceId": 4179,
       "word": "blackness",
       "family": "neutral",
       "start": 183,
@@ -2795,18 +2808,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4166,
+      "sentenceId": 4181,
       "word": "black",
       "family": "neutral",
       "start": 100,
       "end": 105,
-      "sentence": "On that raw tablestone the flames of their balefire swirled and circled and they studied the arrant black ess under them where it fell awa춏 y like the sheer cloven face of the world.",
+      "sentence": "On that raw tablestone the flames of their balefire swirled and circled and they studied the arrant black ess under them where it fell awa y like the sheer cloven face of the world.",
       "tier": "A",
-      "contextAfter": "ess under them where it fell awa춏 y like the",
+      "contextAfter": "ess under them where it fell awa y like the",
       "note": ""
     },
     {
-      "sentenceId": 4213,
+      "sentenceId": 4228,
       "word": "red",
       "family": "red",
       "start": 221,
@@ -2817,7 +2830,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4216,
+      "sentenceId": 4231,
       "word": "black",
       "family": "neutral",
       "start": 38,
@@ -2828,18 +2841,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4217,
+      "sentenceId": 4232,
       "word": "blue",
       "family": "blue",
-      "start": 143,
-      "end": 147,
-      "sentence": "They ascended through a rocky pass and lightning shaped out the distant shivering mountains and light ing rang t춏 he stones about and tufts of blue fire clung to the horses like incandescent elementals that would not be driven off.",
+      "start": 141,
+      "end": 145,
+      "sentence": "They ascended through a rocky pass and lightning shaped out the distant shivering mountains and light ing rang the stones about and tufts of blue fire clung to the horses like incandescent elementals that would not be driven off.",
       "tier": "A",
       "contextAfter": "fire clung to the horses like incandescent elementals that would",
       "note": ""
     },
     {
-      "sentenceId": 4218,
+      "sentenceId": 4233,
       "word": "blue",
       "family": "blue",
       "start": 70,
@@ -2850,7 +2863,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4219,
+      "sentenceId": 4234,
       "word": "blue",
       "family": "blue",
       "start": 41,
@@ -2861,7 +2874,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4219,
+      "sentenceId": 4234,
       "word": "yellow",
       "family": "yellow",
       "start": 143,
@@ -2872,7 +2885,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4221,
+      "sentenceId": 4236,
       "word": "gray",
       "family": "neutral",
       "start": 8,
@@ -2883,7 +2896,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4222,
+      "sentenceId": 4237,
       "word": "red",
       "family": "red",
       "start": 230,
@@ -2894,7 +2907,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4223,
+      "sentenceId": 4238,
       "word": "golden",
       "family": "yellow",
       "start": 75,
@@ -2905,7 +2918,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4223,
+      "sentenceId": 4238,
       "word": "purple",
       "family": "violet",
       "start": 112,
@@ -2916,7 +2929,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4223,
+      "sentenceId": 4238,
       "word": "blue",
       "family": "blue",
       "start": 145,
@@ -2927,7 +2940,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4223,
+      "sentenceId": 4238,
       "word": "blue",
       "family": "blue",
       "start": 272,
@@ -2938,18 +2951,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4224,
+      "sentenceId": 4239,
       "word": "gray",
       "family": "neutral",
-      "start": 146,
-      "end": 150,
-      "sentence": "It was raining again a춚 nd they rode slouched under slickers hacked from greasy halfcured hides and so cowled in these primitive skins before the gray and driving rain they looked like wardens of some dim sect sent forth to proselytize among the very beasts of the land.",
+      "start": 144,
+      "end": 148,
+      "sentence": "It was raining again and they rode slouched under slickers hacked from greasy halfcured hides and so cowled in these primitive skins before the gray and driving rain they looked like wardens of some dim sect sent forth to proselytize among the very beasts of the land.",
       "tier": "A",
       "contextAfter": "and driving rain they looked like wardens of some dim",
       "note": ""
     },
     {
-      "sentenceId": 4228,
+      "sentenceId": 4243,
       "word": "mossy",
       "family": "green",
       "start": 74,
@@ -2960,7 +2973,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4228,
+      "sentenceId": 4243,
       "word": "silver",
       "family": "neutral",
       "start": 194,
@@ -2971,7 +2984,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4232,
+      "sentenceId": 4247,
       "word": "white",
       "family": "neutral",
       "start": 131,
@@ -2982,7 +2995,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4235,
+      "sentenceId": 4250,
       "word": "gray",
       "family": "neutral",
       "start": 39,
@@ -2993,7 +3006,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4252,
+      "sentenceId": 4267,
       "word": "green",
       "family": "green",
       "start": 84,
@@ -3004,7 +3017,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4252,
+      "sentenceId": 4267,
       "word": "brassy",
       "family": "neutral",
       "start": 94,
@@ -3015,7 +3028,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4272,
+      "sentenceId": 4287,
       "word": "black",
       "family": "neutral",
       "start": 31,
@@ -3026,7 +3039,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4274,
+      "sentenceId": 4289,
       "word": "blue",
       "family": "blue",
       "start": 112,
@@ -3037,7 +3050,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4291,
+      "sentenceId": 4306,
       "word": "gray",
       "family": "neutral",
       "start": 7,
@@ -3048,7 +3061,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4304,
+      "sentenceId": 4319,
       "word": "pale blue",
       "family": "blue",
       "start": 83,
@@ -3059,7 +3072,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4322,
+      "sentenceId": 4337,
       "word": "green",
       "family": "green",
       "start": 41,
@@ -3070,7 +3083,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4325,
+      "sentenceId": 4340,
       "word": "pink",
       "family": "red",
       "start": 115,
@@ -3081,7 +3094,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4360,
+      "sentenceId": 4375,
       "word": "black",
       "family": "neutral",
       "start": 78,
@@ -3092,7 +3105,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4369,
+      "sentenceId": 4384,
       "word": "silver",
       "family": "neutral",
       "start": 234,
@@ -3103,7 +3116,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4394,
+      "sentenceId": 4409,
       "word": "white",
       "family": "neutral",
       "start": 51,
@@ -3114,18 +3127,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4400,
+      "sentenceId": 4416,
       "word": "black",
       "family": "neutral",
-      "start": 67,
-      "end": 72,
-      "sentence": "About daybreak the judge and the Dela ares returned.춛 They had the black with them.",
+      "start": 13,
+      "end": 18,
+      "sentence": "They had the black with them.",
       "tier": "A",
       "contextAfter": "with them.",
       "note": ""
     },
     {
-      "sentenceId": 4406,
+      "sentenceId": 4422,
       "word": "green",
       "family": "green",
       "start": 74,
@@ -3136,7 +3149,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4483,
+      "sentenceId": 4499,
       "word": "indigo",
       "family": "indigo",
       "start": 94,
@@ -3147,18 +3160,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4487,
+      "sentenceId": 4503,
       "word": "wan",
       "family": "neutral",
       "start": 8,
       "end": 11,
-      "sentence": "Glanton wan ered through the tall and dusty rooms with t춄 heir withy ceilings and at length he found an old criada cowering in what must have passed for a kitchen although it contained nothing culinary save a brazier and a few clay pots.",
+      "sentence": "Glanton wan ered through the tall and dusty rooms with their withy ceilings and at length he found an old criada cowering in what must have passed for a kitchen although it contained nothing culinary save a brazier and a few clay pots.",
       "tier": "A",
-      "contextAfter": "ered through the tall and dusty rooms with t춄 heir",
+      "contextAfter": "ered through the tall and dusty rooms with their withy",
       "note": ""
     },
     {
-      "sentenceId": 4521,
+      "sentenceId": 4538,
       "word": "white",
       "family": "neutral",
       "start": 83,
@@ -3169,7 +3182,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4521,
+      "sentenceId": 4538,
       "word": "black",
       "family": "neutral",
       "start": 104,
@@ -3180,7 +3193,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4533,
+      "sentenceId": 4550,
       "word": "snow",
       "family": "neutral",
       "start": 387,
@@ -3191,7 +3204,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4550,
+      "sentenceId": 4567,
       "word": "red",
       "family": "red",
       "start": 143,
@@ -3202,7 +3215,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4555,
+      "sentenceId": 4572,
       "word": "red",
       "family": "red",
       "start": 15,
@@ -3213,7 +3226,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4607,
+      "sentenceId": 4624,
       "word": "pink",
       "family": "red",
       "start": 45,
@@ -3224,7 +3237,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4723,
+      "sentenceId": 4741,
       "word": "gray",
       "family": "neutral",
       "start": 12,
@@ -3235,7 +3248,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4727,
+      "sentenceId": 4745,
       "word": "snow",
       "family": "neutral",
       "start": 33,
@@ -3246,18 +3259,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4728,
+      "sentenceId": 4746,
       "word": "snow",
       "family": "neutral",
-      "start": 76,
-      "end": 80,
-      "sentence": "When Tate came up he stopped and they stood look 춊ng out downwind where the snow was blowing.",
+      "start": 75,
+      "end": 79,
+      "sentence": "When Tate came up he stopped and they stood look ng out downwind where the snow was blowing.",
       "tier": "A",
       "contextAfter": "was blowing.",
       "note": ""
     },
     {
-      "sentenceId": 4747,
+      "sentenceId": 4765,
       "word": "white",
       "family": "neutral",
       "start": 23,
@@ -3268,7 +3281,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4749,
+      "sentenceId": 4767,
       "word": "snow",
       "family": "neutral",
       "start": 52,
@@ -3279,7 +3292,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4750,
+      "sentenceId": 4768,
       "word": "snow",
       "family": "neutral",
       "start": 70,
@@ -3290,7 +3303,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4751,
+      "sentenceId": 4769,
       "word": "snow",
       "family": "neutral",
       "start": 49,
@@ -3301,7 +3314,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4752,
+      "sentenceId": 4770,
       "word": "snow",
       "family": "neutral",
       "start": 125,
@@ -3312,7 +3325,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4753,
+      "sentenceId": 4771,
       "word": "snow",
       "family": "neutral",
       "start": 129,
@@ -3323,7 +3336,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4754,
+      "sentenceId": 4772,
       "word": "snow",
       "family": "neutral",
       "start": 4,
@@ -3334,7 +3347,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4764,
+      "sentenceId": 4782,
       "word": "snow",
       "family": "neutral",
       "start": 34,
@@ -3345,7 +3358,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4764,
+      "sentenceId": 4782,
       "word": "orange",
       "family": "orange",
       "start": 71,
@@ -3356,7 +3369,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4774,
+      "sentenceId": 4792,
       "word": "snow",
       "family": "neutral",
       "start": 66,
@@ -3367,18 +3380,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4775,
+      "sentenceId": 4793,
       "word": "snow",
       "family": "neutral",
       "start": 163,
       "end": 167,
-      "sentence": "He followed gametrails through the firs and in the evening he hiked along the rimrock where he could see the tilted desert to the southwest patched with shapes of snow that roughly reproduced the pat erns of cloud춗 cover already moved on to the south.",
+      "sentence": "He followed gametrails through the firs and in the evening he hiked along the rimrock where he could see the tilted desert to the southwest patched with shapes of snow that roughly reproduced the pat erns of cloud cover already moved on to the south.",
       "tier": "A",
-      "contextAfter": "that roughly reproduced the pat erns of cloud춗 cover already",
+      "contextAfter": "that roughly reproduced the pat erns of cloud cover already",
       "note": ""
     },
     {
-      "sentenceId": 4776,
+      "sentenceId": 4794,
       "word": "blood red",
       "family": "red",
       "start": 82,
@@ -3389,7 +3402,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4777,
+      "sentenceId": 4795,
       "word": "pink",
       "family": "red",
       "start": 145,
@@ -3400,7 +3413,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4777,
+      "sentenceId": 4795,
       "word": "crimson",
       "family": "red",
       "start": 163,
@@ -3411,7 +3424,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4778,
+      "sentenceId": 4796,
       "word": "snow",
       "family": "neutral",
       "start": 69,
@@ -3422,7 +3435,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4788,
+      "sentenceId": 4806,
       "word": "snow",
       "family": "neutral",
       "start": 81,
@@ -3433,7 +3446,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4792,
+      "sentenceId": 4810,
       "word": "blue",
       "family": "blue",
       "start": 76,
@@ -3444,7 +3457,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4792,
+      "sentenceId": 4810,
       "word": "black",
       "family": "neutral",
       "start": 115,
@@ -3455,7 +3468,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4797,
+      "sentenceId": 4815,
       "word": "blue",
       "family": "blue",
       "start": 27,
@@ -3466,7 +3479,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4801,
+      "sentenceId": 4819,
       "word": "snow",
       "family": "neutral",
       "start": 4,
@@ -3477,7 +3490,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4807,
+      "sentenceId": 4825,
       "word": "snow",
       "family": "neutral",
       "start": 12,
@@ -3488,18 +3501,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4825,
+      "sentenceId": 4844,
       "word": "black",
       "family": "neutral",
       "start": 405,
       "end": 410,
-      "sentence": "The solitary pilgrim drawn up before it had traveled far to be here and he knelt in the hot sand and held his numbed hands out while all about inthat circle attended companies of lesser auxiliaries routed forth into the inordinate day, small owls that crouched silently and stood from foot to foot and tarantulas and solpugas and vinegarroons and the vicious mygale spiders and beaded lizards with mouths black as a chowdog's, deadly to man, and the little desert basi isks that춍 jet blood from their eyes and the small sandvipers like seemly gods, silent and the same, in Jeda, in Babylon.",
+      "sentence": "The solitary pilgrim drawn up before it had traveled far to be here and he knelt in the hot sand and held his numbed hands out while all about inthat circle attended companies of lesser auxiliaries routed forth into the inordinate day, small owls that crouched silently and stood from foot to foot and tarantulas and solpugas and vinegarroons and the vicious mygale spiders and beaded lizards with mouths black as a chowdog's, deadly to man, and the little desert basi isks that jet blood from their eyes and the small sandvipers like seemly gods, silent and the same, in Jeda, in Babylon.",
       "tier": "A",
       "contextAfter": "as a chowdog's, deadly to man, and the little desert",
       "note": ""
     },
     {
-      "sentenceId": 4828,
+      "sentenceId": 4847,
       "word": "blue",
       "family": "blue",
       "start": 71,
@@ -3510,18 +3523,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4843,
+      "sentenceId": 4862,
       "word": "green",
       "family": "green",
       "start": 96,
       "end": 101,
-      "sentence": "It was the remains of the scalps taken on the Nacozari and they had been burned unredeemed in a green and stinking bon ire so that nothing remaine춆 d of the poblanos save this charred coagulate of their preterite lives.",
+      "sentence": "It was the remains of the scalps taken on the Nacozari and they had been burned unredeemed in a green and stinking bon ire so that nothing remaine d of the poblanos save this charred coagulate of their preterite lives.",
       "tier": "A",
-      "contextAfter": "and stinking bon ire so that nothing remaine춆 d of",
+      "contextAfter": "and stinking bon ire so that nothing remaine d of",
       "note": ""
     },
     {
-      "sentenceId": 4848,
+      "sentenceId": 4867,
       "word": "black",
       "family": "neutral",
       "start": 76,
@@ -3532,7 +3545,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4885,
+      "sentenceId": 4904,
       "word": "black",
       "family": "neutral",
       "start": 33,
@@ -3543,7 +3556,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4891,
+      "sentenceId": 4910,
       "word": "snow",
       "family": "neutral",
       "start": 115,
@@ -3554,7 +3567,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4905,
+      "sentenceId": 4924,
       "word": "blue",
       "family": "blue",
       "start": 46,
@@ -3565,7 +3578,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4937,
+      "sentenceId": 4956,
       "word": "black",
       "family": "neutral",
       "start": 142,
@@ -3576,7 +3589,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4942,
+      "sentenceId": 4961,
       "word": "gray",
       "family": "neutral",
       "start": 124,
@@ -3587,7 +3600,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4942,
+      "sentenceId": 4961,
       "word": "snow",
       "family": "neutral",
       "start": 179,
@@ -3598,18 +3611,18 @@
       "note": ""
     },
     {
-      "sentenceId": 4944,
+      "sentenceId": 4963,
       "word": "snow",
       "family": "neutral",
       "start": 30,
       "end": 34,
-      "sentence": "The courtyard was dusted with snow and within were contained barnyard fowl and animals?goats, a burro hat clawed and scrabbled blindly at the w뾲 alls as the riders entered.",
+      "sentence": "The courtyard was dusted with snow and within were contained barnyard fowl and animals?goats, a burro hat clawed and scrabbled blindly at the w alls as the riders entered.",
       "tier": "A",
       "contextAfter": "and within were contained barnyard fowl and animals?goats, a burro",
       "note": ""
     },
     {
-      "sentenceId": 4947,
+      "sentenceId": 4966,
       "word": "blue",
       "family": "blue",
       "start": 174,
@@ -3620,7 +3633,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4947,
+      "sentenceId": 4966,
       "word": "brown",
       "family": "neutral",
       "start": 297,
@@ -3631,7 +3644,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4948,
+      "sentenceId": 4967,
       "word": "snow",
       "family": "neutral",
       "start": 28,
@@ -3642,7 +3655,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4956,
+      "sentenceId": 4975,
       "word": "yellow",
       "family": "yellow",
       "start": 64,
@@ -3653,7 +3666,7 @@
       "note": ""
     },
     {
-      "sentenceId": 4969,
+      "sentenceId": 4988,
       "word": "snow",
       "family": "neutral",
       "start": 68,
@@ -3664,7 +3677,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5032,
+      "sentenceId": 5051,
       "word": "white",
       "family": "neutral",
       "start": 19,
@@ -3675,18 +3688,18 @@
       "note": ""
     },
     {
-      "sentenceId": 5040,
+      "sentenceId": 5059,
       "word": "black",
       "family": "neutral",
-      "start": 169,
-      "end": 174,
-      "sentence": "There was no wind and the silence out there was greatly favored by every kind of fugi ive as was the open coun춗 try itself and no mountains close at hand for enemies to black themselves against.",
+      "start": 167,
+      "end": 172,
+      "sentence": "There was no wind and the silence out there was greatly favored by every kind of fugi ive as was the open country itself and no mountains close at hand for enemies to black themselves against.",
       "tier": "A",
       "contextAfter": "themselves against.",
       "note": ""
     },
     {
-      "sentenceId": 5047,
+      "sentenceId": 5066,
       "word": "green",
       "family": "green",
       "start": 79,
@@ -3697,7 +3710,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5047,
+      "sentenceId": 5066,
       "word": "gray",
       "family": "neutral",
       "start": 104,
@@ -3708,7 +3721,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5056,
+      "sentenceId": 5075,
       "word": "green",
       "family": "green",
       "start": 7,
@@ -3719,7 +3732,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5072,
+      "sentenceId": 5091,
       "word": "black",
       "family": "neutral",
       "start": 69,
@@ -3730,7 +3743,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5072,
+      "sentenceId": 5091,
       "word": "black",
       "family": "neutral",
       "start": 89,
@@ -3741,7 +3754,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5078,
+      "sentenceId": 5097,
       "word": "black",
       "family": "neutral",
       "start": 126,
@@ -3752,18 +3765,18 @@
       "note": ""
     },
     {
-      "sentenceId": 5089,
+      "sentenceId": 5108,
       "word": "reddened",
       "family": "red",
       "start": 112,
       "end": 120,
-      "sentence": "Horseblood or any blood a tremor ran that perilous architecture and the ponies stood rigid and quivering in the reddened sun ise춓 and the desert under them hummed like a snaredrum.",
+      "sentence": "Horseblood or any blood a tremor ran that perilous architecture and the ponies stood rigid and quivering in the reddened sun ise and the desert under them hummed like a snaredrum.",
       "tier": "A",
-      "contextAfter": "sun ise춓 and the desert under them hummed like a",
+      "contextAfter": "sun ise and the desert under them hummed like a",
       "note": ""
     },
     {
-      "sentenceId": 5091,
+      "sentenceId": 5110,
       "word": "red",
       "family": "red",
       "start": 246,
@@ -3774,7 +3787,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5110,
+      "sentenceId": 5129,
       "word": "white",
       "family": "neutral",
       "start": 158,
@@ -3785,7 +3798,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5161,
+      "sentenceId": 5180,
       "word": "white",
       "family": "neutral",
       "start": 0,
@@ -3796,7 +3809,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5186,
+      "sentenceId": 5205,
       "word": "steel",
       "family": "neutral",
       "start": 100,
@@ -3807,7 +3820,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5266,
+      "sentenceId": 5285,
       "word": "gray",
       "family": "neutral",
       "start": 18,
@@ -3818,7 +3831,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5427,
+      "sentenceId": 5446,
       "word": "white",
       "family": "neutral",
       "start": 176,
@@ -3829,7 +3842,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5458,
+      "sentenceId": 5477,
       "word": "red",
       "family": "red",
       "start": 409,
@@ -3840,7 +3853,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5477,
+      "sentenceId": 5496,
       "word": "black",
       "family": "neutral",
       "start": 127,
@@ -3851,18 +3864,18 @@
       "note": ""
     },
     {
-      "sentenceId": 5519,
+      "sentenceId": 5538,
       "word": "gray",
       "family": "neutral",
-      "start": 177,
-      "end": 181,
-      "sentence": "They rode on into the darkness and the moonblanched waste lay before them cold and pale and the moon sat in a ring over ead and in that ring lay a mock m춉 oon with its own cold gray and nacre seas.",
+      "start": 175,
+      "end": 179,
+      "sentence": "They rode on into the darkness and the moonblanched waste lay before them cold and pale and the moon sat in a ring over ead and in that ring lay a mock moon with its own cold gray and nacre seas.",
       "tier": "A",
       "contextAfter": "and nacre seas.",
       "note": ""
     },
     {
-      "sentenceId": 5520,
+      "sentenceId": 5539,
       "word": "red",
       "family": "red",
       "start": 219,
@@ -3873,18 +3886,29 @@
       "note": ""
     },
     {
-      "sentenceId": 5554,
+      "sentenceId": 5575,
+      "word": "white",
+      "family": "neutral",
+      "start": 64,
+      "end": 69,
+      "sentence": "Saddletrees eaten bare of their raw ide coverings and weathered white as bone, a light chamfering of miceteeth along the edges of the wood.",
+      "tier": "A",
+      "contextAfter": "as bone, a light chamfering of miceteeth along the edges",
+      "note": ""
+    },
+    {
+      "sentenceId": 5575,
       "word": "bone",
       "family": "neutral",
-      "start": 75,
-      "end": 79,
-      "sentence": "Saddletrees eaten bare of their raw ide coverings and weathered wh춉 ite as bone, a light chamfering of miceteeth along the edges of the wood.",
+      "start": 73,
+      "end": 77,
+      "sentence": "Saddletrees eaten bare of their raw ide coverings and weathered white as bone, a light chamfering of miceteeth along the edges of the wood.",
       "tier": "A",
       "contextAfter": "a light chamfering of miceteeth along the edges of the",
       "note": ""
     },
     {
-      "sentenceId": 5556,
+      "sentenceId": 5577,
       "word": "black",
       "family": "neutral",
       "start": 177,
@@ -3895,18 +3919,18 @@
       "note": ""
     },
     {
-      "sentenceId": 5564,
+      "sentenceId": 5586,
       "word": "bone",
       "family": "neutral",
       "start": 102,
       "end": 106,
-      "sentence": "The mummied corpse hung from the crosstree with its mouth gaped in a raw hole, a thing of leather and bone scoured by the pumice winds off the lake and the pale tree of the ribs show ng through the춊 scraps of hide that hung from the breast.",
+      "sentence": "The mummied corpse hung from the crosstree with its mouth gaped in a raw hole, a thing of leather and bone scoured by the pumice winds off the lake and the pale tree of the ribs show ng through the scraps of hide that hung from the breast.",
       "tier": "A",
       "contextAfter": "scoured by the pumice winds off the lake and the",
       "note": ""
     },
     {
-      "sentenceId": 5569,
+      "sentenceId": 5591,
       "word": "white",
       "family": "neutral",
       "start": 37,
@@ -3917,7 +3941,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5573,
+      "sentenceId": 5595,
       "word": "gray",
       "family": "neutral",
       "start": 41,
@@ -3928,7 +3952,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5573,
+      "sentenceId": 5595,
       "word": "gray",
       "family": "neutral",
       "start": 101,
@@ -3939,7 +3963,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5573,
+      "sentenceId": 5595,
       "word": "gray",
       "family": "neutral",
       "start": 111,
@@ -3950,7 +3974,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5671,
+      "sentenceId": 5694,
       "word": "reddish",
       "family": "red",
       "start": 111,
@@ -3961,7 +3985,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5671,
+      "sentenceId": 5694,
       "word": "black",
       "family": "neutral",
       "start": 119,
@@ -3972,7 +3996,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5671,
+      "sentenceId": 5694,
       "word": "amber",
       "family": "yellow",
       "start": 185,
@@ -3983,7 +4007,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5674,
+      "sentenceId": 5697,
       "word": "black",
       "family": "neutral",
       "start": 28,
@@ -3994,7 +4018,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5680,
+      "sentenceId": 5703,
       "word": "bone",
       "family": "neutral",
       "start": 76,
@@ -4005,7 +4029,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5736,
+      "sentenceId": 5759,
       "word": "red",
       "family": "red",
       "start": 75,
@@ -4016,18 +4040,18 @@
       "note": ""
     },
     {
-      "sentenceId": 5740,
+      "sentenceId": 5763,
       "word": "gray",
       "family": "neutral",
-      "start": 217,
-      "end": 221,
-      "sentence": "The leader was a man named Caballo en Pelo춑 and this old mogul wore a belted wool overcoat that would have served a far colder climate and beneath it a woman's blouse of em roidered silk and a pair of pant춂 aloons of gray cassinette.",
+      "start": 214,
+      "end": 218,
+      "sentence": "The leader was a man named Caballo en Pelo and this old mogul wore a belted wool overcoat that would have served a far colder climate and beneath it a woman's blouse of em roidered silk and a pair of pantaloons of gray cassinette.",
       "tier": "A",
       "contextAfter": "cassinette.",
       "note": ""
     },
     {
-      "sentenceId": 5742,
+      "sentenceId": 5765,
       "word": "bone",
       "family": "neutral",
       "start": 114,
@@ -4038,7 +4062,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5742,
+      "sentenceId": 5765,
       "word": "scarlet",
       "family": "red",
       "start": 189,
@@ -4049,18 +4073,18 @@
       "note": ""
     },
     {
-      "sentenceId": 5743,
+      "sentenceId": 5766,
       "word": "green",
       "family": "green",
-      "start": 76,
-      "end": 81,
-      "sentence": "He was bare ooted and bare of leg and he wore on his fa춆 ce a pair of round green goggles.",
+      "start": 74,
+      "end": 79,
+      "sentence": "He was bare ooted and bare of leg and he wore on his face a pair of round green goggles.",
       "tier": "A",
       "contextAfter": "goggles.",
       "note": ""
     },
     {
-      "sentenceId": 5755,
+      "sentenceId": 5778,
       "word": "black",
       "family": "neutral",
       "start": 150,
@@ -4071,7 +4095,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5761,
+      "sentenceId": 5784,
       "word": "red",
       "family": "red",
       "start": 34,
@@ -4082,7 +4106,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5805,
+      "sentenceId": 5829,
       "word": "black",
       "family": "neutral",
       "start": 133,
@@ -4093,7 +4117,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5816,
+      "sentenceId": 5840,
       "word": "gray",
       "family": "neutral",
       "start": 40,
@@ -4104,18 +4128,18 @@
       "note": ""
     },
     {
-      "sentenceId": 5819,
+      "sentenceId": 5843,
       "word": "blue",
       "family": "blue",
       "start": 27,
       "end": 31,
-      "sentence": "Whenthe idiot crossed that blue and smoky amphi heatre he was naked once again, shambling춗 past the fires like a balden groundsloth.",
+      "sentence": "Whenthe idiot crossed that blue and smoky amphi heatre he was naked once again, shambling past the fires like a balden groundsloth.",
       "tier": "A",
-      "contextAfter": "and smoky amphi heatre he was naked once again, shambling춗",
+      "contextAfter": "and smoky amphi heatre he was naked once again, shambling",
       "note": ""
     },
     {
-      "sentenceId": 5871,
+      "sentenceId": 5895,
       "word": "black",
       "family": "neutral",
       "start": 236,
@@ -4126,7 +4150,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5884,
+      "sentenceId": 5908,
       "word": "blue",
       "family": "blue",
       "start": 192,
@@ -4137,7 +4161,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5885,
+      "sentenceId": 5909,
       "word": "snow",
       "family": "neutral",
       "start": 122,
@@ -4148,7 +4172,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5893,
+      "sentenceId": 5917,
       "word": "black",
       "family": "neutral",
       "start": 358,
@@ -4159,18 +4183,18 @@
       "note": ""
     },
     {
-      "sentenceId": 5916,
+      "sentenceId": 5940,
       "word": "steel",
       "family": "neutral",
       "start": 127,
       "end": 132,
-      "sentence": "There were two platinum bands in the patent breech and the locks and the hammers were chased with scrollwork cut deeply in the steel and there were partridges en raved at either춇 end of the maker's name there.",
+      "sentence": "There were two platinum bands in the patent breech and the locks and the hammers were chased with scrollwork cut deeply in the steel and there were partridges en raved at either end of the maker's name there.",
       "tier": "A",
-      "contextAfter": "and there were partridges en raved at either춇 end of",
+      "contextAfter": "and there were partridges en raved at either end of",
       "note": ""
     },
     {
-      "sentenceId": 5917,
+      "sentenceId": 5941,
       "word": "purple",
       "family": "violet",
       "start": 4,
@@ -4181,7 +4205,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5917,
+      "sentenceId": 5941,
       "word": "steel",
       "family": "neutral",
       "start": 79,
@@ -4192,7 +4216,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5917,
+      "sentenceId": 5941,
       "word": "red",
       "family": "red",
       "start": 228,
@@ -4203,7 +4227,7 @@
       "note": ""
     },
     {
-      "sentenceId": 5920,
+      "sentenceId": 5944,
       "word": "green",
       "family": "green",
       "start": 18,
@@ -4214,7 +4238,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6014,
+      "sentenceId": 6038,
       "word": "gray",
       "family": "neutral",
       "start": 73,
@@ -4225,7 +4249,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6024,
+      "sentenceId": 6048,
       "word": "pale blue",
       "family": "blue",
       "start": 78,
@@ -4236,7 +4260,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6161,
+      "sentenceId": 6186,
       "word": "orange",
       "family": "orange",
       "start": 32,
@@ -4247,7 +4271,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6161,
+      "sentenceId": 6186,
       "word": "black",
       "family": "neutral",
       "start": 57,
@@ -4258,7 +4282,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6161,
+      "sentenceId": 6186,
       "word": "crimson",
       "family": "red",
       "start": 70,
@@ -4269,7 +4293,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6162,
+      "sentenceId": 6187,
       "word": "reddening",
       "family": "red",
       "start": 179,
@@ -4280,7 +4304,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6171,
+      "sentenceId": 6196,
       "word": "red",
       "family": "red",
       "start": 19,
@@ -4291,7 +4315,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6179,
+      "sentenceId": 6204,
       "word": "white",
       "family": "neutral",
       "start": 84,
@@ -4302,7 +4326,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6194,
+      "sentenceId": 6219,
       "word": "bone",
       "family": "neutral",
       "start": 66,
@@ -4313,7 +4337,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6223,
+      "sentenceId": 6248,
       "word": "gray",
       "family": "neutral",
       "start": 26,
@@ -4324,7 +4348,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6265,
+      "sentenceId": 6291,
       "word": "red",
       "family": "red",
       "start": 33,
@@ -4335,7 +4359,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6282,
+      "sentenceId": 6308,
       "word": "pink",
       "family": "red",
       "start": 35,
@@ -4346,7 +4370,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6291,
+      "sentenceId": 6317,
       "word": "pink",
       "family": "red",
       "start": 97,
@@ -4357,7 +4381,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6291,
+      "sentenceId": 6317,
       "word": "white",
       "family": "neutral",
       "start": 106,
@@ -4368,7 +4392,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6317,
+      "sentenceId": 6343,
       "word": "black",
       "family": "neutral",
       "start": 9,
@@ -4379,7 +4403,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6392,
+      "sentenceId": 6418,
       "word": "black",
       "family": "neutral",
       "start": 19,
@@ -4390,7 +4414,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6432,
+      "sentenceId": 6459,
       "word": "white",
       "family": "neutral",
       "start": 17,
@@ -4401,7 +4425,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6501,
+      "sentenceId": 6528,
       "word": "red",
       "family": "red",
       "start": 64,
@@ -4412,7 +4436,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6577,
+      "sentenceId": 6606,
       "word": "bone",
       "family": "neutral",
       "start": 74,
@@ -4423,18 +4447,18 @@
       "note": ""
     },
     {
-      "sentenceId": 6754,
+      "sentenceId": 6784,
       "word": "black",
       "family": "neutral",
       "start": 88,
       "end": 93,
-      "sentence": "With his leashed fool and his equipage and the parasol dipping in the wind like a great black flower he passed among the wreck ge until he was again upo춁 n the slope of the sand esker.",
+      "sentence": "With his leashed fool and his equipage and the parasol dipping in the wind like a great black flower he passed among the wreck ge until he was again upo n the slope of the sand esker.",
       "tier": "A",
       "contextAfter": "flower he passed among the wreck ge until he was",
       "note": ""
     },
     {
-      "sentenceId": 6781,
+      "sentenceId": 6811,
       "word": "auburn",
       "family": "orange",
       "start": 7,
@@ -4445,7 +4469,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6811,
+      "sentenceId": 6841,
       "word": "black",
       "family": "neutral",
       "start": 20,
@@ -4456,7 +4480,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6838,
+      "sentenceId": 6868,
       "word": "snow",
       "family": "neutral",
       "start": 21,
@@ -4467,7 +4491,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6838,
+      "sentenceId": 6868,
       "word": "snow",
       "family": "neutral",
       "start": 82,
@@ -4478,7 +4502,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6839,
+      "sentenceId": 6869,
       "word": "snow",
       "family": "neutral",
       "start": 100,
@@ -4489,7 +4513,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6840,
+      "sentenceId": 6870,
       "word": "white",
       "family": "neutral",
       "start": 74,
@@ -4500,7 +4524,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6841,
+      "sentenceId": 6871,
       "word": "gray",
       "family": "neutral",
       "start": 79,
@@ -4511,7 +4535,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6841,
+      "sentenceId": 6871,
       "word": "snowy",
       "family": "neutral",
       "start": 93,
@@ -4522,7 +4546,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6846,
+      "sentenceId": 6876,
       "word": "blue",
       "family": "blue",
       "start": 149,
@@ -4533,7 +4557,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6847,
+      "sentenceId": 6877,
       "word": "black",
       "family": "neutral",
       "start": 196,
@@ -4544,7 +4568,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6847,
+      "sentenceId": 6877,
       "word": "blue",
       "family": "blue",
       "start": 247,
@@ -4555,7 +4579,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6861,
+      "sentenceId": 6891,
       "word": "black",
       "family": "neutral",
       "start": 42,
@@ -4566,7 +4590,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6867,
+      "sentenceId": 6897,
       "word": "black",
       "family": "neutral",
       "start": 185,
@@ -4577,7 +4601,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6872,
+      "sentenceId": 6902,
       "word": "yellow",
       "family": "yellow",
       "start": 40,
@@ -4588,7 +4612,7 @@
       "note": ""
     },
     {
-      "sentenceId": 6879,
+      "sentenceId": 6909,
       "word": "gray",
       "family": "neutral",
       "start": 28,
@@ -4599,7 +4623,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7033,
+      "sentenceId": 7063,
       "word": "white",
       "family": "neutral",
       "start": 7,
@@ -4610,7 +4634,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7046,
+      "sentenceId": 7076,
       "word": "gray",
       "family": "neutral",
       "start": 142,
@@ -4621,18 +4645,18 @@
       "note": ""
     },
     {
-      "sentenceId": 7065,
+      "sentenceId": 7095,
       "word": "gray",
       "family": "neutral",
-      "start": 56,
-      "end": 60,
-      "sentence": "Return ng to hi춊 s lodging one morning at daybreak in a gray rain he saw a face slobbering in an upper window and he climbed the stairwell and rapped at the door.",
+      "start": 55,
+      "end": 59,
+      "sentence": "Return ng to hi s lodging one morning at daybreak in a gray rain he saw a face slobbering in an upper window and he climbed the stairwell and rapped at the door.",
       "tier": "A",
       "contextAfter": "rain he saw a face slobbering in an upper window",
       "note": ""
     },
     {
-      "sentenceId": 7084,
+      "sentenceId": 7114,
       "word": "yellow",
       "family": "yellow",
       "start": 136,
@@ -4643,7 +4667,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7086,
+      "sentenceId": 7116,
       "word": "black",
       "family": "neutral",
       "start": 401,
@@ -4654,29 +4678,29 @@
       "note": ""
     },
     {
-      "sentenceId": 7096,
+      "sentenceId": 7126,
       "word": "black",
       "family": "neutral",
       "start": 132,
       "end": 137,
-      "sentence": "They were led by a pitero piping a reed and then in procession a clanging of tambourines and matracas and men naked to the waist in black capes and hoods who flailed them elves with춖 whips of braided yucca and men who bore on their naked backs great loads of cholla and a man tied to a rope who was pulled this way and that by his companions and a hooded man in a white robe who bore a heavy wooden cross on his shoulders.",
+      "sentence": "They were led by a pitero piping a reed and then in procession a clanging of tambourines and matracas and men naked to the waist in black capes and hoods who flailed them elves with whips of braided yucca and men who bore on their naked backs great loads of cholla and a man tied to a rope who was pulled this way and that by his companions and a hooded man in a white robe who bore a heavy wooden cross on his shoulders.",
       "tier": "A",
-      "contextAfter": "capes and hoods who flailed them elves with춖 whips of",
+      "contextAfter": "capes and hoods who flailed them elves with whips of",
       "note": ""
     },
     {
-      "sentenceId": 7096,
+      "sentenceId": 7126,
       "word": "white",
       "family": "neutral",
-      "start": 364,
-      "end": 369,
-      "sentence": "They were led by a pitero piping a reed and then in procession a clanging of tambourines and matracas and men naked to the waist in black capes and hoods who flailed them elves with춖 whips of braided yucca and men who bore on their naked backs great loads of cholla and a man tied to a rope who was pulled this way and that by his companions and a hooded man in a white robe who bore a heavy wooden cross on his shoulders.",
+      "start": 363,
+      "end": 368,
+      "sentence": "They were led by a pitero piping a reed and then in procession a clanging of tambourines and matracas and men naked to the waist in black capes and hoods who flailed them elves with whips of braided yucca and men who bore on their naked backs great loads of cholla and a man tied to a rope who was pulled this way and that by his companions and a hooded man in a white robe who bore a heavy wooden cross on his shoulders.",
       "tier": "A",
       "contextAfter": "robe who bore a heavy wooden cross on his shoulders.",
       "note": ""
     },
     {
-      "sentenceId": 7113,
+      "sentenceId": 7145,
       "word": "gray",
       "family": "neutral",
       "start": 34,
@@ -4687,7 +4711,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7129,
+      "sentenceId": 7161,
       "word": "black",
       "family": "neutral",
       "start": 152,
@@ -4698,29 +4722,29 @@
       "note": ""
     },
     {
-      "sentenceId": 7133,
+      "sentenceId": 7165,
       "word": "yellow",
       "family": "yellow",
       "start": 623,
       "end": 629,
-      "sentence": "It was an old hunter in camp and the hunter shared tobacco with him and told him of the buffalo and the stands he'd made against them, laid up in asag on some rise with the dead animals scattered over the grounds and the herd beginning to mill and the riflebarrel so hot the wiping patches sizzled in the bore and the animals by the thousands and tens of thousands and the hides pegged out over actual square miles of ground and the teams of skinners spelling one another around the clock and the shooting and shooting weeks and months till the bore shot slick and the stock shot loose at the tang and their shoulders were yellow and blue to the elbow and the tandem wagons groaned away over the prairie twenty and twenty-two ox teams and the flint hides by the ton and hundred ton and the meat rotting on the ground and the air whining with flies and the buzzards and ravens and the night a horror of snarling and feed ng with the wolves half crazed and wallowing in the carrion.춊 I seen Studebaker wagons with six and eight ox teams headed out for the grounds not haulin a thing but lead.",
+      "sentence": "It was an old hunter in camp and the hunter shared tobacco with him and told him of the buffalo and the stands he'd made against them, laid up in asag on some rise with the dead animals scattered over the grounds and the herd beginning to mill and the riflebarrel so hot the wiping patches sizzled in the bore and the animals by the thousands and tens of thousands and the hides pegged out over actual square miles of ground and the teams of skinners spelling one another around the clock and the shooting and shooting weeks and months till the bore shot slick and the stock shot loose at the tang and their shoulders were yellow and blue to the elbow and the tandem wagons groaned away over the prairie twenty and twenty-two ox teams and the flint hides by the ton and hundred ton and the meat rotting on the ground and the air whining with flies and the buzzards and ravens and the night a horror of snarling and feed ng with the wolves half crazed and wallowing in the carrion.",
       "tier": "A",
       "contextAfter": "and blue to the elbow and the tandem wagons groaned",
       "note": ""
     },
     {
-      "sentenceId": 7133,
+      "sentenceId": 7165,
       "word": "blue",
       "family": "blue",
       "start": 634,
       "end": 638,
-      "sentence": "It was an old hunter in camp and the hunter shared tobacco with him and told him of the buffalo and the stands he'd made against them, laid up in asag on some rise with the dead animals scattered over the grounds and the herd beginning to mill and the riflebarrel so hot the wiping patches sizzled in the bore and the animals by the thousands and tens of thousands and the hides pegged out over actual square miles of ground and the teams of skinners spelling one another around the clock and the shooting and shooting weeks and months till the bore shot slick and the stock shot loose at the tang and their shoulders were yellow and blue to the elbow and the tandem wagons groaned away over the prairie twenty and twenty-two ox teams and the flint hides by the ton and hundred ton and the meat rotting on the ground and the air whining with flies and the buzzards and ravens and the night a horror of snarling and feed ng with the wolves half crazed and wallowing in the carrion.춊 I seen Studebaker wagons with six and eight ox teams headed out for the grounds not haulin a thing but lead.",
+      "sentence": "It was an old hunter in camp and the hunter shared tobacco with him and told him of the buffalo and the stands he'd made against them, laid up in asag on some rise with the dead animals scattered over the grounds and the herd beginning to mill and the riflebarrel so hot the wiping patches sizzled in the bore and the animals by the thousands and tens of thousands and the hides pegged out over actual square miles of ground and the teams of skinners spelling one another around the clock and the shooting and shooting weeks and months till the bore shot slick and the stock shot loose at the tang and their shoulders were yellow and blue to the elbow and the tandem wagons groaned away over the prairie twenty and twenty-two ox teams and the flint hides by the ton and hundred ton and the meat rotting on the ground and the air whining with flies and the buzzards and ravens and the night a horror of snarling and feed ng with the wolves half crazed and wallowing in the carrion.",
       "tier": "A",
       "contextAfter": "to the elbow and the tandem wagons groaned away over",
       "note": ""
     },
     {
-      "sentenceId": 7150,
+      "sentenceId": 7183,
       "word": "black",
       "family": "neutral",
       "start": 59,
@@ -4731,7 +4755,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7170,
+      "sentenceId": 7203,
       "word": "green",
       "family": "green",
       "start": 111,
@@ -4742,7 +4766,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7219,
+      "sentenceId": 7253,
       "word": "black",
       "family": "neutral",
       "start": 20,
@@ -4753,7 +4777,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7242,
+      "sentenceId": 7276,
       "word": "black",
       "family": "neutral",
       "start": 23,
@@ -4764,7 +4788,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7301,
+      "sentenceId": 7335,
       "word": "red",
       "family": "red",
       "start": 187,
@@ -4775,7 +4799,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7316,
+      "sentenceId": 7350,
       "word": "gray",
       "family": "neutral",
       "start": 7,
@@ -4786,7 +4810,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7348,
+      "sentenceId": 7382,
       "word": "red",
       "family": "red",
       "start": 186,
@@ -4797,7 +4821,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7369,
+      "sentenceId": 7403,
       "word": "yellow",
       "family": "yellow",
       "start": 45,
@@ -4808,7 +4832,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7405,
+      "sentenceId": 7439,
       "word": "yellow",
       "family": "yellow",
       "start": 66,
@@ -4819,7 +4843,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7428,
+      "sentenceId": 7463,
       "word": "blackness",
       "family": "neutral",
       "start": 29,
@@ -4830,7 +4854,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7593,
+      "sentenceId": 7629,
       "word": "green",
       "family": "green",
       "start": 37,
@@ -4841,18 +4865,18 @@
       "note": ""
     },
     {
-      "sentenceId": 7660,
+      "sentenceId": 7697,
       "word": "blue",
       "family": "blue",
-      "start": 143,
-      "end": 147,
-      "sentence": "She wore nothing but a pair of men's drawers and some of her sisters were like ise clad in w춛 hat appeared to be trophies ats or pantaloons or blue twill cavalry jackets.",
+      "start": 141,
+      "end": 145,
+      "sentence": "She wore nothing but a pair of men's drawers and some of her sisters were like ise clad in what appeared to be trophies ats or pantaloons or blue twill cavalry jackets.",
       "tier": "A",
       "contextAfter": "twill cavalry jackets.",
       "note": ""
     },
     {
-      "sentenceId": 7676,
+      "sentenceId": 7713,
       "word": "steel",
       "family": "neutral",
       "start": 117,
@@ -4863,7 +4887,7 @@
       "note": ""
     },
     {
-      "sentenceId": 7678,
+      "sentenceId": 7715,
       "word": "steel",
       "family": "neutral",
       "start": 46,
